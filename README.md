@@ -2,7 +2,7 @@
 
 This repository demonstrates a non-invasive voice accessibility layer attached to [Nicky Case's Adventures With Anxiety](https://ncase.me/anxiety/). The original game remains authoritative: the layer observes its rendered dialogue and currently valid choices, narrates them, sends microphone audio to Vocal Bridge for speech-to-text, deterministically matches the transcript, and clicks the original game control.
 
-This is a reference demo for the [Voice Accessibility SDK](https://github.com/tanmaykalla/voice-rpg), not an official edition of the game.
+This is a fan-made reference demo for the [Voice Accessibility SDK](https://github.com/tanmaykalla/voice-rpg), not an official edition of the game. The maintainer of this repository does **not** own or claim authorship of *Adventures With Anxiety*.
 
 ## Architecture
 
@@ -17,6 +17,8 @@ Observer HUD <- transcript, selected choice, STT latency, match latency
 ```
 
 Vocal Bridge is the only STT path in this demo. Browser `SpeechRecognition` is not used as a fallback. TTS first uses reviewed files from `audio-manifest.js`; missing files fall back to the browser's speech synthesizer.
+
+Vocal Bridge is replaceable: another integration can use the browser Web Speech APIs for both STT (`SpeechRecognition`, where supported) and TTS (`speechSynthesis`) by supplying browser provider adapters instead. The game-to-voice architecture and deterministic choice matcher remain the same.
 
 ## Run locally
 
@@ -52,6 +54,12 @@ npm test
 
 ## Credits and licensing
 
-The original game's art, code, writing, and music are dedicated to the public domain under CC0 by Nicky Case and Monplaisir; see [LICENSE.txt](LICENSE.txt) and [UPSTREAM-README.md](UPSTREAM-README.md). The upstream credits also identify third-party sounds and a small number of copyrighted parody clips. Provider SDKs and services retain their own terms.
+All credit for the original game goes to its creators:
+
+- **Nicky Case** — art, code, and writing
+- **Monplaisir** — music
+- **Spacie** — additional code
+
+The original creators dedicated their work for the game to the public domain under CC0; see [LICENSE.txt](LICENSE.txt), the preserved [upstream README and full credits](UPSTREAM-README.md), and the [official game](https://ncase.me/anxiety/). The upstream credits also identify third-party sounds and a small number of copyrighted parody clips. Provider SDKs and services retain their own terms.
 
 Voice accessibility modifications in this demo are also released under CC0.
