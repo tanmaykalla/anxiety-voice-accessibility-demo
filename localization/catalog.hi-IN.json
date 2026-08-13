@@ -10678,6 +10678,2382 @@
       "adaptationNote": "Translated 'YAP YAP' to 'भौं भौं' (bhaun bhaun), which is the natural onomatopoeia for a dog barking in Hindi.",
       "provider": "gemini",
       "model": "gemini-3.5-flash"
+    },
+    "intro-choice-6bda517cff5b": {
+      "sourceText": "(content notes)",
+      "text": "(कंटेंट नोट्स)",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "(कंटेंट नोट्स)",
+      "aliases": [
+        "कंटेंट नोट्स",
+        "content notes",
+        "नोट्स"
+      ],
+      "sourceHash": "de7b72b8",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-856bbc6bdde8": {
+      "sourceText": "I. The Sandwich",
+      "text": "I. सैंडविच",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "सैंडविच",
+      "aliases": [
+        "सैंडविच",
+        "sandwich",
+        "पहला"
+      ],
+      "sourceHash": "70c43e1a",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-08f079af65d9": {
+      "sourceText": "II. The Party",
+      "text": "II. पार्टी",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "पार्टी",
+      "aliases": [
+        "पार्टी",
+        "party",
+        "दूसरा"
+      ],
+      "sourceHash": "8415d620",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-5a75b74d2b75": {
+      "sourceText": "(main menu)",
+      "text": "(मेन मेनू)",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "(मेन मेनू)",
+      "aliases": [
+        "मेन मेनू",
+        "main menu",
+        "मेनू"
+      ],
+      "sourceHash": "e3b05c70",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-35deb0c37891": {
+      "sourceText": "...is gonna torture us again!",
+      "text": "...हमें फिर से टॉर्चर करने वाला है!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हमें फिर से टॉर्चर करने वाला है",
+      "aliases": [
+        "टॉर्चर करने वाला है",
+        "फिर से टॉर्चर",
+        "torture"
+      ],
+      "sourceHash": "ca94addc",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-ffe81b48aa15": {
+      "sourceText": "...won't find an alternate ending!",
+      "text": "...कोई अल्टरनेट एंडिंग नहीं ढूंढ पाएगा!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "कोई अल्टरनेट एंडिंग नहीं ढूंढ पाएगा",
+      "aliases": [
+        "अल्टरनेट एंडिंग",
+        "alternate ending",
+        "अंत"
+      ],
+      "sourceHash": "74f08798",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-42b250206d59": {
+      "sourceText": "...will get ludonarrative dissonance!",
+      "text": "...को लूडोनरेटिव डिसोनेंस हो जाएगा!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "को लूडोनरेटिव डिसोनेंस हो जाएगा",
+      "aliases": [
+        "लूडोनरेटिव डिसोनेंस",
+        "ludonarrative dissonance",
+        "डिसोनेंस"
+      ],
+      "sourceHash": "194e0043",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-dbe371c5dfe1": {
+      "sourceText": "We're eating alone for lunch! Again!",
+      "text": "हम फिर से अकेले लंच कर रहे हैं! दोबारा!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हम फिर से अकेले लंच कर रहे हैं दोबारा",
+      "aliases": [
+        "अकेले लंच",
+        "lunch alone",
+        "अकेले खाना"
+      ],
+      "sourceHash": "7c6a82f7",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-e8704e17826f": {
+      "sourceText": "We're not productive while eating!",
+      "text": "खाते समय हम बिल्कुल प्रोडक्टिव नहीं होते!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "खाते समय हम बिल्कुल प्रोडक्टिव नहीं होते",
+      "aliases": [
+        "प्रोडक्टिव नहीं",
+        "not productive",
+        "खाते समय"
+      ],
+      "sourceHash": "c99dcc3f",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-1761ced16f8e": {
+      "sourceText": "That white bread's bad for us!",
+      "text": "वह व्हाइट ब्रेड हमारे लिए खराब है!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "वह व्हाइट ब्रेड हमारे लिए खराब है",
+      "aliases": [
+        "व्हाइट ब्रेड",
+        "white bread",
+        "ब्रेड खराब है"
+      ],
+      "sourceHash": "713306d0",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-e42259c86ecb": {
+      "sourceText": "Say yes, or we'll die from loneliness!",
+      "text": "हाँ कहो, नहीं तो हम अकेलेपन से मर जाएंगे!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हाँ कहो नहीं तो हम अकेलेपन से मर जाएंगे",
+      "aliases": [
+        "हाँ कहो",
+        "say yes",
+        "अकेलेपन से मर जाएंगे"
+      ],
+      "sourceHash": "3d885a9a",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-51172330874a": {
+      "sourceText": "Say no, it's full of poisonous drugs!",
+      "text": "ना कहो, इसमें ज़हरीले ड्रग्स हैं!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "ना कहो इसमें ज़हरीले ड्रग्स हैं",
+      "aliases": [
+        "ना कहो",
+        "say no",
+        "ज़हरीले ड्रग्स"
+      ],
+      "sourceHash": "abb77b5b",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-e96e525744a5": {
+      "sourceText": "Ignore it, we just make parties sad.",
+      "text": "इग्नोर करो, हम बस पार्टियों को उदास कर देते हैं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "इग्नोर करो हम बस पार्टियों को उदास कर देते हैं",
+      "aliases": [
+        "इग्नोर करो",
+        "ignore it",
+        "पार्टियों को उदास"
+      ],
+      "sourceHash": "c67d6aa4",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-3599b29d6859": {
+      "sourceText": "Oh no, look at that horrible news story!",
+      "text": "अरे नहीं, वह भयानक खबर देखो!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "अरे नहीं वह भयानक खबर देखो",
+      "aliases": [
+        "भयानक खबर",
+        "news story",
+        "अरे नहीं"
+      ],
+      "sourceHash": "ba5a890a",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-63c1d7830220": {
+      "sourceText": "Oh no, is that tweet secretly about us?",
+      "text": "अरे नहीं, क्या वह ट्वीट हमारे ही बारे में है?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "अरे नहीं क्या वह ट्वीट हमारे ही बारे में है",
+      "aliases": [
+        "ट्वीट",
+        "tweet",
+        "हमारे बारे में"
+      ],
+      "sourceHash": "ccf90ebe",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-90ea61694d07": {
+      "sourceText": "Hey, a GIF of a cat drinking milk",
+      "text": "अरे देखो, दूध पीती बिल्ली का GIF",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "अरे देखो दूध पीती बिल्ली का जिफ़",
+      "aliases": [
+        "बिल्ली का जिफ़",
+        "cat gif",
+        "जिफ़"
+      ],
+      "sourceHash": "bf66e6ed",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-a5dbb1559461": {
+      "sourceText": "Change our answer? Like a jerk?!",
+      "text": "अपना जवाब बदलें? किसी बदतमीज़ की तरह?!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "अपना जवाब बदलें किसी बदतमीज़ की तरह",
+      "aliases": [
+        "जवाब बदलें",
+        "change answer",
+        "बदतमीज़ की तरह"
+      ],
+      "sourceHash": "782d3904",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-b00ad5138295": {
+      "sourceText": "Change our answer! It's too crowded!",
+      "text": "अपना जवाब बदलो! वहाँ बहुत भीड़ है!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "अपना जवाब बदलो वहाँ बहुत भीड़ है",
+      "aliases": [
+        "जवाब बदलो",
+        "बहुत भीड़ है",
+        "change answer"
+      ],
+      "sourceHash": "9bc03ea4",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-2e3de69110ec": {
+      "sourceText": "Change our answer? Like a jerk?!",
+      "text": "अपना जवाब बदलें? किसी बदतमीज़ की तरह?!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "अपना जवाब बदलें किसी बदतमीज़ की तरह",
+      "aliases": [
+        "जवाब बदलें",
+        "change answer",
+        "बदतमीज़ की तरह"
+      ],
+      "sourceHash": "782d3904",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-5130d49edcc1": {
+      "sourceText": "Change our answer! Don't die alone!",
+      "text": "अपना जवाब बदलो! अकेले नहीं मरना!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "अपना जवाब बदलो अकेले नहीं मरना",
+      "aliases": [
+        "जवाब बदलो",
+        "अकेले मत मरो",
+        "change answer"
+      ],
+      "sourceHash": "573f3f74",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-15da1ea3fd4d": {
+      "sourceText": "Keep ignoring, we're still party poopers.",
+      "text": "नज़रअंदाज़ करते रहो, हम अभी भी मज़ा खराब करने वाले ही हैं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "नज़रअंदाज़ करते रहो, हम अभी भी मज़ा खराब करने वाले ही हैं।",
+      "aliases": [
+        "नज़रअंदाज़ करो",
+        "ignore करो",
+        "ignore",
+        "मज़ा खराब"
+      ],
+      "sourceHash": "97516b07",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "party poopers adapted to मज़ा खराब करने वाले ही हैं (people who ruin the fun) to sound natural in Hindi.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-dc40f722ab12": {
+      "sourceText": "Actually, say yes.",
+      "text": "वैसे, हाँ कह दो।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "वैसे, हाँ कह दो।",
+      "aliases": [
+        "हाँ कहो",
+        "हाँ",
+        "yes",
+        "say yes"
+      ],
+      "sourceHash": "d18a1784",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-ad27f561e0d7": {
+      "sourceText": "Actually, say no.",
+      "text": "वैसे, ना कह दो।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "वैसे, ना कह दो।",
+      "aliases": [
+        "ना कहो",
+        "ना",
+        "no",
+        "say no"
+      ],
+      "sourceHash": "49afbbb0",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-025ffa46791a": {
+      "sourceText": "We're being used by other people.",
+      "text": "दूसरे लोग हमारा इस्तेमाल कर रहे हैं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "दूसरे लोग हमारा इस्तेमाल कर रहे हैं।",
+      "aliases": [
+        "हमारा इस्तेमाल",
+        "इस्तेमाल",
+        "used"
+      ],
+      "sourceHash": "7cb1e033",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-8e5f21f52073": {
+      "sourceText": "We're just using other people.",
+      "text": "हम बस दूसरे लोगों का इस्तेमाल कर रहे हैं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हम बस दूसरे लोगों का इस्तेमाल कर रहे हैं।",
+      "aliases": [
+        "हम इस्तेमाल",
+        "दूसरों का इस्तेमाल",
+        "using others"
+      ],
+      "sourceHash": "a453d2f8",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-56ce79c35d73": {
+      "sourceText": "YOUR MATCH IS A SERIAL KILLER",
+      "text": "तुम्हारा मैच एक सीरियल किलर है",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "तुम्हारा मैच एक सीरियल किलर है",
+      "aliases": [
+        "सीरियल किलर",
+        "serial killer",
+        "मैच सीरियल किलर"
+      ],
+      "sourceHash": "77ce2801",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-bd5c6cb3532c": {
+      "sourceText": "We should go.",
+      "text": "हमें चलना चाहिए।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हमें चलना चाहिए।",
+      "aliases": [
+        "चलना चाहिए",
+        "चलो",
+        "go",
+        "let's go"
+      ],
+      "sourceHash": "1b449f28",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-4769fe593254": {
+      "sourceText": "We should not go.",
+      "text": "हमें नहीं जाना चाहिए।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हमें नहीं जाना चाहिए।",
+      "aliases": [
+        "नहीं जाना",
+        "मत जाओ",
+        "don't go"
+      ],
+      "sourceHash": "12467305",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-8199dac0f2c9": {
+      "sourceText": "AHHHH WE'RE GONNA DIE",
+      "text": "आह्ह्ह हम मरने वाले हैं",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "आह्ह्ह हम मरने वाले हैं",
+      "aliases": [
+        "मरने वाले हैं",
+        "हम मरेंगे",
+        "die"
+      ],
+      "sourceHash": "a59f680b",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-fd1faa33a0c1": {
+      "sourceText": "AHHHH EVERYONE HATES US",
+      "text": "आह्ह्ह सब हमसे नफ़रत करते हैं",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "आह्ह्ह सब हमसे नफ़रत करते हैं",
+      "aliases": [
+        "सब नफ़रत करते हैं",
+        "नफ़रत",
+        "hate us"
+      ],
+      "sourceHash": "d868a014",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-f42ac3e86003": {
+      "sourceText": "AHHHH WE'RE HORRIBLE PEOPLE",
+      "text": "आह्ह्ह हम बहुत बुरे लोग हैं",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "आह्ह्ह हम बहुत बुरे लोग हैं",
+      "aliases": [
+        "बुरे लोग",
+        "हम बुरे हैं",
+        "horrible people"
+      ],
+      "sourceHash": "f1cb6480",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-46cbef60cdfd": {
+      "sourceText": "{FIGHT: Punish your stressful phone!}",
+      "text": "{लड़ो: अपने तनाव देने वाले फ़ोन को सज़ा दो!}",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "{लड़ो: अपने तनाव देने वाले फ़ोन को सज़ा दो!}",
+      "aliases": [
+        "फ़ोन को सज़ा दो",
+        "लड़ो",
+        "fight",
+        "punish phone"
+      ],
+      "sourceHash": "856a52ef",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-fd6066449dfa": {
+      "sourceText": "{FLIGHT: Curl up in a ball and cry!}",
+      "text": "{भागो: सिमट कर बैठ जाओ और रोओ!}",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "{भागो: सिमट कर बैठ जाओ और रोओ!}",
+      "aliases": [
+        "रोओ",
+        "भागो",
+        "cry",
+        "flight"
+      ],
+      "sourceHash": "c73a8ddd",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Curl up in a ball adapted to 'सिमट कर बैठ जाओ' (sit huddled/curled up) to sound natural in Hindi.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-9fdd6b55f15b": {
+      "sourceText": "Oh no they all hate us!",
+      "text": "अरे नहीं, वे सब हमसे नफ़रत करते हैं!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "अरे नहीं, वे सब हमसे नफ़रत करते हैं!",
+      "aliases": [
+        "सब नफ़रत करते हैं",
+        "नफ़रत",
+        "hate us"
+      ],
+      "sourceHash": "6a2065ad",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-3ded59a7081c": {
+      "sourceText": "Were you ogling the redhead?",
+      "text": "क्या तुम उस लाल बालों वाली को ताड़ रहे थे?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "क्या तुम उस लाल बालों वाली को ताड़ रहे थे?",
+      "aliases": [
+        "ताड़ रहे थे",
+        "लाल बाल",
+        "ogling"
+      ],
+      "sourceHash": "fe8d2894",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "ogling translated to 'ताड़ रहे थे' (colloquial Hindi for staring/ogling) and 'redhead' to 'लाल बालों वाली' (red-haired female).",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-deaeb6dfc57e": {
+      "sourceText": "Hey, let's talk about the meaning of life.",
+      "text": "अरे, चलो ज़िंदगी के मायने पर बात करते हैं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "अरे, चलो ज़िंदगी के मायने पर बात करते हैं।",
+      "aliases": [
+        "ज़िंदगी के मायने",
+        "जीवन का अर्थ",
+        "meaning of life"
+      ],
+      "sourceHash": "1414bcea",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-0d92bf83fc36": {
+      "sourceText": "More of the same danger!",
+      "text": "वही पुराना ख़तरा फिर से!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "वही पुराना ख़तरा फिर से!",
+      "aliases": [
+        "वही ख़तरा",
+        "ख़तरा",
+        "danger"
+      ],
+      "sourceHash": "1a7a83e0",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-6d59694a1a28": {
+      "sourceText": "You're ignoring danger! That's dangerous!",
+      "text": "तुम ख़तरे को नज़रअंदाज़ कर रहे हो! यह ख़तरनाक है!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "तुम ख़तरे को नज़रअंदाज़ कर रहे हो! यह ख़तरनाक है!",
+      "aliases": [
+        "ख़तरनाक है",
+        "नज़रअंदाज़",
+        "dangerous"
+      ],
+      "sourceHash": "5f4f4921",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-091855c2d62b": {
+      "sourceText": "Did you check that punch before drinking?",
+      "text": "क्या तुमने पीने से पहले उस पंच को चेक किया था?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "क्या तुमने पीने से पहले उस पंच को चेक किया था?",
+      "aliases": [
+        "पंच चेक किया",
+        "पीने से पहले",
+        "check punch"
+      ],
+      "sourceHash": "c35014fa",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-edc6e8617518": {
+      "sourceText": "Golly, that's so narcissistic!",
+      "text": "हे भगवान, यह तो बहुत आत्ममुग्धता है!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हे भगवान, यह तो बहुत आत्ममुग्धता है!",
+      "aliases": [
+        "आत्ममुग्धता",
+        "narcissistic",
+        "आत्ममुग्ध"
+      ],
+      "sourceHash": "977b7cd7",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Golly adapted to 'हे भगवान' (Oh God) and 'narcissistic' to 'आत्ममुग्धता' (self-obsession) to maintain conversational flow.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-ed087b772953": {
+      "sourceText": "Y'know affirmations were disproven?",
+      "text": "तुम्हें पता है न कि अफ़र्मेशन्स ग़लत साबित हो चुके हैं?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "तुम्हें पता है न कि अफ़र्मेशन्स ग़लत साबित हो चुके हैं?",
+      "aliases": [
+        "अफ़र्मेशन्स ग़लत हैं",
+        "affirmations are wrong",
+        "affirmations disproven"
+      ],
+      "sourceHash": "19783679",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Used the English loanword 'affirmations' written in Devanagari (अफ़र्मेशन्स) as it is widely understood in YA mental health contexts in India.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-6e39fefdbeed": {
+      "sourceText": "omg don't credit random stories to indigenous folk",
+      "text": "हे भगवान, कोई भी मनगढ़ंत कहानियाँ आदिवासियों के नाम मत मढ़ो",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हे भगवान, कोई भी मनगढ़ंत कहानियाँ आदिवासियों के नाम मत मढ़ो",
+      "aliases": [
+        "आदिवासियों के नाम मत मढ़ो",
+        "don't credit indigenous",
+        "कहानियाँ मत मढ़ो"
+      ],
+      "sourceHash": "86cc3e7b",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Translated 'indigenous folk' to 'आदिवासी' (Adivasi), which is the standard and respectful term in India. 'omg' translated to 'हे भगवान'.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-cf86f158cfe2": {
+      "sourceText": "Jeez, human. That's really hurtful.",
+      "text": "हे भगवान, इंसान। यह सच में बहुत दुख पहुँचाने वाला है।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हे भगवान, इंसान। यह सच में बहुत दुख पहुँचाने वाला है।",
+      "aliases": [
+        "यह बहुत दुखदायी है",
+        "hurtful",
+        "इंसान यह दुखद है"
+      ],
+      "sourceHash": "bc3657fe",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-9b9f90eb128a": {
+      "sourceText": "I'm a feeling. Feelings are valid.",
+      "text": "मैं एक भावना हूँ। और भावनाएँ जायज़ होती हैं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मैं एक भावना हूँ। और भावनाएँ जायज़ होती हैं।",
+      "aliases": [
+        "भावनाएँ जायज़ होती हैं",
+        "feelings are valid",
+        "मैं भावना हूँ"
+      ],
+      "sourceHash": "a98dcb90",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-c1e9edba51c6": {
+      "sourceText": "Human, we're both \"just chemicals.\"",
+      "text": "इंसान, हम दोनों ही \"सिर्फ केमिकल्स\" हैं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "इंसान, हम दोनों ही सिर्फ केमिकल्स हैं।",
+      "aliases": [
+        "सिर्फ केमिकल्स",
+        "just chemicals",
+        "हम सिर्फ केमिकल्स हैं"
+      ],
+      "sourceHash": "29e38966",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Kept 'chemicals' as 'केमिकल्स' in Devanagari as it sounds more natural in conversational Hindi than 'रसायन'.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-82454d1c4ef0": {
+      "sourceText": "Oh my God.",
+      "text": "हे भगवान।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हे भगवान।",
+      "aliases": [
+        "ओह माय गॉड",
+        "oh my god",
+        "हे भगवान"
+      ],
+      "sourceHash": "e2e1f45a",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-efe28e3e509d": {
+      "sourceText": "This is a bad coping mechanism.",
+      "text": "यह निपटने का बहुत बुरा तरीक़ा है।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "यह निपटने का बहुत बुरा तरीक़ा है।",
+      "aliases": [
+        "बुरा तरीक़ा है",
+        "bad coping",
+        "यह सही नहीं है"
+      ],
+      "sourceHash": "60048438",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Translated 'coping mechanism' to 'निपटने का तरीक़ा' (way of dealing/coping) to keep it natural and conversational.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-ff2c8d741f92": {
+      "sourceText": "Don't take drinks from strangers.",
+      "text": "अजनबियों से लेकर कुछ मत पिया करो।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "अजनबियों से लेकर कुछ मत पिया करो।",
+      "aliases": [
+        "अजनबियों से ड्रिंक मत लो",
+        "don't take drinks",
+        "अजनबियों से मत लो"
+      ],
+      "sourceHash": "1047dce8",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-7dc67465fe98": {
+      "sourceText": "This is actually how addiction starts.",
+      "text": "असल में लत इसी तरह शुरू होती है।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "असल में लत इसी तरह शुरू होती है।",
+      "aliases": [
+        "लत ऐसे ही लगती है",
+        "how addiction starts",
+        "लत की शुरुआत"
+      ],
+      "sourceHash": "df79ccd0",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-ff1f86778717": {
+      "sourceText": "I knew the host was deeply messed up!",
+      "text": "मुझे पता था कि होस्ट का दिमाग़ पूरी तरह से ख़राब है!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे पता था कि होस्ट का दिमाग़ पूरी तरह से ख़राब है!",
+      "aliases": [
+        "होस्ट ख़राब है",
+        "host is messed up",
+        "होस्ट पागल है"
+      ],
+      "sourceHash": "e5adae1b",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Used 'होस्ट' (host) as it is a common loanword in Hindi. 'messed up' is translated colloquially as 'दिमाग़ पूरी तरह से ख़राब है'.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-e35b1362270b": {
+      "sourceText": "Also, they could have drugged that!",
+      "text": "और, उन्होंने उसमें नशा भी मिलाया हो सकता है!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "और, उन्होंने उसमें नशा भी मिलाया हो सकता है!",
+      "aliases": [
+        "नशा मिलाया हो सकता है",
+        "could have drugged",
+        "उसमें नशा हो सकता है"
+      ],
+      "sourceHash": "a173e74f",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Translated 'drugged that' to 'नशा मिलाया हो सकता है' (could have mixed intoxicants/drugs in it) for natural flow.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-537443d7cec3": {
+      "sourceText": "{FIGHT: Punch the host.}",
+      "text": "{लड़ो: होस्ट को मुक्का मारो।}",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "लड़ो: होस्ट को मुक्का मारो।",
+      "aliases": [
+        "मुक्का मारो",
+        "punch host",
+        "होस्ट को मारो"
+      ],
+      "sourceHash": "898ca062",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-9491fbba5fe1": {
+      "sourceText": "{FLIGHT: Let's get out of here.}",
+      "text": "{भागो: चलो यहाँ से बाहर निकलें।}",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "भागो: चलो यहाँ से बाहर निकलें।",
+      "aliases": [
+        "यहाँ से भागो",
+        "get out of here",
+        "चलो चलें"
+      ],
+      "sourceHash": "99fcf8f3",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-6d71e450b912": {
+      "sourceText": "Human, you could actually DIE here!",
+      "text": "इंसान, तुम सच में यहाँ मर सकते हो!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "इंसान, तुम सच में यहाँ मर सकते हो!",
+      "aliases": [
+        "तुम मर सकते हो",
+        "you could die",
+        "यहाँ मौत हो सकती है"
+      ],
+      "sourceHash": "0e195626",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-bc03127655d9": {
+      "sourceText": "This is stupid and self-destructive!",
+      "text": "यह बेवकूफ़ी है और ख़ुद को बर्बाद करने जैसा है!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "यह बेवकूफ़ी है और ख़ुद को बर्बाद करने जैसा है!",
+      "aliases": [
+        "यह बेवकूफ़ी है",
+        "self destructive",
+        "ख़ुद को बर्बाद करना"
+      ],
+      "sourceHash": "2c9cdf53",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-ecc6426e82af": {
+      "sourceText": "These sickos aren't really your friends!",
+      "text": "ये सनकी लोग सच में तुम्हारे दोस्त नहीं हैं!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "ये सनकी लोग सच में तुम्हारे दोस्त नहीं हैं!",
+      "aliases": [
+        "ये तुम्हारे दोस्त नहीं हैं",
+        "not your friends",
+        "ये सनकी लोग"
+      ],
+      "sourceHash": "36174fe5",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Translated 'sickos' to 'सनकी लोग' (eccentric/crazy people) which fits the context of wild partygoers.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-a45b76828630": {
+      "sourceText": "You're drunk and it's SIX FLOORS DOWN",
+      "text": "तुम नशे में हो और यह छह मंज़िल नीचे है",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "तुम नशे में हो और यह छह मंज़िल नीचे है",
+      "aliases": [
+        "छह मंज़िल नीचे",
+        "six floors down",
+        "तुम नशे में हो"
+      ],
+      "sourceHash": "bef61377",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-cec1d8b53276": {
+      "sourceText": "Dang it, this is the thanks I get?!",
+      "text": "धत् तेरे की, क्या मुझे इसी बात का इनाम मिल रहा है?!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "धत् तेरे की, क्या मुझे इसी बात का इनाम मिल रहा है?!",
+      "aliases": [
+        "यही इनाम मिला",
+        "thanks I get",
+        "धत् तेरे की"
+      ],
+      "sourceHash": "d6434491",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Adapted 'this is the thanks I get?!' to 'क्या मुझे इसी बात का इनाम मिल रहा है?!' (Is this the reward I get for this?!) which is a natural Hindi idiom for ungratefulness.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-e62dc1695b01": {
+      "sourceText": "Okay, I admit it. I messed up.",
+      "text": "ठीक है, मैं मानता हूँ। मुझसे ग़लती हो गई।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "ठीक है, मैं मानता हूँ। मुझसे ग़लती हो गई।",
+      "aliases": [
+        "मुझसे ग़लती हो गई",
+        "I messed up",
+        "मैं मानता हूँ"
+      ],
+      "sourceHash": "4dbb8e3b",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-a01620d6232a": {
+      "sourceText": "But revenge on me isn't the answer!",
+      "text": "लेकिन मुझसे बदला लेना इसका हल नहीं है!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "लेकिन मुझसे बदला लेना इसका हल नहीं है!",
+      "aliases": [
+        "बदला लेना हल नहीं है",
+        "revenge is not the answer",
+        "मुझसे बदला मत लो"
+      ],
+      "sourceHash": "0da60db8",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-a7f87b170c20": {
+      "sourceText": "But this time I'm actually right!",
+      "text": "लेकिन इस बार मैं सच में सही हूँ!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "लेकिन इस बार मैं सच में सही हूँ!",
+      "aliases": [
+        "इस बार मैं सही हूँ",
+        "मैं सही हूँ",
+        "Right",
+        "Actually right"
+      ],
+      "sourceHash": "a1b08e3c",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-ad9ab53d30f4": {
+      "sourceText": "I've hurt you.",
+      "text": "मैंने तुम्हें चोट पहुँचाई है।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मैंने तुम्हें चोट पहुँचाई है।",
+      "aliases": [
+        "मैंने चोट पहुँचाई",
+        "दुख पहुँचाया",
+        "Hurt you",
+        "Hurt"
+      ],
+      "sourceHash": "cf8a157e",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-cf09b6164578": {
+      "sourceText": "Fine. I'm done protecting you.",
+      "text": "ठीक है। अब मैं तुम्हारी रक्षा नहीं करूँगा।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "ठीक है। अब मैं तुम्हारी रक्षा नहीं करूँगा।",
+      "aliases": [
+        "रक्षा नहीं करूँगा",
+        "नहीं बचाऊँगा",
+        "Done protecting",
+        "Fine"
+      ],
+      "sourceHash": "85402cc8",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-b64c2ab012a5": {
+      "sourceText": "I was right all along.",
+      "text": "मैं शुरू से ही सही था।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मैं शुरू से ही सही था।",
+      "aliases": [
+        "मैं सही था",
+        "शुरू से सही",
+        "Right all along",
+        "I was right"
+      ],
+      "sourceHash": "faf7c383",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-c8875fa69031": {
+      "sourceText": "I'm sorry.",
+      "text": "मुझे माफ़ कर दो।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे माफ़ कर दो।",
+      "aliases": [
+        "माफ़ कर दो",
+        "सॉरी",
+        "Sorry",
+        "Maaf kar do"
+      ],
+      "sourceHash": "cfcc6e63",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-ae45e753777c": {
+      "sourceText": "I'm sorry I wasn't a good protector.",
+      "text": "मुझे माफ़ कर दो कि मैं एक अच्छा रक्षक नहीं बन पाया।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे माफ़ कर दो कि मैं एक अच्छा रक्षक नहीं बन पाया।",
+      "aliases": [
+        "अच्छा रक्षक नहीं था",
+        "माफ़ कर दो",
+        "Sorry",
+        "Not a good protector"
+      ],
+      "sourceHash": "d22f431a",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-be46a3b91953": {
+      "sourceText": "I'm sorry I didn't respect you.",
+      "text": "मुझे माफ़ कर दो कि मैंने तुम्हारा सम्मान नहीं किया।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे माफ़ कर दो कि मैंने तुम्हारा सम्मान नहीं किया।",
+      "aliases": [
+        "सम्मान नहीं किया",
+        "आदर नहीं किया",
+        "Didn't respect",
+        "Sorry"
+      ],
+      "sourceHash": "1a23689d",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-119302d7046b": {
+      "sourceText": "I'm sorry.",
+      "text": "मुझे माफ़ कर दो।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे माफ़ कर दो।",
+      "aliases": [
+        "माफ़ कर दो",
+        "सॉरी",
+        "Sorry",
+        "Maaf kar do"
+      ],
+      "sourceHash": "cfcc6e63",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-8b07f7e9bc7c": {
+      "sourceText": "I'm sorry I have a terrible human!",
+      "text": "मुझे माफ़ कर दो कि मेरा इंसान इतना बुरा है!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे माफ़ कर दो कि मेरा इंसान इतना बुरा है!",
+      "aliases": [
+        "बुरा इंसान",
+        "माफ़ कर दो",
+        "Terrible human",
+        "Sorry"
+      ],
+      "sourceHash": "f3a862d4",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Adapted 'I have a terrible human' to 'मेरा इंसान इतना बुरा है' (my human is so bad) to sound more natural in Hindi while preserving the relationship.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-c2f23f4f499b": {
+      "sourceText": "I'm sorry I didn't respect you.",
+      "text": "मुझे माफ़ कर दो कि मैंने तुम्हारा सम्मान नहीं किया।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे माफ़ कर दो कि मैंने तुम्हारा सम्मान नहीं किया।",
+      "aliases": [
+        "सम्मान नहीं किया",
+        "आदर नहीं किया",
+        "Didn't respect",
+        "Sorry"
+      ],
+      "sourceHash": "1a23689d",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act3-choice-2e64b05332d4": {
+      "sourceText": "I'm sorry I hurt you.",
+      "text": "मुझे माफ़ कर दो कि मैंने तुम्हें चोट पहुँचाई।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे माफ़ कर दो कि मैंने तुम्हें चोट पहुँचाई।",
+      "aliases": [
+        "चोट पहुँचाई",
+        "दुख पहुँचाया",
+        "Hurt you",
+        "Sorry"
+      ],
+      "sourceHash": "e0c5ec86",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-141267202390": {
+      "sourceText": "Yeah, that was the worst-case scenario.",
+      "text": "हाँ, वह सबसे खराब स्थिति थी।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हाँ, वह सबसे खराब स्थिति थी।",
+      "aliases": [
+        "सबसे खराब स्थिति",
+        "Worst case",
+        "Worst-case scenario",
+        "हाँ"
+      ],
+      "sourceHash": "74f72fed",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-962851d5e316": {
+      "sourceText": "Yeah, I was right.",
+      "text": "हाँ, मैं सही था।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हाँ, मैं सही था।",
+      "aliases": [
+        "मैं सही था",
+        "I was right",
+        "हाँ",
+        "Right"
+      ],
+      "sourceHash": "7782055a",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-d718fe2c9aec": {
+      "sourceText": "I'm scared we'll be harmed.",
+      "text": "मुझे डर है कि हमें नुकसान पहुँचेगा।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे डर है कि हमें नुकसान पहुँचेगा।",
+      "aliases": [
+        "नुकसान पहुँचेगा",
+        "डर है",
+        "Scared",
+        "Harmed"
+      ],
+      "sourceHash": "d41759c5",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-6607be7327c8": {
+      "sourceText": "I'm scared we'll be alone.",
+      "text": "मुझे डर है कि हम अकेले रह जाएँगे।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे डर है कि हम अकेले रह जाएँगे।",
+      "aliases": [
+        "अकेले रह जाएँगे",
+        "डर है",
+        "Scared",
+        "Alone"
+      ],
+      "sourceHash": "54cde3d7",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-a38b1478a258": {
+      "sourceText": "I'm scared we're bad people.",
+      "text": "मुझे डर है कि हम बुरे लोग हैं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे डर है कि हम बुरे लोग हैं।",
+      "aliases": [
+        "बुरे लोग",
+        "डर है",
+        "Bad people",
+        "Scared"
+      ],
+      "sourceHash": "666195c6",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-dbc39ca08261": {
+      "sourceText": "You're right. So let's protect ourselves.",
+      "text": "तुम सही कह रहे हो। तो चलो खुद को बचाते हैं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "तुम सही कह रहे हो। तो चलो खुद को बचाते हैं।",
+      "aliases": [
+        "खुद को बचाते हैं",
+        "तुम सही हो",
+        "Protect ourselves",
+        "You're right"
+      ],
+      "sourceHash": "d65da654",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-125403f6eb7e": {
+      "sourceText": "Let's expose ourselves to more danger.",
+      "text": "चलो खुद को और खतरे में डालते हैं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "चलो खुद को और खतरे में डालते हैं।",
+      "aliases": [
+        "खतरे में डालते हैं",
+        "और खतरा",
+        "More danger",
+        "Danger"
+      ],
+      "sourceHash": "8c3cda93",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-d20843d2b481": {
+      "sourceText": "Thank you.",
+      "text": "शुक्रिया।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "शुक्रिया।",
+      "aliases": [
+        "शुक्रिया",
+        "धन्यवाद",
+        "Thank you",
+        "Thanks"
+      ],
+      "sourceHash": "7d7b5cd0",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-39dc07a2ab74": {
+      "sourceText": "Where do we even start?",
+      "text": "हम शुरुआत कहाँ से करें?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हम शुरुआत कहाँ से करें?",
+      "aliases": [
+        "कहाँ से शुरू करें",
+        "शुरुआत कहाँ से",
+        "Where to start",
+        "Start"
+      ],
+      "sourceHash": "74f4552a",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-550d6783baa8": {
+      "sourceText": "What if they still don't work?",
+      "text": "क्या होगा अगर वे फिर भी काम न करें?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "क्या होगा अगर वे फिर भी काम न करें?",
+      "aliases": [
+        "अगर काम नहीं किया तो",
+        "काम न करे तो",
+        "फिर भी काम न किया तो",
+        "what if they don't work"
+      ],
+      "sourceHash": "b683a9a0",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-d7949076b179": {
+      "sourceText": "What if we go overboard on \"safety\"?",
+      "text": "क्या होगा अगर हम \"सुरक्षा\" के मामले में कुछ ज़्यादा ही आगे निकल जाएं?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "क्या होगा अगर हम \"सुरक्षा\" के मामले में कुछ ज़्यादा ही आगे निकल जाएं?",
+      "aliases": [
+        "ज़्यादा सुरक्षा",
+        "सुरक्षा के चक्कर में",
+        "overboard on safety"
+      ],
+      "sourceHash": "f75c7652",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Translated 'go overboard' to 'कुछ ज़्यादा ही आगे निकल जाएं' (go too far ahead) to sound natural in Hindi.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-3b35fda7e038": {
+      "sourceText": "What if we desensitize too much?",
+      "text": "क्या होगा अगर हम ज़रूरत से ज़्यादा असंवेदनशील हो जाएं?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "क्या होगा अगर हम ज़रूरत से ज़्यादा असंवेदनशील हो जाएं?",
+      "aliases": [
+        "असंवेदनशील हो गए तो",
+        "ज़्यादा असंवेदनशील",
+        "desensitize too much"
+      ],
+      "sourceHash": "fd9d5139",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-91b63364388a": {
+      "sourceText": "What if we're exposed to real danger?",
+      "text": "क्या होगा अगर हमारा सामना असली खतरे से हो जाए?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "क्या होगा अगर हमारा सामना असली खतरे से हो जाए?",
+      "aliases": [
+        "असली खतरा हुआ तो",
+        "सामना असली खतरे से",
+        "real danger"
+      ],
+      "sourceHash": "e3add185",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Translated 'exposed to real danger' to 'सामना असली खतरे से हो जाए' (face real danger) for a more natural Hindi phrasing.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-fe7afd8c59d4": {
+      "sourceText": "I'm a wolf, not a dog.",
+      "text": "मैं एक भेड़िया हूँ, कोई कुत्ता नहीं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मैं एक भेड़िया हूँ, कोई कुत्ता नहीं।",
+      "aliases": [
+        "भेड़िया हूँ कुत्ता नहीं",
+        "मैं भेड़िया हूँ",
+        "wolf not dog"
+      ],
+      "sourceHash": "0aabffe1",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-873a96d006f3": {
+      "sourceText": "I agree: let's work on our social life.",
+      "text": "मैं सहमत हूँ: चलो अपनी सोशल लाइफ पर काम करते हैं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मैं सहमत हूँ: चलो अपनी सोशल लाइफ पर काम करते हैं।",
+      "aliases": [
+        "सोशल लाइफ पर काम",
+        "सहमत हूँ",
+        "social life"
+      ],
+      "sourceHash": "6c9101d8",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Kept 'social life' as 'सोशल लाइफ' as it is extremely common in conversational Hindi (code-switching).",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-98461466f36f": {
+      "sourceText": "I think people like us. Let's find out?",
+      "text": "मुझे लगता है लोग हमें पसंद करते हैं। चलो पता लगाते हैं?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे लगता है लोग हमें पसंद करते हैं। चलो पता लगाते हैं?",
+      "aliases": [
+        "चलो पता लगाते हैं",
+        "लोग पसंद करते हैं",
+        "find out"
+      ],
+      "sourceHash": "de2e8537",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-dd4a3c106d4a": {
+      "sourceText": "Thank you.",
+      "text": "शुक्रिया।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "शुक्रिया।",
+      "aliases": [
+        "धन्यवाद",
+        "थैंक यू",
+        "thank you"
+      ],
+      "sourceHash": "7d7b5cd0",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-59859087de1b": {
+      "sourceText": "Isn't that manipulative?",
+      "text": "क्या यह हेरफेर करना नहीं हुआ?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "क्या यह हेरफेर करना नहीं हुआ?",
+      "aliases": [
+        "हेरफेर है",
+        "manipulative"
+      ],
+      "sourceHash": "2a31c447",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Translated 'manipulative' to 'हेरफेर करना' (manipulation/deception) for natural flow.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-765189ff1740": {
+      "sourceText": "Won't that make us easier to manipulate?",
+      "text": "क्या इससे दूसरों के लिए हमारे साथ हेरफेर करना आसान नहीं हो जाएगा?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "क्या इससे दूसरों के लिए हमारे साथ हेरफेर करना आसान नहीं हो जाएगा?",
+      "aliases": [
+        "आसान हेरफेर",
+        "manipulate us"
+      ],
+      "sourceHash": "580f70c2",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Translated 'manipulate' to 'हेरफेर करना' to maintain consistency with the previous choice.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-709baebfed57": {
+      "sourceText": "What if we still fail?",
+      "text": "क्या होगा अगर हम फिर भी नाकाम रहे?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "क्या होगा अगर हम फिर भी नाकाम रहे?",
+      "aliases": [
+        "नाकाम रहे तो",
+        "फेल हो गए तो",
+        "still fail"
+      ],
+      "sourceHash": "bd8e0277",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-d5e932e0d4dc": {
+      "sourceText": "What if these are small, cheap \"wins\"?",
+      "text": "क्या होगा अगर ये छोटी और मामूली \"जीत\" हों?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "क्या होगा अगर ये छोटी और मामूली \"जीत\" हों?",
+      "aliases": [
+        "मामूली जीत",
+        "छोटी जीत",
+        "cheap wins"
+      ],
+      "sourceHash": "21aef6bd",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Translated 'cheap wins' to 'मामूली जीत' (insignificant/minor wins) as 'सस्ती जीत' sounds unnatural in this context.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-d2a215e38bd8": {
+      "sourceText": "What if this is a burden to others?",
+      "text": "क्या होगा अगर यह दूसरों पर एक बोझ बन जाए?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "क्या होगा अगर यह दूसरों पर एक बोझ बन जाए?",
+      "aliases": [
+        "दूसरों पर बोझ",
+        "बोझ बन जाए",
+        "burden to others"
+      ],
+      "sourceHash": "fca2dbcc",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-1fb0ba9a2d6a": {
+      "sourceText": "But small talk isn't the real us!",
+      "text": "लेकिन छोटी-मोटी बातें करना हमारा असली रूप नहीं है!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "लेकिन छोटी-मोटी बातें करना हमारा असली रूप नहीं है!",
+      "aliases": [
+        "असली रूप नहीं",
+        "small talk"
+      ],
+      "sourceHash": "458324a4",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Translated 'small talk' to 'छोटी-मोटी बातें करना' and 'real us' to 'हमारा असली रूप' (our real self) to sound natural.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-73ccdf78edbe": {
+      "sourceText": "So we're broken. Let's fix us.",
+      "text": "तो हम टूटे हुए हैं। चलो खुद को ठीक करते हैं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "तो हम टूटे हुए हैं। चलो खुद को ठीक करते हैं।",
+      "aliases": [
+        "खुद को ठीक करते हैं",
+        "ठीक करते हैं",
+        "fix us"
+      ],
+      "sourceHash": "8409e012",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-1a4c2ca74612": {
+      "sourceText": "So we're broken. Let's accept it.",
+      "text": "तो हम टूटे हुए हैं। चलो इसे स्वीकार करते हैं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "तो हम टूटे हुए हैं। चलो इसे स्वीकार करते हैं।",
+      "aliases": [
+        "स्वीकार करते हैं",
+        "accept it"
+      ],
+      "sourceHash": "e410d57e",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-7a764f2c8f23": {
+      "sourceText": "Thank you.",
+      "text": "शुक्रिया।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "शुक्रिया।",
+      "aliases": [
+        "धन्यवाद",
+        "थैंक यू",
+        "thank you"
+      ],
+      "sourceHash": "7d7b5cd0",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-8679e152b3fd": {
+      "sourceText": "What if we can't fix it all?",
+      "text": "क्या होगा अगर हम सब कुछ ठीक न कर पाएं?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "क्या होगा अगर हम सब कुछ ठीक न कर पाएं?",
+      "aliases": [
+        "सब ठीक न कर पाएं",
+        "can't fix it all"
+      ],
+      "sourceHash": "0bde2c61",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-e19ed8a6e4a1": {
+      "sourceText": "What if we fix too much?",
+      "text": "क्या होगा अगर हम कुछ ज़्यादा ही ठीक कर दें?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "क्या होगा अगर हम कुछ ज़्यादा ही ठीक कर दें?",
+      "aliases": [
+        "ज़्यादा ठीक कर दें",
+        "fix too much"
+      ],
+      "sourceHash": "9dca25af",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-99a875ab91e0": {
+      "sourceText": "We can't afford professional help.",
+      "text": "हम किसी प्रोफेशनल की मदद का खर्च नहीं उठा सकते।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हम किसी प्रोफेशनल की मदद का खर्च नहीं उठा सकते।",
+      "aliases": [
+        "खर्च नहीं उठा सकते",
+        "प्रोफेशनल मदद",
+        "professional help"
+      ],
+      "sourceHash": "b30e3c7c",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Used 'प्रोफेशनल' (professional) as it is widely understood and used in conversational Hindi.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-33e0eb02d030": {
+      "sourceText": "\"Accept\" as in give up?",
+      "text": "\"स्वीकार करना\" यानी हार मान लेना?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "\"स्वीकार करना\" यानी हार मान लेना?",
+      "aliases": [
+        "हार मान लेना",
+        "स्वीकार",
+        "accept",
+        "give up"
+      ],
+      "sourceHash": "449885e1",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-66c11ebe7ab6": {
+      "sourceText": "\"Accept\" as in approve?",
+      "text": "\"स्वीकार करना\" यानी मंज़ूर करना?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "\"स्वीकार करना\" यानी मंज़ूर करना?",
+      "aliases": [
+        "मंज़ूर करना",
+        "मंज़ूर",
+        "approve",
+        "accept"
+      ],
+      "sourceHash": "8ee6ae14",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-57d050a6b086": {
+      "sourceText": "\"Accept\" as in take literally?",
+      "text": "\"स्वीकार करना\" यानी सच मान लेना?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "\"स्वीकार करना\" यानी सच मान लेना?",
+      "aliases": [
+        "सच मान लेना",
+        "सच मानना",
+        "take literally",
+        "accept"
+      ],
+      "sourceHash": "c3284384",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-f01fb77e346e": {
+      "sourceText": "Nah, I'm good for now.",
+      "text": "नहीं, अभी के लिए ठीक है।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "नहीं, अभी के लिए ठीक है।",
+      "aliases": [
+        "नहीं",
+        "ठीक है",
+        "no",
+        "nah"
+      ],
+      "sourceHash": "f2982be5",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-877b408e2458": {
+      "sourceText": "Wait, didn't I see you at the party?",
+      "text": "रुको, क्या मैंने तुम्हें पार्टी में नहीं देखा था?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "रुको, क्या मैंने तुम्हें पार्टी में नहीं देखा था?",
+      "aliases": [
+        "पार्टी",
+        "रुको",
+        "party",
+        "wait"
+      ],
+      "sourceHash": "aae1f6e4",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-7897c21bc2b6": {
+      "sourceText": "Yeah, of course! Come here.",
+      "text": "हाँ, बिल्कुल! यहाँ आओ।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हाँ, बिल्कुल! यहाँ आओ।",
+      "aliases": [
+        "हाँ",
+        "यहाँ आओ",
+        "yes",
+        "come here"
+      ],
+      "sourceHash": "6dd8becd",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-0b8bc919d30f": {
+      "sourceText": "Sorry, I need alone time right now.",
+      "text": "माफ़ करना, मुझे अभी अकेले रहने के लिए थोड़ा समय चाहिए।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "माफ़ करना, मुझे अभी अकेले रहने के लिए थोड़ा समय चाहिए।",
+      "aliases": [
+        "माफ़ करना",
+        "अकेले",
+        "sorry",
+        "alone time"
+      ],
+      "sourceHash": "7f44f0bb",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-6e76da9bd073": {
+      "sourceText": "Good dog.",
+      "text": "अच्छा कुत्ता।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "अच्छा कुत्ता।",
+      "aliases": [
+        "अच्छा कुत्ता",
+        "कुत्ता",
+        "good dog",
+        "dog"
+      ],
+      "sourceHash": "fed849d8",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-8a0bba763e8d": {
+      "sourceText": "Good human.",
+      "text": "अच्छा इंसान।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "अच्छा इंसान।",
+      "aliases": [
+        "अच्छा इंसान",
+        "इंसान",
+        "good human",
+        "human"
+      ],
+      "sourceHash": "dfd926d5",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-a74fbb762005": {
+      "sourceText": "PLAY!",
+      "text": "खेलें!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "खेलें!",
+      "aliases": [
+        "खेलें",
+        "प्ले",
+        "play",
+        "start"
+      ],
+      "sourceHash": "1f5c49ca",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-4fe6f2921463": {
+      "sourceText": "CONTINUE: The Party",
+      "text": "जारी रखें: पार्टी",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "जारी रखें: पार्टी",
+      "aliases": [
+        "जारी रखें",
+        "पार्टी",
+        "continue",
+        "party"
+      ],
+      "sourceHash": "06c76099",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-53b1b3721bf1": {
+      "sourceText": "CONTINUE: The Other Party",
+      "text": "जारी रखें: दूसरी पार्टी",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "जारी रखें: दूसरी पार्टी",
+      "aliases": [
+        "जारी रखें",
+        "दूसरी पार्टी",
+        "continue",
+        "other party"
+      ],
+      "sourceHash": "487f4f2b",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-539a1e2556f1": {
+      "sourceText": "CONTINUE: The Other Sandwich",
+      "text": "जारी रखें: दूसरा सैंडविच",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "जारी रखें: दूसरा सैंडविच",
+      "aliases": [
+        "जारी रखें",
+        "दूसरा सैंडविच",
+        "continue",
+        "other sandwich"
+      ],
+      "sourceHash": "c239522a",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-78330cf2c9ce": {
+      "sourceText": "REPLAY!",
+      "text": "फिर से खेलें!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "फिर से खेलें!",
+      "aliases": [
+        "फिर से खेलें",
+        "रीप्ले",
+        "replay"
+      ],
+      "sourceHash": "1267e309",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-11cc4a856ccf": {
+      "sourceText": "Chapter Select",
+      "text": "अध्याय चुनें",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "अध्याय चुनें",
+      "aliases": [
+        "अध्याय चुनें",
+        "अध्याय",
+        "chapter select",
+        "chapters"
+      ],
+      "sourceHash": "d964b0c8",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-c337b6efd6b9": {
+      "sourceText": "III. The Other Party",
+      "text": "III. दूसरी पार्टी",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "III. दूसरी पार्टी",
+      "aliases": [
+        "तीसरा",
+        "दूसरी पार्टी",
+        "three",
+        "other party"
+      ],
+      "sourceHash": "41c622b7",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-98b5ed300cb4": {
+      "sourceText": "III. The Other Party",
+      "text": "III. दूसरी पार्टी",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "III. दूसरी पार्टी",
+      "aliases": [
+        "तीसरा",
+        "दूसरी पार्टी",
+        "three",
+        "other party"
+      ],
+      "sourceHash": "41c622b7",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-d2abfcd1388e": {
+      "sourceText": "IV. The Other Sandwich",
+      "text": "IV. दूसरा सैंडविच",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "IV. दूसरा सैंडविच",
+      "aliases": [
+        "चौथा",
+        "दूसरा सैंडविच",
+        "four",
+        "other sandwich"
+      ],
+      "sourceHash": "9f6b7530",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-3d25b6c8e9f1": {
+      "sourceText": "III. The Other Sandwich",
+      "text": "III. दूसरा सैंडविच",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "III. दूसरा सैंडविच",
+      "aliases": [
+        "तीसरा",
+        "दूसरा सैंडविच",
+        "three",
+        "other sandwich"
+      ],
+      "sourceHash": "eb99278e",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-0d0b9bf6f861": {
+      "sourceText": "V. Credits",
+      "text": "V. आभार",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "V. आभार",
+      "aliases": [
+        "आभार",
+        "क्रेडिट्स",
+        "credits",
+        "five"
+      ],
+      "sourceHash": "35b144a9",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Translated 'Credits' to 'आभार' (acknowledgements/credits) as it is the standard natural term in Hindi media.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "intro-choice-128bbece0499": {
+      "sourceText": "V. Credits",
+      "text": "५. आभार",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "५. आभार",
+      "aliases": [
+        "आभार",
+        "क्रेडिट्स",
+        "credits",
+        "aabhar"
+      ],
+      "sourceHash": "35b144a9",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Translated 'Credits' to 'आभार' and adapted Roman numeral 'V' to Devanagari '५'.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-e7e948f51dbe": {
+      "sourceText": "Yeah they were totally subtweeting us.",
+      "text": "हाँ, वे पक्का हमारे बारे में ही इनडायरेक्ट ट्वीट कर रहे थे।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हाँ, वे पक्का हमारे बारे में ही इनडायरेक्ट ट्वीट कर रहे थे।",
+      "aliases": [
+        "इनडायरेक्ट ट्वीट",
+        "subtweet",
+        "indirect tweet"
+      ],
+      "sourceHash": "19af8cd9",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Adapted 'subtweeting' to 'इनडायरेक्ट ट्वीट' (indirect tweet) to make it natural for Hindi-speaking youth familiar with social media.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-9441aeebb079": {
+      "sourceText": "Wait we retweeted without fact-checking.",
+      "text": "रुको, हमने बिना फैक्ट-चेक किए रीट्वीट कर दिया।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "रुको, हमने बिना फैक्ट-चेक किए रीट्वीट कर दिया।",
+      "aliases": [
+        "रीट्वीट",
+        "fact check",
+        "retweet"
+      ],
+      "sourceHash": "d55224d2",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Used common English loanwords 'फैक्ट-चेक' (fact-check) and 'रीट्वीट' (retweet) as they are standard in Hindi social media contexts.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-126fd598f040": {
+      "sourceText": "You know, you've got really bad posture?",
+      "text": "तुम्हें पता है, तुम्हारा पोस्चर बहुत खराब है?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "तुम्हें पता है, तुम्हारा पोस्चर बहुत खराब है?",
+      "aliases": [
+        "पोस्चर खराब है",
+        "bad posture",
+        "posture"
+      ],
+      "sourceHash": "eb1a108f",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Used 'पोस्चर' (posture) as it is widely understood and conversational in Hindi.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-3459035ff446": {
+      "sourceText": "Yeah they were totally subtweeting us.",
+      "text": "हाँ, वे पक्का हमारे बारे में ही इनडायरेक्ट ट्वीट कर रहे थे।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हाँ, वे पक्का हमारे बारे में ही इनडायरेक्ट ट्वीट कर रहे थे।",
+      "aliases": [
+        "इनडायरेक्ट ट्वीट",
+        "subtweet",
+        "indirect tweet"
+      ],
+      "sourceHash": "19af8cd9",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Adapted 'subtweeting' to 'इनडायरेक्ट ट्वीट' (indirect tweet) to make it natural for Hindi-speaking youth familiar with social media.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-dc4810b43add": {
+      "sourceText": "Wait we retweeted without fact-checking.",
+      "text": "रुको, हमने बिना फैक्ट-चेक किए रीट्वीट कर दिया।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "रुको, हमने बिना फैक्ट-चेक किए रीट्वीट कर दिया।",
+      "aliases": [
+        "रीट्वीट",
+        "fact check",
+        "retweet"
+      ],
+      "sourceHash": "d55224d2",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Used common English loanwords 'फैक्ट-चेक' (fact-check) and 'रीट्वीट' (retweet) as they are standard in Hindi social media contexts.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act1-choice-efd4458ea04f": {
+      "sourceText": "You know, you've got really bad posture?",
+      "text": "तुम्हें पता है, तुम्हारा पोस्चर बहुत खराब है?",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "तुम्हें पता है, तुम्हारा पोस्चर बहुत खराब है?",
+      "aliases": [
+        "पोस्चर खराब है",
+        "bad posture",
+        "posture"
+      ],
+      "sourceHash": "eb1a108f",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Used 'पोस्चर' (posture) as it is widely understood and conversational in Hindi.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-48db4b25e5e9": {
+      "sourceText": "A different social danger!",
+      "text": "एक अलग सामाजिक खतरा!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "एक अलग सामाजिक खतरा!",
+      "aliases": [
+        "सामाजिक खतरा",
+        "social danger"
+      ],
+      "sourceHash": "334ceccc",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-cad7b835a1fc": {
+      "sourceText": "A different moral danger!",
+      "text": "एक अलग नैतिक खतरा!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "एक अलग नैतिक खतरा!",
+      "aliases": [
+        "नैतिक खतरा",
+        "moral danger"
+      ],
+      "sourceHash": "9a48830c",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-7b2aad86deb5": {
+      "sourceText": "Even more of the same danger!",
+      "text": "वही खतरा और भी ज़्यादा!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "वही खतरा और भी ज़्यादा!",
+      "aliases": [
+        "वही खतरा",
+        "same danger"
+      ],
+      "sourceHash": "60405f10",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-78cfc99015d8": {
+      "sourceText": "More of the same danger!",
+      "text": "वही खतरा और ज़्यादा!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "वही खतरा और ज़्यादा!",
+      "aliases": [
+        "वही खतरा",
+        "more danger"
+      ],
+      "sourceHash": "1a7a83e0",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-7f426b7baa28": {
+      "sourceText": "A different social danger!",
+      "text": "एक अलग सामाजिक खतरा!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "एक अलग सामाजिक खतरा!",
+      "aliases": [
+        "सामाजिक खतरा",
+        "social danger"
+      ],
+      "sourceHash": "334ceccc",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act2-choice-0d9f9462b5e2": {
+      "sourceText": "A different moral danger!",
+      "text": "एक अलग नैतिक खतरा!",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "एक अलग नैतिक खतरा!",
+      "aliases": [
+        "नैतिक खतरा",
+        "moral danger"
+      ],
+      "sourceHash": "9a48830c",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-98c6c3a5ac94": {
+      "sourceText": "Yeah, not to mention the hospital bill.",
+      "text": "हाँ, और हॉस्पिटल के बिल की तो बात ही मत करो।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हाँ, और हॉस्पिटल के बिल की तो बात ही मत करो।",
+      "aliases": [
+        "हॉस्पिटल बिल",
+        "hospital bill"
+      ],
+      "sourceHash": "3c9627bc",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Used 'हॉस्पिटल' (hospital) and 'बिल' (bill) as they are standard conversational terms in Hindi.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-df61e090e7ab": {
+      "sourceText": "Yeah, not to mention the liver damage.",
+      "text": "हाँ, और लिवर खराब होने की तो बात ही मत करो।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "हाँ, और लिवर खराब होने की तो बात ही मत करो।",
+      "aliases": [
+        "लिवर खराब",
+        "liver damage"
+      ],
+      "sourceHash": "fbb49152",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "Used 'लिवर' (liver) as it is the most common conversational term in Hindi.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-9bbb6a92410b": {
+      "sourceText": "I'm scared we'll be harmed.",
+      "text": "मुझे डर है कि हमें नुकसान पहुँचेगा।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे डर है कि हमें नुकसान पहुँचेगा।",
+      "aliases": [
+        "नुकसान पहुँचेगा",
+        "scared of harm"
+      ],
+      "sourceHash": "d41759c5",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-f1489adf54a1": {
+      "sourceText": "I'm scared we'll be alone.",
+      "text": "मुझे डर है कि हम अकेले रह जाएँगे।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे डर है कि हम अकेले रह जाएँगे।",
+      "aliases": [
+        "अकेले रह जाएँगे",
+        "scared of being alone"
+      ],
+      "sourceHash": "54cde3d7",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
+    },
+    "act4-choice-47c1e9e4a1b3": {
+      "sourceText": "I'm scared we're bad people.",
+      "text": "मुझे डर है कि हम बुरे लोग हैं।",
+      "speaker": "meta",
+      "emotion": "neutral",
+      "spokenLabel": "मुझे डर है कि हम बुरे लोग हैं।",
+      "aliases": [
+        "हम बुरे लोग हैं",
+        "scared we are bad"
+      ],
+      "sourceHash": "666195c6",
+      "reviewStatus": "needs-review",
+      "adaptationNote": "",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash"
     }
   }
 }

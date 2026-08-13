@@ -1,14 +1,18 @@
 // Load assets
+var requestedLocale = new URLSearchParams(window.location.search).get("lang") || "en-US";
+var sceneRoot = requestedLocale === "hi-IN" ? "localization/build/hi-IN/scenes/" : "scenes/";
+window.GAME_LOCALE = requestedLocale;
+
 Loader.addScenes([
 
 	//"scenes/PROMO.md",
-	"scenes/intro.md",
-	"scenes/act1.md",
-	"scenes/intermission.md",
-	"scenes/act2.md",
-	"scenes/act3.md",
-	"scenes/act4.md",
-	"scenes/credits.md"
+	sceneRoot + "intro.md",
+	sceneRoot + "act1.md",
+	sceneRoot + "intermission.md",
+	sceneRoot + "act2.md",
+	sceneRoot + "act3.md",
+	sceneRoot + "act4.md",
+	sceneRoot + "credits.md"
 	
 ]);
 

@@ -29,6 +29,9 @@
     preloadAudio: true,
   };
 
+  const locale = window.GAME_LOCALE || new URLSearchParams(window.location.search).get("lang") || "en-US";
+  const language = locale.toLowerCase().split("-")[0];
+
   const log = [];
   let muted = false, voiceRateMultiplier = 1;
 
@@ -37,8 +40,9 @@
   let voices = [];
   function loadVoices() {
     const all = synth ? synth.getVoices() : [];
+    const localized = all.filter((v) => v.lang && v.lang.toLowerCase().startsWith(language));
     const en = all.filter((v) => /^en/i.test(v.lang));
-    voices = (en.length ? en : all);
+    voices = localized.length ? localized : (en.length ? en : all);
   }
   if (synth) { loadVoices(); synth.addEventListener("voiceschanged", loadVoices); }
 
@@ -91,6 +95,7 @@
       if (!synth || seq !== playbackSeq) return resolve(false);
       const cfg = VOICE[who] || VOICE.meta;
       const u = new SpeechSynthesisUtterance(text);
+      u.lang = locale;
       const selectedVoice = voiceFor(cfg);
       if (selectedVoice) u.voice = selectedVoice;
       u.pitch = cfg.pitch;
@@ -277,14 +282,14 @@
 
     if (CFG.readOptions) {
       shutUp();
-      const words = ["one", "two", "three", "four", "five"];
-      await speak("Your options are.", "meta");
+      const words = language === "hi" ? ["एक", "दो", "तीन", "चार", "पाँच"] : ["one", "two", "three", "four", "five"];
+      await speak(language === "hi" ? "आपके विकल्प हैं।" : "Your options are.", "meta");
       if (epoch !== choiceEpoch) return;
       for (let i = 0; i < texts.length; i++) {
-        await speak("Option " + (words[i] || i + 1) + ". " + texts[i], "meta");
+        await speak((language === "hi" ? "विकल्प " : "Option ") + (words[i] || i + 1) + ". " + texts[i], "meta");
         if (epoch !== choiceEpoch) return;
       }
-      await speak("Which one do you choose?", "meta");
+      await speak(language === "hi" ? "आप क्या चुनना चाहेंगे?" : "Which one do you choose?", "meta");
       if (epoch !== choiceEpoch) return;
     }
 

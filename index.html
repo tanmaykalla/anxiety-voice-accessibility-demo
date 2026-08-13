@@ -358,6 +358,11 @@ For your sharing pleasure:<br>
 <!-- Voice conversion layer (kept separate from the authored game runtime) -->
 <script src="matcher.js"></script>
 <script src="voice-index.js"></script>
+<script>
+if (new URLSearchParams(location.search).get("lang") === "hi-IN") {
+	document.write('<script src="localization/build/hi-IN/voice-index.js"><\\/script>');
+}
+</script>
 <script src="audio-manifest.js"></script>
 <script src="vocalbridge-stt.js"></script>
 <script src="voice-layer.js"></script>

@@ -1,0 +1,33 @@
+{
+  "locale": "hi-IN",
+  "allowDrafts": true,
+  "translated": 959,
+  "scenes": {
+    "intro": {
+      "entries": 21,
+      "translated": 21
+    },
+    "act1": {
+      "entries": 242,
+      "translated": 242
+    },
+    "intermission": {
+      "entries": 5,
+      "translated": 5
+    },
+    "act2": {
+      "entries": 244,
+      "translated": 244
+    },
+    "act3": {
+      "entries": 131,
+      "translated": 131
+    },
+    "act4": {
+      "entries": 316,
+      "translated": 316
+    }
+  },
+  "missing": [],
+  "unusable": []
+}

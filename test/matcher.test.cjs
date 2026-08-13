@@ -23,3 +23,9 @@ test("supports labeled icon attacks", () => {
   const attacks = [{ text: "Harm attack" }, { text: "Loneliness attack" }, { text: "Bad person attack" }];
   assert.equal(match("loneliness", attacks).index, 1);
 });
+
+test("supports Hindi option ordinals and semantic text", () => {
+  const choices = ["पार्टी में जाओ", "घर पर रहो"];
+  assert.equal(match(["विकल्प दो"], choices.map((text) => ({ text }))).index, 1);
+  assert.equal(match(["घर पर रहो"], choices.map((text) => ({ text }))).index, 1);
+});

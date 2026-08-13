@@ -22,14 +22,14 @@ Vocal Bridge is replaceable: another integration can use the browser Web Speech 
 
 ## Run locally
 
-Requirements: Node.js 20+, a Vocal Bridge API key, and a listener agent that emits `live_transcript` actions.
+Requirements: Node.js 20+. Vocal Bridge credentials are optional for ordinary keyboard/mouse play and required for microphone/STT.
 
 ```bash
 npm install
 cp .env.example .env
 ```
 
-Set `VOCAL_BRIDGE_API_KEY` and `VOCAL_BRIDGE_AGENT_ID` in `.env`, then run:
+Set `VOCAL_BRIDGE_API_KEY` and `VOCAL_BRIDGE_AGENT_ID` in `.env` for microphone control, then run:
 
 ```bash
 npm start
@@ -39,11 +39,28 @@ Open <http://localhost:8080>, click inside the game once to grant microphone acc
 
 Never place a Vocal Bridge API key in client JavaScript. `server.mjs` exchanges it for a short-lived session token through `/api/voice-token`.
 
-## Hindi localization draft
+## Generate and play the Hindi build
 
-The [`localization`](localization) directory contains the extracted English source graph, a Hindi locale bible, and a complete machine-generated `hi-IN` catalog. The catalog preserves stable line IDs and game template variables, but every entry is deliberately marked `needs-review`; it is a translation-review artifact, not yet the text used by the playable build.
+The repository contains the extracted English content, Hindi locale bible, draft catalog, deterministic source synchronizer, and non-destructive build tools. The build writes localized scenes under `localization/build/hi-IN`; it never overwrites the English `scenes` directory.
 
-The draft was generated through the Voice Accessibility SDK's Gemini provider and records the exact model used on every entry. A fluent Hindi narrative editor should review character voice, humor, profanity, gender/context, and choice clarity before entries are approved or applied to the game.
+From a fresh clone:
+
+```bash
+npm install
+cp .env.example .env
+# Put GEMINI_API_KEY in .env.
+# Add Vocal Bridge key + agent ID too if microphone/STT is required.
+npm run localize:hi
+npm start
+```
+
+Then open <http://localhost:8080/?lang=hi-IN>. Use <http://localhost:8080/> for the unchanged English game.
+
+`npm run localize:hi` performs the full pipeline: discover newly authored dialogue/choices, translate only missing or stale entries through Gemini, generate localized scene files and a Hindi voice index, and validate full content coverage plus preserved branch-section IDs. It is resumable and safe to rerun.
+
+The checked-in catalog currently contains 959 machine-generated entries: 821 dialogue lines and 138 actionable choices. Every entry is deliberately marked `needs-review`, so the generated game is a playable draft rather than a release-quality Hindi edition.
+
+The draft was generated through the Voice Accessibility SDK's Gemini provider and records the exact model used on every entry. A fluent Hindi narrative editor should review character voice, humor, profanity, gender/context, and choice clarity before the build is presented as a release-quality translation.
 
 ## Development
 

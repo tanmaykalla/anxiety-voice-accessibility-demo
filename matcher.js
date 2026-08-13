@@ -16,19 +16,25 @@
   const WORDNUM = { one: 1, two: 2, three: 3, four: 4, five: 5,
                     first: 1, second: 2, third: 3, fourth: 4, fifth: 5,
                     a: 1, b: 2, c: 3, d: 4, e: 5,
-                    alpha: 1, bravo: 2, charlie: 3, delta: 4, echo: 5 };
+                    alpha: 1, bravo: 2, charlie: 3, delta: 4, echo: 5,
+                    "एक": 1, "पहला": 1, "पहली": 1, "ए": 1,
+                    "दो": 2, "दूसरा": 2, "दूसरी": 2, "बी": 2,
+                    "तीन": 3, "तीसरा": 3, "तीसरी": 3, "सी": 3,
+                    "चार": 4, "चौथा": 4, "चौथी": 4, "डी": 4,
+                    "पाँच": 5, "पांच": 5, "पाँचवाँ": 5, "पांचवां": 5, "ई": 5 };
 
-  const norm = (s) => String(s).toLowerCase().replace(/[^a-z0-9\s']/g, " ").replace(/\s+/g, " ").trim();
+  const norm = (s) => String(s).normalize("NFC").toLocaleLowerCase().replace(/[^\p{L}\p{M}\p{N}\s']/gu, " ").replace(/\s+/g, " ").trim();
 
   // Explicit selection: "option 2", "number two", "choice 3", "the second one",
   // or a bare "2". Deliberately narrow so a sentence that merely contains a
   // number word can't hijack the pick.
-  const NUM = "(\\d+|one|two|three|four|five|first|second|third|fourth|fifth|a|b|c|d|e|alpha|bravo|charlie|delta|echo)";
+  const NUM = "(\\d+|one|two|three|four|five|first|second|third|fourth|fifth|a|b|c|d|e|alpha|bravo|charlie|delta|echo|एक|पहला|पहली|ए|दो|दूसरा|दूसरी|बी|तीन|तीसरा|तीसरी|सी|चार|चौथा|चौथी|डी|पाँच|पांच|पाँचवाँ|पांचवां|ई)";
   function explicitIndex(heard) {
     const n = norm(heard);
     // Safari sometimes transcribes spoken "option A" as just "option".
     if (n === "option") return 0;
-    let m = n.match(new RegExp("\\b(?:option|number|choice|answer|pick|letter)\\s+" + NUM + "\\b"));
+    let m = n.match(new RegExp("(?:^|\\s)(?:option|number|choice|answer|pick|letter|विकल्प|ऑप्शन|नंबर|क्रमांक|चुनाव|उत्तर)\\s+" + NUM + "(?:$|\\s)", "u"));
+    if (!m) m = n.match(new RegExp("(?:^|\\s)" + NUM + "\\s+(?:विकल्प|ऑप्शन|option)(?:$|\\s)", "u"));
     if (!m) m = n.match(new RegExp("^(?:the\\s+)?" + NUM + "(?:\\s+one)?$"));
     if (!m) return -1;
     const v = /^\d+$/.test(m[1]) ? parseInt(m[1], 10) : WORDNUM[m[1]];

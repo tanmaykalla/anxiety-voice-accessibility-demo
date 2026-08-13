@@ -10,9 +10,6 @@ const HOST = process.env.HOST || "127.0.0.1";
 const API_KEY = process.env.VOCAL_BRIDGE_API_KEY;
 const AGENT_ID = process.env.VOCAL_BRIDGE_AGENT_ID;
 
-if (!API_KEY) throw new Error("VOCAL_BRIDGE_API_KEY is missing from .env");
-if (!AGENT_ID) throw new Error("VOCAL_BRIDGE_AGENT_ID is missing from .env");
-
 const MIME = {
   ".css": "text/css; charset=utf-8", ".gif": "image/gif", ".html": "text/html; charset=utf-8",
   ".ico": "image/x-icon", ".jpeg": "image/jpeg", ".jpg": "image/jpeg", ".js": "text/javascript; charset=utf-8",
@@ -26,6 +23,7 @@ function sendJson(response, status, value) {
 }
 
 async function issueVoiceToken(request, response) {
+  if (!API_KEY || !AGENT_ID) return sendJson(response, 503, { error: "voice_stt_not_configured" });
   let body = "";
   for await (const chunk of request) {
     body += chunk;
@@ -92,5 +90,5 @@ const server = createServer(async (request, response) => {
 
 server.listen(PORT, HOST, () => {
   console.log(`Anxiety voice demo running at http://${HOST}:${PORT}`);
-  console.log(`Vocal Bridge agent: ${AGENT_ID}`);
+  console.log(API_KEY && AGENT_ID ? `Vocal Bridge agent: ${AGENT_ID}` : "Vocal Bridge STT is not configured; keyboard/mouse and browser TTS remain available");
 });
