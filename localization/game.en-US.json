@@ -1,0 +1,6575 @@
+{
+  "version": 1,
+  "game": "adventures-with-anxiety",
+  "sourceLocale": "en-US",
+  "lines": [
+    {
+      "id": "intro-d5e81dbbc710",
+      "scene": "intro",
+      "section": "intro-start",
+      "speaker": "narrator",
+      "text": "Welcome! This is less of a \"game,\" more of an interactive story. Hope you like reading, sucka!",
+      "emotion": "auto"
+    },
+    {
+      "id": "intro-bf9279ad9dce",
+      "scene": "intro",
+      "section": "intro-start",
+      "speaker": "narrator",
+      "text": "So before we start, how would you like to read?",
+      "emotion": "auto"
+    },
+    {
+      "id": "intro-cc5ea4c52600",
+      "scene": "intro",
+      "section": "intro-start-2",
+      "speaker": "narrator",
+      "text": "Great! Note: you can always change options with the ⚙ icon below. Also, game auto-saves at each chapter!",
+      "emotion": "auto"
+    },
+    {
+      "id": "intro-c5b9c12010b4",
+      "scene": "intro",
+      "section": "intro-start-2",
+      "speaker": "narrator",
+      "text": "Now, let's begin our story...",
+      "emotion": "auto"
+    },
+    {
+      "id": "intro-8b63bd79a578",
+      "scene": "intro",
+      "section": "intro-start-2",
+      "speaker": "narrator",
+      "text": "THIS IS A HUMAN",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5f81c1b5c57e",
+      "scene": "act1",
+      "section": "act1",
+      "speaker": "narrator",
+      "text": "AND THIS IS THE HUMAN'S ANXIETY",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-d911946f2d80",
+      "scene": "act1",
+      "section": "act1",
+      "speaker": "narrator",
+      "text": "YOU ARE THE ANXIETY",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5d4b4c1db556",
+      "scene": "act1",
+      "section": "act1_replay",
+      "speaker": "hong",
+      "text": "Oh hey! We're back here again?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5723a2ebee6e",
+      "scene": "act1",
+      "section": "act1_replay",
+      "speaker": "narrator",
+      "text": "YOUR JOB IS TO PROTECT YOUR HUMAN FROM DANGER",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-c2bb305338e5",
+      "scene": "act1",
+      "section": "act1_replay",
+      "speaker": "narrator",
+      "text": "IN FACT, REPLAYING THIS GAME IS PUTTING THEM IN DANGER RIGHT NOW",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-f19076dabb3b",
+      "scene": "act1",
+      "section": "act1_replay",
+      "speaker": "narrator",
+      "text": "QUICK, WARN THEM!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-e46155dac22d",
+      "scene": "act1",
+      "section": "act1_replay",
+      "speaker": "beebee",
+      "text": "Human! Listen, we're in danger! The player...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-0896a38008eb",
+      "scene": "act1",
+      "section": "act1_replay_torture",
+      "speaker": "beebee",
+      "text": "They'll make us curl up into a ball and cry!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-8a7a8373775c",
+      "scene": "act1",
+      "section": "act1_replay_torture",
+      "speaker": "beebee",
+      "text": "They'll make us kill your phone for giving you a panic attack!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-e8b59dc058ac",
+      "scene": "act1",
+      "section": "act1_replay_torture",
+      "speaker": "beebee",
+      "text": "They'll make us NOT punch the party host!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-96a6b74c2dc1",
+      "scene": "act1",
+      "section": "act1_replay_torture",
+      "speaker": "beebee",
+      "text": "They'll make us punch the Sympathetic Anti-Villain party host!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-2cd3b6ed72cb",
+      "scene": "act1",
+      "section": "act1_replay_torture",
+      "speaker": "hong",
+      "text": "Well at least we might not jump off the roof this ti--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-285fc4ed96aa",
+      "scene": "act1",
+      "section": "act1_replay_torture",
+      "speaker": "beebee",
+      "text": "THEY'LL MAKE US JUMP OFF THE ROOF.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-9cc3d9d8fc77",
+      "scene": "act1",
+      "section": "act1_replay_torture",
+      "speaker": "beebee",
+      "text": "ALL THESE NEW TERRIBLE THINGS WILL HAPPEN TO US, AND THEN WE'LL--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-e29937d47493",
+      "scene": "act1",
+      "section": "act1_replay_torture",
+      "speaker": "hong",
+      "text": "Sure, the story as a whole is the same, but each chapter has two possible endings, plus all the branching dialogue opti--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-622c9bb7c065",
+      "scene": "act1",
+      "section": "act1_replay_torture",
+      "speaker": "beebee",
+      "text": "The player will be disappointed, close this browser tab, delete our software, and then we'll--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-16d1f91bd4da",
+      "scene": "act1",
+      "section": "act1_replay_dissonance",
+      "speaker": "hong",
+      "text": "A lewd-what now?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5da5b67e6ba7",
+      "scene": "act1",
+      "section": "act1_replay_dissonance",
+      "speaker": "beebee",
+      "text": "The story arc was about how you can CHOOSE to build a healthy collaboration with your fear,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5367e85715d1",
+      "scene": "act1",
+      "section": "act1_replay_dissonance",
+      "speaker": "beebee",
+      "text": "But replaying the game will give the same story, implying your CHOICES don't matter,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-58626df147a7",
+      "scene": "act1",
+      "section": "act1_replay_dissonance",
+      "speaker": "beebee",
+      "text": "Thus showing a contradiction between the game's message and mechanics,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-cdddef82390e",
+      "scene": "act1",
+      "section": "act1_replay_dissonance",
+      "speaker": "beebee",
+      "text": "Thus unraveling the fabric of this narrative universe,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-b893954bb40d",
+      "scene": "act1",
+      "section": "act1_replay_dissonance",
+      "speaker": "beebee",
+      "text": "And then we'll--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-45a2bd1999bb",
+      "scene": "act1",
+      "section": "act1_replay_end",
+      "speaker": "beebee",
+      "text": "DIEEEEEEEEEEEEEEEEEEE",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-d870b620fa9c",
+      "scene": "act1",
+      "section": "act1_replay_end",
+      "speaker": "hong",
+      "text": "Okay let's get back into character.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-6100384da015",
+      "scene": "act1",
+      "section": "act1_replay_end",
+      "speaker": "narrator",
+      "text": "(LET YOUR ANXIETY BLAH BLAH BLAH MOST SIMILAR TO WHAT YOUR FEAR BLAH BLAH YOU KNOW THE DRILL)",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-ef9f4f7936fb",
+      "scene": "act1",
+      "section": "act1_normal",
+      "speaker": "hong",
+      "text": "Oh good, my wolf's back. Faaaaantastic.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-767ce4f44056",
+      "scene": "act1",
+      "section": "act1_normal",
+      "speaker": "narrator",
+      "text": "YOUR JOB IS TO PROTECT YOUR HUMAN FROM DANGER",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-2c1214b5210c",
+      "scene": "act1",
+      "section": "act1_normal",
+      "speaker": "narrator",
+      "text": "IN FACT, THAT SANDWICH IS PUTTING THEM IN DANGER RIGHT NOW",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-02f703bc4151",
+      "scene": "act1",
+      "section": "act1_normal",
+      "speaker": "narrator",
+      "text": "QUICK, WARN THEM!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-45cbeb35c5d7",
+      "scene": "act1",
+      "section": "act1_normal",
+      "speaker": "beebee",
+      "text": "Human! Listen, we're in danger! The danger is...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-dc664def7821",
+      "scene": "act1",
+      "section": "act1_normal",
+      "speaker": "narrator",
+      "text": "(LET YOUR ANXIETY COME OUT TO PLAY! PICK WHAT'S MOST SIMILAR TO WHAT YOUR FEAR TELLS YOU)",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-d810786100bb",
+      "scene": "act1",
+      "section": "act1a_alone",
+      "speaker": "beebee",
+      "text": "Don't you know loneliness is associated with premature death as much as smoking 15 cigarettes a day?-",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-41bb99759d55",
+      "scene": "act1",
+      "section": "act1a_alone",
+      "speaker": "beebee",
+      "text": "(Holt-Lunstad 2010, PLoS Medicine)",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-1f064757048f",
+      "scene": "act1",
+      "section": "act1a_alone",
+      "speaker": "hong",
+      "text": "Um, thanks for citing your sources but--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-c5e60ebde977",
+      "scene": "act1",
+      "section": "act1a_alone",
+      "speaker": "beebee",
+      "text": "Which means if we don't hang out with someone right now we're gonna-",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-12e6056682e6",
+      "scene": "act1",
+      "section": "act1a_alone",
+      "speaker": "beebee",
+      "text": "DIEEEEEEEEEEEEEEEEEEE",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-dd9e9d57efdf",
+      "scene": "act1",
+      "section": "act1a_alone",
+      "speaker": "narrator",
+      "text": "YOU USED FEAR OF BEING UNLOVED",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-e8def360e3c2",
+      "scene": "act1",
+      "section": "act1a_productive",
+      "speaker": "beebee",
+      "text": "Whip out your laptop and do some work right now!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5665709148bf",
+      "scene": "act1",
+      "section": "act1a_productive",
+      "speaker": "hong",
+      "text": "Um, I'd rather not get crumbs in my keyboa--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-2504661c59e4",
+      "scene": "act1",
+      "section": "act1a_productive",
+      "speaker": "beebee",
+      "text": "If we're not contributing to the body of society then we're a society-parasite!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-a23eb7354273",
+      "scene": "act1",
+      "section": "act1a_productive",
+      "speaker": "beebee",
+      "text": "The society-body will go to the society-doctor for medication to kill their society-parasites then we'll--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-91ad19ff3a98",
+      "scene": "act1",
+      "section": "act1a_productive",
+      "speaker": "beebee",
+      "text": "DIEEEEEEEEEEEEEEEEEEE",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-38d69b591f22",
+      "scene": "act1",
+      "section": "act1a_productive",
+      "speaker": "narrator",
+      "text": "YOU USED FEAR OF BEING A BAD PERSON",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-071cbb1c778e",
+      "scene": "act1",
+      "section": "act1a_bread",
+      "speaker": "hong",
+      "text": "Have those studies been replicat--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-8e8e9b60a248",
+      "scene": "act1",
+      "section": "act1a_bread",
+      "speaker": "beebee",
+      "text": "Processed wheat will spike our blood sugar so they'll have to amputate all our limbs and then we'll-",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-3d130de5b02a",
+      "scene": "act1",
+      "section": "act1a_bread",
+      "speaker": "beebee",
+      "text": "DIEEEEEEEEEEEEEEEEEEE",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-0f04881d259a",
+      "scene": "act1",
+      "section": "act1a_bread",
+      "speaker": "narrator",
+      "text": "YOU USED FEAR OF BEING HARMED",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5bb872b06111",
+      "scene": "act1",
+      "section": "act1b",
+      "speaker": "narrator",
+      "text": "IT'S SUPER EFFECTIVE",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-cd6bbf9a6e7b",
+      "scene": "act1",
+      "section": "act1b",
+      "speaker": "beebee",
+      "text": "See, human? I am your loyal guard-wolf!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-572b774b727c",
+      "scene": "act1",
+      "section": "act1b",
+      "speaker": "beebee",
+      "text": "Trust your gut! Your feelings are always valid!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-0e4854c6ca26",
+      "scene": "act1",
+      "section": "act1b",
+      "speaker": "narrator",
+      "text": "GET YOUR HUMAN'S ENERGY BAR TO ZERO",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-c503a624531c",
+      "scene": "act1",
+      "section": "act1b",
+      "speaker": "narrator",
+      "text": "TO PROTECT THEIR PHYSICAL + SOCIAL + MORAL NEEDS, YOU CAN USE:",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-37e8c6f9bddb",
+      "scene": "act1",
+      "section": "act1b",
+      "speaker": "narrator",
+      "text": "FEAR OF BEING HARMED",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-9f7c0e9e2be4",
+      "scene": "act1",
+      "section": "act1b",
+      "speaker": "narrator",
+      "text": "FEAR OF BEING UNLOVED",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-ec3dacff56a2",
+      "scene": "act1",
+      "section": "act1b",
+      "speaker": "narrator",
+      "text": "AND FEAR OF BEING A BAD PERSON",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-8eff70e08faa",
+      "scene": "act1",
+      "section": "act1b",
+      "speaker": "narrator",
+      "text": "(PRO-TIP: PLAY THE CHOICES THAT PERSONALLY HIT YOUR DEEPEST, DARKEST FEARS!~)",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-011c4fb9599d",
+      "scene": "act1",
+      "section": "act1b",
+      "speaker": "hong",
+      "text": "you know what maybe it's time to check my phone.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-1acfb2d0cdb0",
+      "scene": "act1",
+      "section": "act1b",
+      "speaker": "narrator",
+      "text": "PROTECT YOUR HUMAN",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-2c7558be267d",
+      "scene": "act1",
+      "section": "act1b",
+      "speaker": "narrator",
+      "text": "FROM THE WORLD. FROM OTHER PEOPLE. FROM THEMSELF.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-9ec13aff1d2d",
+      "scene": "act1",
+      "section": "act1b",
+      "speaker": "narrator",
+      "text": "GOOD LUCK",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-48e5be1c097a",
+      "scene": "act1",
+      "section": "act1c",
+      "speaker": "narrator",
+      "text": "ROUND ONE: FIGHT!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-427a064da779",
+      "scene": "act1",
+      "section": "act1c",
+      "speaker": "hong",
+      "text": "Huh. Facebook feed says there's a party happening this weekend.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-46e1b447cf61",
+      "scene": "act1",
+      "section": "act1c",
+      "speaker": "beebee",
+      "text": "Doesn't that weirdo throw a party every weekend?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-8adc641c1873",
+      "scene": "act1",
+      "section": "act1c",
+      "speaker": "beebee",
+      "text": "What inner void are they trying to fill? They must be deeply messed up inside!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5d087cfccac7",
+      "scene": "act1",
+      "section": "act1c",
+      "speaker": "hong",
+      "text": "Also, I got an invite?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-3cf4a3734d2d",
+      "scene": "act1",
+      "section": "act1c",
+      "speaker": "beebee",
+      "text": "Well then!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-f3a2d0a7114d",
+      "scene": "act1",
+      "section": "act1c_loner",
+      "speaker": "beebee",
+      "text": "Fifteen cigarettes a day, human! Fifteen!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-a24069e02b77",
+      "scene": "act1",
+      "section": "act1c_loner",
+      "speaker": "beebee",
+      "text": "Then no one will show up at our funeral, they'll dump our ashes into the ocean, we get eaten by a whale,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-c50ff5cb66ab",
+      "scene": "act1",
+      "section": "act1c_loner",
+      "speaker": "beebee",
+      "text": "and we become WHALE POOP!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-67a49af476d8",
+      "scene": "act1",
+      "section": "act1c_loner",
+      "speaker": "beebee",
+      "text": "So yeah we should go to that party!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-e4c02b170452",
+      "scene": "act1",
+      "section": "act1c_loner",
+      "speaker": "beebee",
+      "text": "Just bring the laptop so we can do work, and not be a society-parasite.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-b8162cc6c87c",
+      "scene": "act1",
+      "section": "act1c_loner",
+      "speaker": "beebee",
+      "text": "Just as long as they don't serve WHITE BREAD",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-4cc3b8470202",
+      "scene": "act1",
+      "section": "act1c_loner",
+      "speaker": "hong",
+      "text": "GOD. If it'll make you shut up, fine.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-32e35b80b211",
+      "scene": "act1",
+      "section": "act1c_loner",
+      "speaker": "hong",
+      "text": "I'll say yes.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-c33daddb16e3",
+      "scene": "act1",
+      "section": "act1c_loner",
+      "speaker": "beebee",
+      "text": "Whale poop, human! Whale poop!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-39312a25b8d6",
+      "scene": "act1",
+      "section": "act1c_drugs",
+      "speaker": "beebee",
+      "text": "or even worse... WHITE BREAD",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-ad6e6f93252f",
+      "scene": "act1",
+      "section": "act1c_drugs",
+      "speaker": "beebee",
+      "text": "We'll overdose on so much meth and white bread they won't be able to fit our fat corpse into the cremation furnace!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-60d63c5bb3fe",
+      "scene": "act1",
+      "section": "act1c_drugs",
+      "speaker": "beebee",
+      "text": "We'll overdose on so many drugs the undertaker will wonder how our body was already pre-embalmed!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-9de5943dbf8c",
+      "scene": "act1",
+      "section": "act1c_drugs",
+      "speaker": "beebee",
+      "text": "Besides, can't party, we need to do work or we're a terrible society-parasite!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-214ce33f44ec",
+      "scene": "act1",
+      "section": "act1c_drugs",
+      "speaker": "hong",
+      "text": "GOD. If it'll make you shut up, fine.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-2c6d82737479",
+      "scene": "act1",
+      "section": "act1c_drugs",
+      "speaker": "hong",
+      "text": "I'll say no.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-12448f5211d1",
+      "scene": "act1",
+      "section": "act1c_sad",
+      "speaker": "beebee",
+      "text": "All we ever do is cry in a corner about how loneliness is as deadly as 15 cigarettes a day.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-977ee72e97bc",
+      "scene": "act1",
+      "section": "act1c_sad",
+      "speaker": "beebee",
+      "text": "All we ever do at parties is worry about how we should be productive instead.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-7b03df65f126",
+      "scene": "act1",
+      "section": "act1c_sad",
+      "speaker": "beebee",
+      "text": "All we ever do is worry about how the unhealthy food options are going to kill us.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-48ed2b293ebd",
+      "scene": "act1",
+      "section": "act1c_sad",
+      "speaker": "hong",
+      "text": "gee i wonder why.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-866cd8da5581",
+      "scene": "act1",
+      "section": "act1c_sad",
+      "speaker": "beebee",
+      "text": "So if we go we'll make them feel bad, but if we reject their invite we'll also make them feel bad!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5b25cb98774f",
+      "scene": "act1",
+      "section": "act1c_sad",
+      "speaker": "beebee",
+      "text": "ALL WE DO IS MAKE PEOPLE FEEL BAD, SO WE SHOULD FEEL BAD",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-0c702029aa4b",
+      "scene": "act1",
+      "section": "act1c_sad",
+      "speaker": "hong",
+      "text": "Ugh. If it'll make you shut up, fine.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-ba2e80f705fa",
+      "scene": "act1",
+      "section": "act1c_sad",
+      "speaker": "hong",
+      "text": "I'll ignore the invite.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-a01d8ba1ea5f",
+      "scene": "act1",
+      "section": "act1d",
+      "speaker": "hong",
+      "text": "Anyway. Facebook's too much. I need something calmer, less anxiety-producing.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-7a1d03f279fa",
+      "scene": "act1",
+      "section": "act1d",
+      "speaker": "hong",
+      "text": "What's new on Twitter?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-65c8d66b3192",
+      "scene": "act1",
+      "section": "act1d_news",
+      "speaker": "beebee",
+      "text": "God, it feels like the world's burning, isn't it?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-c85889c25149",
+      "scene": "act1",
+      "section": "act1d_news",
+      "speaker": "beebee",
+      "text": "It feels like it's all ending, like everything's dying and we're doomed and there's nothing we can do about it.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-3f7467e6819e",
+      "scene": "act1",
+      "section": "act1d_news",
+      "speaker": "beebee",
+      "text": "Let's retweet that story!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-3e8931f0c1e6",
+      "scene": "act1",
+      "section": "act1d_news",
+      "speaker": "hong",
+      "text": "Okay I'll retweet it just please be quiet!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-378e8e4d17c5",
+      "scene": "act1",
+      "section": "act1d_news",
+      "speaker": "hong",
+      "text": "Screw it, let's look at Snapchat.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-adeae2f42836",
+      "scene": "act1",
+      "section": "act1d_subtweet",
+      "speaker": "beebee",
+      "text": "It's a subtweet! A sneaky, sneaky subtweet!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-de3a57432b02",
+      "scene": "act1",
+      "section": "act1d_subtweet",
+      "speaker": "hong",
+      "text": "It's probably not?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-af8b3b69ebd1",
+      "scene": "act1",
+      "section": "act1d_subtweet",
+      "speaker": "beebee",
+      "text": "but what if they're all talking behind our back",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-bf5c91a16445",
+      "scene": "act1",
+      "section": "act1d_subtweet",
+      "speaker": "hong",
+      "text": "They're n--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-04ab251b144e",
+      "scene": "act1",
+      "section": "act1d_subtweet",
+      "speaker": "beebee",
+      "text": "IN FRONT OF OUR BACK",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-3153addbdb08",
+      "scene": "act1",
+      "section": "act1d_subtweet",
+      "speaker": "hong",
+      "text": "I d--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-be8fac68e90e",
+      "scene": "act1",
+      "section": "act1d_subtweet",
+      "speaker": "beebee",
+      "text": "but what if",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-9ea995a1f22c",
+      "scene": "act1",
+      "section": "act1d_subtweet",
+      "speaker": "hong",
+      "text": "S--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-2f965cfdd8d8",
+      "scene": "act1",
+      "section": "act1d_subtweet",
+      "speaker": "beebee",
+      "text": "what if",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-ea4e8b351eab",
+      "scene": "act1",
+      "section": "act1d_subtweet",
+      "speaker": "hong",
+      "text": "o-KAY, gonna try Snapchat.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-c6a8f9c3c4e8",
+      "scene": "act1",
+      "section": "act1d_milk",
+      "speaker": "hong",
+      "text": "Heh ya that's cute, just retweeted it, I thi--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-e16f41ce9939",
+      "scene": "act1",
+      "section": "act1d_milk",
+      "speaker": "beebee",
+      "text": "CATS CAN'T DIGEST MILK AND WE'RE TERRIBLE PEOPLE FOR ENJOYING ANIMAL ABUSE",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-d5b39a1a512b",
+      "scene": "act1",
+      "section": "act1d_milk",
+      "speaker": "hong",
+      "text": "o-KAY, gonna try Snapchat.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-c44aa709c603",
+      "scene": "act1",
+      "section": "act1e",
+      "speaker": "hong",
+      "text": "Huh, photos from yesterday night. So that's what those weekly parties are like.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-2c2639213388",
+      "scene": "act1",
+      "section": "act1e_said_yes",
+      "speaker": "hong",
+      "text": "Oof, looks way too crowded for my anxiety.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-c5316924ac3d",
+      "scene": "act1",
+      "section": "act1e_said_yes",
+      "speaker": "hong",
+      "text": "Maybe I shouldn't have said yes to the invite?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-915d0456d220",
+      "scene": "act1",
+      "section": "act1e_yes_dontchange",
+      "speaker": "beebee",
+      "text": "They were counting on us to come and now we're betraying their trust? Do you wanna die alone?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-e14d422ce9fb",
+      "scene": "act1",
+      "section": "act1e_yes_dontchange",
+      "speaker": "beebee",
+      "text": "FIFTEEN. CIGARETTES.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-88bff6902c4b",
+      "scene": "act1",
+      "section": "act1e_yes_dontchange",
+      "speaker": "beebee",
+      "text": "WHALE. POOP.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-17acb4d8095e",
+      "scene": "act1",
+      "section": "act1e_yes_dontchange",
+      "speaker": "hong",
+      "text": "Shut up shut up I'll keep it as yes!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-df5d058c6acc",
+      "scene": "act1",
+      "section": "act1e_yes_changetono",
+      "speaker": "beebee",
+      "text": "Don't you know about human stampedes?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-75cf7d229223",
+      "scene": "act1",
+      "section": "act1e_yes_changetono",
+      "speaker": "beebee",
+      "text": "In 2003 a Rhode Island nightclub had a fire and the panic made people jam the exits so 100 people burned to death-",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-2cf578555d5a",
+      "scene": "act1",
+      "section": "act1e_yes_changetono",
+      "speaker": "beebee",
+      "text": "DO YOU WANT THAT TO HAPPEN TO US-",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-27a1df9fa9a3",
+      "scene": "act1",
+      "section": "act1e_yes_changetono",
+      "speaker": "beebee",
+      "text": "SAY NO SAY NO SAY NO SAY NO SAY NO SAY NO SAY NO SAY NO SAY N-",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-96c3cc13d4b8",
+      "scene": "act1",
+      "section": "act1e_yes_changetono",
+      "speaker": "hong",
+      "text": "Shut up shut up I'll change my answer to no! God!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-6ea103b485f4",
+      "scene": "act1",
+      "section": "act1e_said_no",
+      "speaker": "hong",
+      "text": "Hm... that looks really fun.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-66ee7aac66f6",
+      "scene": "act1",
+      "section": "act1e_said_no",
+      "speaker": "hong",
+      "text": "Maybe I shouldn't have said no to the invite?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-3d68b10907a2",
+      "scene": "act1",
+      "section": "act1e_no_dontchange",
+      "speaker": "beebee",
+      "text": "Everybody was counting on us!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-173758f8c843",
+      "scene": "act1",
+      "section": "act1e_no_dontchange",
+      "speaker": "beebee",
+      "text": "...to leave them alone and let them have a nice party without a horrible disgusting {{if _.whitebread}}white-bread-munching{{/if}} creep like u--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5880a411d382",
+      "scene": "act1",
+      "section": "act1e_no_dontchange",
+      "speaker": "hong",
+      "text": "Shut up shut up I'll keep it as no!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-a19d3354c86d",
+      "scene": "act1",
+      "section": "act1e_no_changetoyes",
+      "speaker": "beebee",
+      "text": "Chronic loneliness increases our cortisol levels as well as risk for cardiovascular disease and stroke!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-03c6daf9a42d",
+      "scene": "act1",
+      "section": "act1e_no_changetoyes",
+      "speaker": "beebee",
+      "text": "FIFTEEN. CIGARETTES.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5624f182ce43",
+      "scene": "act1",
+      "section": "act1e_no_changetoyes",
+      "speaker": "hong",
+      "text": "Shut up shut up I'll change my answer to yes! God!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-3b83a0191676",
+      "scene": "act1",
+      "section": "act1e_ignore_subtweet",
+      "speaker": "beebee",
+      "text": "All our problematic tweets have come back to roost!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-1adde152691e",
+      "scene": "act1",
+      "section": "act1e_ignore_subtweet",
+      "speaker": "beebee",
+      "text": "We're gonna get called out and cancelled and dragged with a rope on horseback down the information superhighway!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-e4b9fea685f5",
+      "scene": "act1",
+      "section": "act1e_ignore_subtweet",
+      "speaker": "hong",
+      "text": "Why are you like this?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-92af3aae3df1",
+      "scene": "act1",
+      "section": "act1e_ignore_factcheck",
+      "speaker": "beebee",
+      "text": "We're spreading disinformation! We're destroying trust in a free press!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-fb4322f5a55d",
+      "scene": "act1",
+      "section": "act1e_ignore_factcheck",
+      "speaker": "beebee",
+      "text": "We're the reason fascism will arise from the rubble of democracy!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5c5fa1006911",
+      "scene": "act1",
+      "section": "act1e_ignore_factcheck",
+      "speaker": "hong",
+      "text": "Why are you like this?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-287748668ad4",
+      "scene": "act1",
+      "section": "act1e_ignore_posture",
+      "speaker": "beebee",
+      "text": "Do you want to have a pretzel for a spine?! Stop hunching over your screen!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-f66e9c3bab02",
+      "scene": "act1",
+      "section": "act1e_ignore_posture",
+      "speaker": "beebee",
+      "text": "That means you too.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-90bc9d51d913",
+      "scene": "act1",
+      "section": "act1e_ignore_posture",
+      "speaker": "hong",
+      "text": "Why are you like this?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-2e6dfdcb09cc",
+      "scene": "act1",
+      "section": "act1e_said_ignore",
+      "speaker": "hong",
+      "text": "Hm... that looks really fun.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-fdb6f42f0ba2",
+      "scene": "act1",
+      "section": "act1e_said_ignore",
+      "speaker": "hong",
+      "text": "Maybe I shouldn't have ignored the invite?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-94364f7122d1",
+      "scene": "act1",
+      "section": "act1e_ignore_continue",
+      "speaker": "hong",
+      "text": "It's kinda rude to keep ignoring them though, no?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-6b7f6b95fbda",
+      "scene": "act1",
+      "section": "act1e_ignore_continue",
+      "speaker": "beebee",
+      "text": "Well other people always ignore us, so",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-7d4bdeef2863",
+      "scene": "act1",
+      "section": "act1e_ignore_continue",
+      "speaker": "beebee",
+      "text": "so let's just call it even.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5cbf8dba9080",
+      "scene": "act1",
+      "section": "act1e_ignore_changetoyes",
+      "speaker": "hong",
+      "text": "You're... letting me have fun?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-a50854afb0c6",
+      "scene": "act1",
+      "section": "act1e_ignore_changetoyes",
+      "speaker": "beebee",
+      "text": "Well, I mean, loneliness can kill us.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-193d4851d4d0",
+      "scene": "act1",
+      "section": "act1e_ignore_changetono",
+      "speaker": "beebee",
+      "text": "It's too crowded. Crowds are dangerous.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-c468c004f7fb",
+      "scene": "act1",
+      "section": "act1f",
+      "speaker": "hong",
+      "text": "Whatever. New Tinder notification.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-63b44cc065e7",
+      "scene": "act1",
+      "section": "act1f",
+      "speaker": "beebee",
+      "text": "What, that hookup app?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-e89668867a83",
+      "scene": "act1",
+      "section": "act1f",
+      "speaker": "hong",
+      "text": "It's not a hookup app, it's just a way to meet new peopl--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-8fa19488f284",
+      "scene": "act1",
+      "section": "act1f",
+      "speaker": "beebee",
+      "text": "It's a hookup app.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-c2c5bf501999",
+      "scene": "act1",
+      "section": "act1f",
+      "speaker": "hong",
+      "text": "Oh, I got a match! They look cute!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5505ebe4b106",
+      "scene": "act1",
+      "section": "act1f",
+      "speaker": "hong",
+      "text": "Please don't ruin this for m--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-2793c3a97355",
+      "scene": "act1",
+      "section": "act1f",
+      "speaker": "beebee",
+      "text": "DANGER DANGER DANGER DANGER DANGER DANGER",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-897e9ec5513f",
+      "scene": "act1",
+      "section": "act1f_used_by_others",
+      "speaker": "beebee",
+      "text": "Random hookups may be able to fill the hole down there,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-af7468b2a80c",
+      "scene": "act1",
+      "section": "act1f_used_by_others",
+      "speaker": "beebee",
+      "text": "but they can never fill the hole...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-d95a91850d4e",
+      "scene": "act1",
+      "section": "act1f_used_by_others",
+      "speaker": "beebee",
+      "text": "in here.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-b10099baf020",
+      "scene": "act1",
+      "section": "act1f_used_by_others",
+      "speaker": "beebee",
+      "text": "The point is WE'RE GOING TO DIE ALONE",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-21e5b7b5cdfd",
+      "scene": "act1",
+      "section": "act1f_using_others",
+      "speaker": "beebee",
+      "text": "You think other people's genitals are Pokémon for us to collect?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-fffe75d9e63e",
+      "scene": "act1",
+      "section": "act1f_using_others",
+      "speaker": "beebee",
+      "text": "♫ (pokemon theme song)-",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-280af099d0d3",
+      "scene": "act1",
+      "section": "act1f_using_others",
+      "speaker": "beebee",
+      "text": "♫ I wanna be, the slutti-est-",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-040150b9f5e1",
+      "scene": "act1",
+      "section": "act1f_using_others",
+      "speaker": "beebee",
+      "text": "♫ Like no one ever was-",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-e440f3837290",
+      "scene": "act1",
+      "section": "act1f_using_others",
+      "speaker": "beebee",
+      "text": "♫ Thighs n' ass, voluptuous breast-",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-08389b80916d",
+      "scene": "act1",
+      "section": "act1f_using_others",
+      "speaker": "beebee",
+      "text": "♫ with sweaty dick and balls!-",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-11a017e6194a",
+      "scene": "act1",
+      "section": "act1f_using_others",
+      "speaker": "beebee",
+      "text": "♫ PERVY-MON! GOTTA CA-",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-207b0ebc3247",
+      "scene": "act1",
+      "section": "act1f_using_others",
+      "speaker": "beebee",
+      "text": "The point is we're a manipulative creep.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-fa60cb0bbdd6",
+      "scene": "act1",
+      "section": "act1f_killer",
+      "speaker": "beebee",
+      "text": "They'll trap you in a well and force-feed you white bread to fatten you up so they can wear your skin like a suit!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5f68f13629e8",
+      "scene": "act1",
+      "section": "act1f_killer",
+      "speaker": "beebee",
+      "text": "They'll bludgeon you with a pomodoro timer and say \"YOU SHOULDA BEEN MORE PRODUCTIVE YOU PARASITE\"",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-e8848193b0f1",
+      "scene": "act1",
+      "section": "act1f_killer",
+      "speaker": "beebee",
+      "text": "They'll tear your flesh to gory confetti, turn your entrails into streamers, and mix your blood into a punch bowl!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-6387804abd77",
+      "scene": "act1",
+      "section": "act1f_killer",
+      "speaker": "beebee",
+      "text": "How's THAT for a party invite?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-a187bb713a1c",
+      "scene": "act1",
+      "section": "act1g",
+      "speaker": "hong",
+      "text": "i'm so sick of this game.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-dd30c8b6445a",
+      "scene": "act1",
+      "section": "act1g",
+      "speaker": "hong",
+      "text": "i just want to live my life.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-cabfc80d1044",
+      "scene": "act1",
+      "section": "act1g",
+      "speaker": "hong",
+      "text": "i just want to be free from all this... pain.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-0a205a76a872",
+      "scene": "act1",
+      "section": "act1g",
+      "speaker": "beebee",
+      "text": "Hey... human...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-1c79015a8b17",
+      "scene": "act1",
+      "section": "act1g",
+      "speaker": "beebee",
+      "text": "It'll be okay.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-97b5973e65be",
+      "scene": "act1",
+      "section": "act1g",
+      "speaker": "beebee",
+      "text": "As your loyal guard-wolf, I'll always keep an eye out for danger, and do my best to keep you safe.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-8c911ced6a7c",
+      "scene": "act1",
+      "section": "act1g",
+      "speaker": "beebee",
+      "text": "I promise.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-4aef4b789ab1",
+      "scene": "act1",
+      "section": "act1g",
+      "speaker": "hong",
+      "text": "Last app. Instagram. What you got?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-45f09b24b36d",
+      "scene": "act1",
+      "section": "act1g",
+      "speaker": "hong",
+      "text": "It's... more party pictures.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-076c47f3005f",
+      "scene": "act1",
+      "section": "act1g",
+      "speaker": "hong",
+      "text": "Everyone looks so happy. Free from worry. Free from anxiety.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-16c382e09c53",
+      "scene": "act1",
+      "section": "act1g",
+      "speaker": "hong",
+      "text": "God, why can't I be like them? Why can't I just be normal?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-14f8d1f1dde5",
+      "scene": "act1",
+      "section": "act1g",
+      "speaker": "beebee",
+      "text": "Speaking of parties, about this weekend's invite. Here's my FINAL decision:",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-ba7a29f20d16",
+      "scene": "act1",
+      "section": "act1h",
+      "speaker": "beebee",
+      "text": "We sh--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-ea210263d132",
+      "scene": "act1",
+      "section": "act1h",
+      "speaker": "hong",
+      "text": "FUCK.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-94e0edb30912",
+      "scene": "act1",
+      "section": "act1h",
+      "speaker": "hong",
+      "text": "YOU.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-862e3f6360f2",
+      "scene": "act1",
+      "section": "act1h",
+      "speaker": "beebee",
+      "text": "w",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-adacde904d74",
+      "scene": "act1",
+      "section": "act1h",
+      "speaker": "beebee",
+      "text": "wha?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-537a5004dcc6",
+      "scene": "act1",
+      "section": "act1h",
+      "speaker": "hong",
+      "text": "I'm going to say YES to that party,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-551328ee3bb7",
+      "scene": "act1",
+      "section": "act1h",
+      "speaker": "hong",
+      "text": "NOT because you want me to, but because I want to.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-fa6f390de49d",
+      "scene": "act1",
+      "section": "act1h",
+      "speaker": "hong",
+      "text": "Precisely BECAUSE you don't want me to.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5911db5e8232",
+      "scene": "act1",
+      "section": "act1h",
+      "speaker": "hong",
+      "text": "You're NOT in control of me.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-286693005434",
+      "scene": "act1",
+      "section": "act1h",
+      "speaker": "hong",
+      "text": "Now excuse me while I eat this delicious sandwich in goddamn peace.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-7f48877dd58e",
+      "scene": "act1",
+      "section": "act1h_death",
+      "speaker": "beebee",
+      "text": "AHHHH WE'RE GONNA DIE AAAAAAHHHHHHH",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-daabea03c8a9",
+      "scene": "act1",
+      "section": "act1h_loneliness",
+      "speaker": "beebee",
+      "text": "AHHHH EVERYONE HATES US AAAAAAHHHHHHH",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5ad32d58cade",
+      "scene": "act1",
+      "section": "act1h_worthless",
+      "speaker": "beebee",
+      "text": "AHHHH WE'RE HORRIBLE PEOPLE AAAAAAHHHHHHH",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-a1ef45b1560c",
+      "scene": "act1",
+      "section": "act1i",
+      "speaker": "narrator",
+      "text": "CONGRATULATIONS",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-509fceaa4dd3",
+      "scene": "act1",
+      "section": "act1i",
+      "speaker": "narrator",
+      "text": "YOU'VE SUCCESSFULLY PROTECTED YOUR HUMAN'S PHYSICAL + SOCIAL + MORAL NEEDS",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-5bf9889a835a",
+      "scene": "act1",
+      "section": "act1i",
+      "speaker": "narrator",
+      "text": "WHY, LOOK HOW GRATEFUL THEY ARE!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-8f5b24977248",
+      "scene": "act1",
+      "section": "act1i",
+      "speaker": "narrator",
+      "text": "NOW THAT THEIR ENERGY IS ZERO, YOU CAN DIRECTLY CONTROL THEIR ACTIONS",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-b878ad7411a2",
+      "scene": "act1",
+      "section": "act1i",
+      "speaker": "narrator",
+      "text": "PICK YOUR ENDING MOVE",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-07ac5eea19d4",
+      "scene": "act1",
+      "section": "act1i",
+      "speaker": "narrator",
+      "text": "FINISH THEM",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-fc32bbfd5736",
+      "scene": "act1",
+      "section": "act1i_phone",
+      "speaker": "beebee",
+      "text": "Your phone was giving you a panic attack!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-9171ae31af4f",
+      "scene": "act1",
+      "section": "act1i_phone",
+      "speaker": "beebee",
+      "text": "Zuckerberg and Co are hijacking your mental health for venture capitalist money!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-6074497a5019",
+      "scene": "act1",
+      "section": "act1i_phone",
+      "speaker": "beebee",
+      "text": "Punish your phone! Destroy it! Kill it!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-4a1f8e4da9f5",
+      "scene": "act1",
+      "section": "act1i_phone",
+      "speaker": "beebee",
+      "text": "KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL I--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-0a2092d09b2e",
+      "scene": "act1",
+      "section": "act1i_cry",
+      "speaker": "beebee",
+      "text": "The whole world is filled with danger!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-e471efe2e249",
+      "scene": "act1",
+      "section": "act1i_cry",
+      "speaker": "beebee",
+      "text": "Do like the armadillo! Curl up into a ball for self-defense!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act1-cdf2d0e5321c",
+      "scene": "act1",
+      "section": "act1i_cry",
+      "speaker": "beebee",
+      "text": "CURL UP AND CRY CURL UP AND CRY CURL UP AND CRY CURL UP AND CRY CURL UP AND CRY CURL UP AND CR--",
+      "emotion": "auto"
+    },
+    {
+      "id": "intermission-2cd7cd54e164",
+      "scene": "intermission",
+      "section": "intermission",
+      "speaker": "narrator",
+      "text": "FEARS THIS ROUND:",
+      "emotion": "auto"
+    },
+    {
+      "id": "intermission-24729588660a",
+      "scene": "intermission",
+      "section": "intermission",
+      "speaker": "narrator",
+      "text": "BEING HARMED: {{_.INTERMISSIONSTAGE==1 ? .attackharmch1 : _.attackharmch2}}",
+      "emotion": "auto"
+    },
+    {
+      "id": "intermission-50ad93a2722e",
+      "scene": "intermission",
+      "section": "intermission",
+      "speaker": "narrator",
+      "text": "BEING UNLOVED: {{_.INTERMISSIONSTAGE==1 ? .attackalonech1 : _.attackalonech2}}",
+      "emotion": "auto"
+    },
+    {
+      "id": "intermission-d1399a63cabd",
+      "scene": "intermission",
+      "section": "intermission",
+      "speaker": "narrator",
+      "text": "BEING A BAD PERSON: {{_.INTERMISSIONSTAGE==1 ? .attackbadch1 : _.attackbadch2}}",
+      "emotion": "auto"
+    },
+    {
+      "id": "intermission-9413b641e705",
+      "scene": "intermission",
+      "section": "intermission",
+      "speaker": "narrator",
+      "text": "(game auto-saved! it's ok to quit & continue later)",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-49ee85173a1d",
+      "scene": "act2",
+      "section": "act2-preamble-news1",
+      "speaker": "shire",
+      "text": "But did you see that \"news story\" about that horrible thing happening somewhere?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-b487b9579e49",
+      "scene": "act2",
+      "section": "act2-preamble-news1",
+      "speaker": "hong",
+      "text": "h-hi...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-f8fa6d832b61",
+      "scene": "act2",
+      "section": "act2-preamble-news1",
+      "speaker": "al",
+      "text": "God I hate the news. It's all sensationalism and clickbait.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-8ebaf1c1e3d5",
+      "scene": "act2",
+      "section": "act2-preamble-news1",
+      "speaker": "hong",
+      "text": "n... nice party...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-abb9c0a386e5",
+      "scene": "act2",
+      "section": "act2-preamble-news1",
+      "speaker": "shire",
+      "text": "True, but they're just following incentives. The real problem is people who click the clickbait.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-faf3c75bcb70",
+      "scene": "act2",
+      "section": "act2-preamble-news1",
+      "speaker": "shire",
+      "text": "Who would retweet a terrible news story, and make all their friends feel bad?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-bea6a0c6ff24",
+      "scene": "act2",
+      "section": "act2-preamble-news1",
+      "speaker": "al",
+      "text": "Ugh, I know right?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-27d0aae03abe",
+      "scene": "act2",
+      "section": "act2-preamble-news2",
+      "speaker": "shire",
+      "text": "But did you see that \"news story\" going viral?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-721fd7f4137e",
+      "scene": "act2",
+      "section": "act2-preamble-news2",
+      "speaker": "hong",
+      "text": "h-hi...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-acac3d9fc205",
+      "scene": "act2",
+      "section": "act2-preamble-news2",
+      "speaker": "al",
+      "text": "Yeah, totally fake. Who would fall for that and retweet it?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-8ac492329ecc",
+      "scene": "act2",
+      "section": "act2-preamble-news2",
+      "speaker": "hong",
+      "text": "n... nice party...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-4b0bf1c953c5",
+      "scene": "act2",
+      "section": "act2-preamble-news2",
+      "speaker": "shire",
+      "text": "Seriously dude. Like, hello, open up Google and factcheck first?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-196c27f5a7a3",
+      "scene": "act2",
+      "section": "act2-preamble-news2",
+      "speaker": "al",
+      "text": "Ugh, I know right?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-8d90b2539987",
+      "scene": "act2",
+      "section": "act2-preamble-cat",
+      "speaker": "shire",
+      "text": "Like I was saying, the Meme Industrial Complex exploits cats.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-9010cd4f7f9e",
+      "scene": "act2",
+      "section": "act2-preamble-cat",
+      "speaker": "hong",
+      "text": "h-hi...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-4317396147b8",
+      "scene": "act2",
+      "section": "act2-preamble-cat",
+      "speaker": "al",
+      "text": "Elaborate on this thesis.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-baded3080beb",
+      "scene": "act2",
+      "section": "act2-preamble-cat",
+      "speaker": "hong",
+      "text": "n... nice party...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-e4108222b005",
+      "scene": "act2",
+      "section": "act2-preamble-cat",
+      "speaker": "shire",
+      "text": "Well, I saw someone retweet a GIF of a cat drinking milk yesterday.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-9ae0e915a7c8",
+      "scene": "act2",
+      "section": "act2-preamble-cat",
+      "speaker": "shire",
+      "text": "They can't digest that crap! Who would retweet animal abuse like that?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-2b42f83036a1",
+      "scene": "act2",
+      "section": "act2-preamble-cat",
+      "speaker": "al",
+      "text": "Ugh, I know right?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-b24e3dd8ff4e",
+      "scene": "act2",
+      "section": "act2-preamble-tinder",
+      "speaker": "shire",
+      "text": "So yeah they never replied back!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-ee56d163da61",
+      "scene": "act2",
+      "section": "act2-preamble-tinder",
+      "speaker": "hong",
+      "text": "h-hi...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-50b0c5b32bce",
+      "scene": "act2",
+      "section": "act2-preamble-tinder",
+      "speaker": "al",
+      "text": "Even though you both matched each other on Tinder?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-dd52517cf0a6",
+      "scene": "act2",
+      "section": "act2-preamble-tinder",
+      "speaker": "hong",
+      "text": "n... nice party...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-ad8410a592f3",
+      "scene": "act2",
+      "section": "act2-preamble-serialkiller",
+      "speaker": "shire",
+      "text": "Yeah I dunno! What, did they think I was a serial killer or something? So paranoid.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-a486ffc5aab6",
+      "scene": "act2",
+      "section": "act2-preamble-serialkiller",
+      "speaker": "al",
+      "text": "Ugh, I know right?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-16a6e82b0421",
+      "scene": "act2",
+      "section": "act2-preamble-hookuphole",
+      "speaker": "shire",
+      "text": "Yeah I dunno! Maybe they think hookups can't fill the hole in their heart?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-7b69381d110b",
+      "scene": "act2",
+      "section": "act2-preamble-hookuphole",
+      "speaker": "shire",
+      "text": "Stop being such a prude! Open your mind, then open your legs!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-a391e6daada6",
+      "scene": "act2",
+      "section": "act2-preamble-hookuphole",
+      "speaker": "al",
+      "text": "Ugh, I know right?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-a6f886f7ac01",
+      "scene": "act2",
+      "section": "act2-preamble-pokemon",
+      "speaker": "shire",
+      "text": "Yeah I dunno! They weren't that hot, but they would have been a nice catch!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-47f73a1e8447",
+      "scene": "act2",
+      "section": "act2-preamble-pokemon",
+      "speaker": "al",
+      "text": "Gotta Catch 'Em All!™",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-e6e4dd916886",
+      "scene": "act2",
+      "section": "act2-preamble-end",
+      "speaker": "narrator",
+      "text": "ROUND TWO: FIGHT!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-08c2a3d2e26b",
+      "scene": "act2",
+      "section": "act2a_social",
+      "speaker": "beebee",
+      "text": "We're bringing down the mood of this party by being such a sad lump!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-450b4849443a",
+      "scene": "act2",
+      "section": "act2a_social",
+      "speaker": "beebee",
+      "text": "We're killing the good vibes! We're committing first-degree vibe-murder!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-f35dec33f7d4",
+      "scene": "act2",
+      "section": "act2a_social",
+      "speaker": "beebee",
+      "text": "Human, we have to leave now before--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-d3f117d64577",
+      "scene": "act2",
+      "section": "act2a_perv",
+      "speaker": "beebee",
+      "text": "They're more attractive than us, which means if we even look at them, then--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-0eaa7fce9eaa",
+      "scene": "act2",
+      "section": "act2a_perv",
+      "speaker": "beebee",
+      "text": "WE'RE CREEPS",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-4bba8da013b8",
+      "scene": "act2",
+      "section": "act2a_perv",
+      "speaker": "beebee",
+      "text": "We're creepy, evil, bad bad bad terrible terrible perv--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-31071e435542",
+      "scene": "act2",
+      "section": "act2a_meaning",
+      "speaker": "beebee",
+      "text": "At the end of it all, what can we possibly do that really matters?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-0bfddf3614bc",
+      "scene": "act2",
+      "section": "act2a_meaning",
+      "speaker": "beebee",
+      "text": "Contribute to humanity? All great works decay the way of Ozymandias. Love? Death will always do it part.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-0850773e17f9",
+      "scene": "act2",
+      "section": "act2a_meaning",
+      "speaker": "beebee",
+      "text": "And how much death there is! We will die. Our loved ones will die.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-d69d47784f70",
+      "scene": "act2",
+      "section": "act2a_meaning",
+      "speaker": "beebee",
+      "text": "Heck, the Second Law of Thermodynamics means even our universe will die!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-28b26d2cc84e",
+      "scene": "act2",
+      "section": "act2a_meaning",
+      "speaker": "beebee",
+      "text": "Oh, \"death makes us appreciate life\"? That's like saying slavery is good because it makes us appreciate freedom!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-028dc1ebaeab",
+      "scene": "act2",
+      "section": "act2a_meaning",
+      "speaker": "beebee",
+      "text": "Oh, \"you need to make your own meaning\"? That's what cultists and conspiracy theorists do!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-c52bd90bde8f",
+      "scene": "act2",
+      "section": "act2a_meaning",
+      "speaker": "beebee",
+      "text": "Life has no meaning, death has no meaning, even meaning has no meaning! What is a mortal soul supposed to--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-243ce681df3c",
+      "scene": "act2",
+      "section": "act2b",
+      "speaker": "beebee",
+      "text": "Um... can you hear me, human?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-c5e0376121d7",
+      "scene": "act2",
+      "section": "act2b",
+      "speaker": "beebee",
+      "text": "GASP",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-ad2d1d3d25dc",
+      "scene": "act2",
+      "section": "act2b",
+      "speaker": "beebee",
+      "text": "I MUST WARN YOU ABOUT...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-971f48245667",
+      "scene": "act2",
+      "section": "act2b_louder_social",
+      "speaker": "beebee",
+      "text": "EMOTIONS ARE CONTAGIOUS! SO IF YOU DON'T LEAVE YOU'LL INFECT EVERYONE WITH YOUR MENTAL ILLNESS!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-d7f4b406ebf7",
+      "scene": "act2",
+      "section": "act2b_louder_social",
+      "speaker": "beebee",
+      "text": "You'll create a deadly outbreak of SAD LUMP SYNDROME",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-b568ce8c9f80",
+      "scene": "act2",
+      "section": "act2b_louder_social",
+      "speaker": "beebee",
+      "text": "We need to get out of here and quarantine ourselves forever in a small room with Netflix and food delivery!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-cbd2cd7dfa91",
+      "scene": "act2",
+      "section": "act2b_louder_perv",
+      "speaker": "beebee",
+      "text": "DON'T BE A CREEP. IT'S AGAINST THE LAW!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-bd9654d49250",
+      "scene": "act2",
+      "section": "act2b_louder_perv",
+      "speaker": "beebee",
+      "text": "Creep Law, Section 74.5: (1) Any Person who checks out (a) those muscular shoulders (b) that bubble booty (2) shall be hereby known as",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-eda7a1cd80c3",
+      "scene": "act2",
+      "section": "act2b_louder_perv",
+      "speaker": "beebee",
+      "text": "\"A BIG DISGUSTING TRASH PERVERT\"",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-fa2ac7d13fd6",
+      "scene": "act2",
+      "section": "act2b_louder_meaning",
+      "speaker": "beebee",
+      "text": "Actually, even if you find a noble purpose in life, you can still mess everything up!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-49b714bc8f9c",
+      "scene": "act2",
+      "section": "act2b_louder_meaning",
+      "speaker": "beebee",
+      "text": "Alfred Nobel wanted world peace and for cultures to understand each other. So he decided to make travel easier.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-dfc77211d038",
+      "scene": "act2",
+      "section": "act2b_louder_meaning",
+      "speaker": "beebee",
+      "text": "So he needed a way to cheaply create train tunnels. So he invented a new material called \"dynamite\"...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-da7823c5361c",
+      "scene": "act2",
+      "section": "act2b_louder_meaning",
+      "speaker": "beebee",
+      "text": "which was used in World War I to KILL MILLIONS OF PEOPLE",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-34eefc9f205a",
+      "scene": "act2",
+      "section": "act2b_louder_meaning",
+      "speaker": "beebee",
+      "text": "IT'S THE BUTTERFLY EFFECT, HUMAN! HOW MANY PEOPLE ARE YOU ACCIDENTALLY KILLING RIGHT NOW",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-8846fc3767b5",
+      "scene": "act2",
+      "section": "act2b_different_social",
+      "speaker": "beebee",
+      "text": "Actually, you know what's worse than no-one liking you? Everyone liking you.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-a738cebf3c06",
+      "scene": "act2",
+      "section": "act2b_different_social",
+      "speaker": "beebee",
+      "text": "That is, becoming one of these pleasure-chasing party animals.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-093ac49ee53f",
+      "scene": "act2",
+      "section": "act2b_different_social",
+      "speaker": "beebee",
+      "text": "A shallow life with shallow friends who only know the shallow you!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-7e898e89b5a7",
+      "scene": "act2",
+      "section": "act2b_different_social",
+      "speaker": "beebee",
+      "text": "Human, we need to run away from these pleasure-zombies before they turn us into one of them!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-894208d40b6a",
+      "scene": "act2",
+      "section": "act2b_different_moral",
+      "speaker": "beebee",
+      "text": "People are dying in famines and genocides right now and we're just partying!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-b67391c72f3d",
+      "scene": "act2",
+      "section": "act2b_different_moral",
+      "speaker": "beebee",
+      "text": "A wise person once said, \"the only thing necessary for the triumph of evil is for good folks to do nothing.\"",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-f7ef0e357657",
+      "scene": "act2",
+      "section": "act2b_different_moral",
+      "speaker": "beebee",
+      "text": "WE'RE DOING NOTHING.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-1e22d627b9d4",
+      "scene": "act2",
+      "section": "act2b_different_moral",
+      "speaker": "beebee",
+      "text": "BY PARTYING, WE'RE HELPING HITLER.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-8ecc2094ac74",
+      "scene": "act2",
+      "section": "act2b_ignore",
+      "speaker": "beebee",
+      "text": "You think you're safe just because you took the batteries out of the carbon monoxide detector?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-98d3678458df",
+      "scene": "act2",
+      "section": "act2b_ignore",
+      "speaker": "beebee",
+      "text": "You won't even smell the poison! You'll just get sleepy and then you'll--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-864f258bf59c",
+      "scene": "act2",
+      "section": "act2b_ignore",
+      "speaker": "beebee",
+      "text": "DIEEEEEEEEEEEEEEEEEE",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-177de3d2e559",
+      "scene": "act2",
+      "section": "act2c",
+      "speaker": "beebee",
+      "text": "Oh thank goodness human, I think you can hear me again!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-2205b75f8f35",
+      "scene": "act2",
+      "section": "act2c",
+      "speaker": "beebee",
+      "text": "I SHALL WARN YOU ABOUT...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-43af92cd85bb",
+      "scene": "act2",
+      "section": "act2c_louder_netflix",
+      "speaker": "beebee",
+      "text": "Actually, Netflix & food delivery isn't quarantined enough! We'd still infect the delivery person!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-80e5710dcbd5",
+      "scene": "act2",
+      "section": "act2c_louder_netflix",
+      "speaker": "beebee",
+      "text": "We need to move to the Canadian Yukon territories, and have our food delivered by drone!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-9060fb9ed712",
+      "scene": "act2",
+      "section": "act2c_louder_netflix",
+      "speaker": "beebee",
+      "text": "And then they'd have to sterilize the drone to rid it of our SAD LUMP GERMS",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-421568a15b00",
+      "scene": "act2",
+      "section": "act2c_louder_law",
+      "speaker": "beebee",
+      "text": "The BIG DISGUSTING TRASH PERVERT shall be sentenced to 72 hours in one of those medieval public-humiliation devices",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-aa225f161b8e",
+      "scene": "act2",
+      "section": "act2c_louder_law",
+      "speaker": "beebee",
+      "text": "unless they're secretly into that sort of thing",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-98fe0c3af3c1",
+      "scene": "act2",
+      "section": "act2c_louder_law",
+      "speaker": "beebee",
+      "text": "because they're a BIG DISGUSTING TRASH PERVERT",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-256a8b2f3634",
+      "scene": "act2",
+      "section": "act2c_louder_butterfly",
+      "speaker": "beebee",
+      "text": "BUTTERFLY EFFECT! You're using a non-biodegradable plastic cup?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-d23d0fa5efa6",
+      "scene": "act2",
+      "section": "act2c_louder_butterfly",
+      "speaker": "beebee",
+      "text": "BAM, A LANDFILL LEAKS POISON AND KILLS A KID",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-2f62ffe873fc",
+      "scene": "act2",
+      "section": "act2c_louder_butterfly",
+      "speaker": "beebee",
+      "text": "You're sweating and your heart's pounding?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-989d64e191a6",
+      "scene": "act2",
+      "section": "act2c_louder_butterfly",
+      "speaker": "beebee",
+      "text": "BAM, YOU BANKRUPT OUR HEALTHCARE SYSTEM AND MILLIONS DIE",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-77c39bff509f",
+      "scene": "act2",
+      "section": "act2c_louder_zombies",
+      "speaker": "beebee",
+      "text": "These pleasure-zombies will stumble towards you mumbling,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-ddf44250df77",
+      "scene": "act2",
+      "section": "act2c_louder_zombies",
+      "speaker": "beebee",
+      "text": "LIIIIIKES. LIIIIIIIIIIKES.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-c65a6818f262",
+      "scene": "act2",
+      "section": "act2c_louder_zombies",
+      "speaker": "beebee",
+      "text": "Then they'll BITE YOU and turn you into a BRAINLESS BRO and/or THOUGHTLESS THOT!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-13a3f6e661a7",
+      "scene": "act2",
+      "section": "act2c_louder_hitler",
+      "speaker": "beebee",
+      "text": "THE NAZIS ARE GOOSE-STEPPING BACK ON THE STREETS RIGHT NOW",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-c8971e049bab",
+      "scene": "act2",
+      "section": "act2c_louder_hitler",
+      "speaker": "beebee",
+      "text": "Saying, good thing those 'good folks' slacked off with stuff like 'relaxing' and 'self-care'!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-43d3644f6565",
+      "scene": "act2",
+      "section": "act2c_louder_hitler",
+      "speaker": "beebee",
+      "text": "Now our plans can go fourth, reich on schedule!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-622825fcc3db",
+      "scene": "act2",
+      "section": "act2c_louder_ignore",
+      "speaker": "beebee",
+      "text": "Come to think about it, do we know if this building has a monoxide detector?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-72bc7fddf5fb",
+      "scene": "act2",
+      "section": "act2c_louder_ignore",
+      "speaker": "beebee",
+      "text": "What if we're all being poisoned RIGHT NOW?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-1481e4dc3dad",
+      "scene": "act2",
+      "section": "act2c_louder_ignore",
+      "speaker": "beebee",
+      "text": "WE WOULDN'T EVEN SEE DEATH APPROACH. WE'D JUST STOP EXISTING FOREVER AND EVER AND EV--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-d912b4fd26bc",
+      "scene": "act2",
+      "section": "act2c_different_social",
+      "speaker": "beebee",
+      "text": "What if we're just fundamentally incapable of ever being loved, or loving another?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-923877d09ed2",
+      "scene": "act2",
+      "section": "act2c_different_social",
+      "speaker": "beebee",
+      "text": "What if something irreversibly broke inside of us a long time ago? Or never existed in us in the first place?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-4683b26ed4ee",
+      "scene": "act2",
+      "section": "act2c_different_social",
+      "speaker": "beebee",
+      "text": "AHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKE--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-fa7153419cf9",
+      "scene": "act2",
+      "section": "act2c_different_moral",
+      "speaker": "beebee",
+      "text": "What if we're just fundamentally rotten?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-d417254462b7",
+      "scene": "act2",
+      "section": "act2c_different_moral",
+      "speaker": "beebee",
+      "text": "Others have an inner drive to do goodness, but we only do \"good\" out of guilt or shame, if at all.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-4b3c287c8354",
+      "scene": "act2",
+      "section": "act2c_different_moral",
+      "speaker": "beebee",
+      "text": "What if it's in our nature to hurt others? What if we can't be anything other than a burden to those close to us?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-848b402aa460",
+      "scene": "act2",
+      "section": "act2c_different_moral",
+      "speaker": "beebee",
+      "text": "AHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKE--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-20d8909c40a5",
+      "scene": "act2",
+      "section": "act2c_punch",
+      "speaker": "beebee",
+      "text": "I'm not being irrational. People do drug punch bowls. That is an actual thing that actually happens.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-f3ce08c23eed",
+      "scene": "act2",
+      "section": "act2c_punch",
+      "speaker": "beebee",
+      "text": "Human, does your head hurt? Are your limbs limp? I think we're dying.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-e00f8fd5faf5",
+      "scene": "act2",
+      "section": "act2c_punch",
+      "speaker": "beebee",
+      "text": "AHHH WE'RE DYING! WE'RE DYING WE'RE DYING WE'RE DYI--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-6b00841380dc",
+      "scene": "act2",
+      "section": "act2d",
+      "speaker": "hong",
+      "text": "FAAACK!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-6ee04d3a148f",
+      "scene": "act2",
+      "section": "act2d",
+      "speaker": "hong",
+      "text": "FACKING FACK-FAKKITY FAAAAACK",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-145388c5cc28",
+      "scene": "act2",
+      "section": "act2d",
+      "speaker": "beebee",
+      "text": "Yay, human! I'm so happy you can hear me again!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-5b7a77cbab6a",
+      "scene": "act2",
+      "section": "act2d",
+      "speaker": "beebee",
+      "text": "Why were you ignoring me?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-f299559f9df8",
+      "scene": "act2",
+      "section": "act2d",
+      "speaker": "hong",
+      "text": "Holy hell, you absolute moron.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-d262e8bf280b",
+      "scene": "act2",
+      "section": "act2d",
+      "speaker": "hong",
+      "text": "You know that Native American story?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-a7c1839b660f",
+      "scene": "act2",
+      "section": "act2d",
+      "speaker": "hong",
+      "text": "\"There are two wolves inside you, one is hope, one is despair, which wolf wins? The one you feed.\"",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-dd1579ff5615",
+      "scene": "act2",
+      "section": "act2d",
+      "speaker": "hong",
+      "text": "I was trying to starve you, you sadistic asshole!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-0de11b4bc33d",
+      "scene": "act2",
+      "section": "act2d",
+      "speaker": "hong",
+      "text": "Screw it, I'll do positive affirmations instead.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-11183a97ef20",
+      "scene": "act2",
+      "section": "act2d",
+      "speaker": "hong",
+      "text": "I am loved. I am good. I am smart. I am beautiful. I am special.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-57a804621674",
+      "scene": "act2",
+      "section": "act2d_disproven",
+      "speaker": "beebee",
+      "text": "In fact, they actually backfire for people with low self-esteem!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-46b741743995",
+      "scene": "act2",
+      "section": "act2d_disproven",
+      "speaker": "beebee",
+      "text": "It was a well-designed study – randomized controlled trial, experimenter was blinded as to who was in which group.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-d3298d5c00ad",
+      "scene": "act2",
+      "section": "act2d_disproven",
+      "speaker": "beebee",
+      "text": "Results: if you already had low self-esteem, being asked to repeat affirmations makes you feel worse than if you'd said nothing at all!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-92a7a97a2a6c",
+      "scene": "act2",
+      "section": "act2d_disproven",
+      "speaker": "beebee",
+      "text": "Wood 2009, Psychological Science. Look it up on Google Scholar, human,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-95efd16fdc62",
+      "scene": "act2",
+      "section": "act2d_disproven",
+      "speaker": "beebee",
+      "text": "THEN STOP SPREADING UNSCIENTIFIC FAKE NEWS",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-b6af15adc63b",
+      "scene": "act2",
+      "section": "act2d_narcissist",
+      "speaker": "beebee",
+      "text": "You need to humbly see your own flaws in order to grow as a person!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-24e97059d4d9",
+      "scene": "act2",
+      "section": "act2d_narcissist",
+      "speaker": "beebee",
+      "text": "You can't spray air freshener over a moldy room! Covering up your flaws makes you worse in the long run.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-dac2dca7b86d",
+      "scene": "act2",
+      "section": "act2d_narcissist",
+      "speaker": "beebee",
+      "text": "Thankfully, I, as your loyal guard-wolf, can alert you to your flaws. And right now, it's-",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-d01a4a5aa4e3",
+      "scene": "act2",
+      "section": "act2d_narcissist",
+      "speaker": "beebee",
+      "text": "EVERYTHING. EVERYTHING IS WRONG",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-b444a179827e",
+      "scene": "act2",
+      "section": "act2d_racist",
+      "speaker": "beebee",
+      "text": "Native Americans are actual people, not some \"noble savages\" you can namedrop to make your fortune-cookie advice more exotic.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-6722cba7236a",
+      "scene": "act2",
+      "section": "act2d_racist",
+      "speaker": "beebee",
+      "text": "You're reducing individual persons & complex cultures to a Hallmark card! That's \"benevolent racism\"!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-d7b0efef019f",
+      "scene": "act2",
+      "section": "act2d_racist",
+      "speaker": "beebee",
+      "text": "STOP BEING RACIST YOU SQUINTY-EYED JERK",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-e5bf1211e4e8",
+      "scene": "act2",
+      "section": "act2e",
+      "speaker": "hong",
+      "text": "ASSDAMMIT.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-4cc08408a6f6",
+      "scene": "act2",
+      "section": "act2e",
+      "speaker": "hong",
+      "text": "You know what? You're irrational.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-cf6b11aeedce",
+      "scene": "act2",
+      "section": "act2e",
+      "speaker": "hong",
+      "text": "Everyone knows emotions are irrational! Especially fear!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-aac66d2837c9",
+      "scene": "act2",
+      "section": "act2e",
+      "speaker": "hong",
+      "text": "You're a useless evolutionary leftover, like my appendix or wisdom teeth!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-a6eb35557ed5",
+      "scene": "act2",
+      "section": "act2e",
+      "speaker": "hong",
+      "text": "Hell, this whole wolf metaphor is stupid! You're just a bunch of neuro-chemicals in my head.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-9d5a47e68bb1",
+      "scene": "act2",
+      "section": "act2e",
+      "speaker": "hong",
+      "text": "So why should I listen to a worthless, irrational, non-existent piece of shit like you?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-b7e09fb1d4cc",
+      "scene": "act2",
+      "section": "act2e_hurtful",
+      "speaker": "beebee",
+      "text": "I'm part of you, you know. When you say that, you're hurting yourself.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-67f970ee68f1",
+      "scene": "act2",
+      "section": "act2e_hurtful",
+      "speaker": "beebee",
+      "text": "Why are you hitting yourself, human? STOP HITTING YOURSELF.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-ad002901d38b",
+      "scene": "act2",
+      "section": "act2e_rational",
+      "speaker": "beebee",
+      "text": "Your deepest motivations are dopamine, your richest joys are serotonin.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-35f5f17cb4c2",
+      "scene": "act2",
+      "section": "act2e_rational",
+      "speaker": "beebee",
+      "text": "Your memories are synaptic weights, your reason is fault-prone electrical signals.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-7c83b2c7a64d",
+      "scene": "act2",
+      "section": "act2e_rational",
+      "speaker": "beebee",
+      "text": "So if me being \"just chemicals\" means I'm irrational... then that means you're irrational!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-6a21aef1e430",
+      "scene": "act2",
+      "section": "act2e_rational",
+      "speaker": "beebee",
+      "text": "And if we're both irrational, then we'll never figure out how to be fulfilled and happy!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-43dbcec1af64",
+      "scene": "act2",
+      "section": "act2e_rational",
+      "speaker": "beebee",
+      "text": "AHHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKEN--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-73d5d3fc035c",
+      "scene": "act2",
+      "section": "act2e_valid",
+      "speaker": "beebee",
+      "text": "Hang on... \"they\" say that feelings are valid, that you should always accept your emotions.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-1056a78cbece",
+      "scene": "act2",
+      "section": "act2e_valid",
+      "speaker": "beebee",
+      "text": "But \"they\" also say emotions are irrational, that emotions are not to be trusted.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-d9f31e86fb82",
+      "scene": "act2",
+      "section": "act2e_valid",
+      "speaker": "beebee",
+      "text": "Oh my gosh, \"they\" have been lying to us this whole time!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-c1a1115b53fb",
+      "scene": "act2",
+      "section": "act2e_valid",
+      "speaker": "beebee",
+      "text": "\"THEY\" FEED US CONTRADICTIONS TO MAKE US DEPENDENT ON THE SELF-HELP INDUSTRIAL COMPLEX",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-1548ad40cb0b",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hong",
+      "text": "I hate this. God it hurts so much I hate this.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-ad0e7303e143",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hong",
+      "text": "I can't appease you. I can't ignore you. I can't fight you.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-6e1577edc8a3",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hong",
+      "text": "No matter what I do, I can't seem to get rid of yo--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-2cbb262e8fdb",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "beebee",
+      "text": "Well maybe you're NOT SUPPOSED TO GET RID OF ME.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-c43372ddb967",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "beebee",
+      "text": "How do you think I feel, human?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-ed6156bd158e",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "beebee",
+      "text": "I'm trying my best to be your guard-dog, but you keep seeing me as some Big Bad Wolf!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-2ffb81c82198",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "beebee",
+      "text": "So I try even harder to alert you to danger! More danger! Different danger!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-5aa4370165e4",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "beebee",
+      "text": "But no matter how hard I try to protect you, you still think I'm your enemy!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-70665697aec5",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "beebee",
+      "text": "What am I doing wrong?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-5c0f480c6784",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "beebee",
+      "text": "I know I suck at my job. But I'm trying, human!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-1a59eaeb9694",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "beebee",
+      "text": "...I'm trying.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-ff960daccb50",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "beebee",
+      "text": "You don't have to heed my warnings, or agree with me, or even like me.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-fa790d44b5ff",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "beebee",
+      "text": "I just... all I want is for you to be patient with me.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-3e9998e3e671",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "beebee",
+      "text": "I just want for you to sit with me for a while, instead of turning away and--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-4d2c99e23bda",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hunter",
+      "text": "Hey.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-6f1177a85046",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hunter",
+      "text": "Looks like you're caught in a fight with yourself, kid.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-06dfe0aa1a87",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hong",
+      "text": "Was it that obvious?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-6fa53e30738b",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hunter",
+      "text": "You were, uh, mumbling at your hoodie about {{_.a2hoodiecallback}} or something.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-0f2c873c850f",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hong",
+      "text": "oh god i'm such a mess.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-05078a62c0dc",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hunter",
+      "text": "Hey. You're not alone, friend. Anxiety's super common.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-2cea46baa7dd",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hunter",
+      "text": "Heck, just yesterday, I heard someone on campus had a nervous breakdown and smashed their phone!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-d82de28b5056",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hunter",
+      "text": "Heck, just yesterday, I heard someone curled up into an armadillo ball and cried in public!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-768169c764f7",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hunter",
+      "text": "Listen: I know what it's like to have that animal in your head.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-8da5200452f3",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hunter",
+      "text": "We all do. That's why I throw these parties every weekend, to forget our worries, forget that animal.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-67916b2922bf",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hong",
+      "text": "but my anxiety...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-0761b96bbfa3",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hunter",
+      "text": "Don't worry, kid. I used to be like you. But then I found a little trick to get that negative voice to shut up forever...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-e0267de7270d",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hunter",
+      "text": "My own specialty blend. It's a bit stronger than... well, anything legal really.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-0bd19ddd6f21",
+      "scene": "act2",
+      "section": "act2f",
+      "speaker": "hunter",
+      "text": "Bottoms up, bee-yatch!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-5097afb82fd7",
+      "scene": "act2",
+      "section": "act2g_1",
+      "speaker": "beebee",
+      "text": "O--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-447c28f166cd",
+      "scene": "act2",
+      "section": "act2g_2",
+      "speaker": "beebee",
+      "text": "T--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-0d56edc85465",
+      "scene": "act2",
+      "section": "act2g_3",
+      "speaker": "beebee",
+      "text": "D--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-0bf4eda62d68",
+      "scene": "act2",
+      "section": "act2g",
+      "speaker": "hong",
+      "text": "Mmm, what an exquisite palette!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-6fa29ae36391",
+      "scene": "act2",
+      "section": "act2g",
+      "speaker": "hong",
+      "text": "A full-bodied flavor of \"shut your mind up,\" with a subtle aftertaste of \"never feel anything ever again\"!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-f41a89afa62d",
+      "scene": "act2",
+      "section": "act2g",
+      "speaker": "beebee",
+      "text": "This is bad, human. This is really, really bad.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-b00042aa2527",
+      "scene": "act2",
+      "section": "act2h_opt1",
+      "speaker": "beebee",
+      "text": "This is actu--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-0bb006dacf52",
+      "scene": "act2",
+      "section": "act2h_opt2",
+      "speaker": "beebee",
+      "text": "Also, they co--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-3479ed356825",
+      "scene": "act2",
+      "section": "act2h_opt3",
+      "speaker": "beebee",
+      "text": "I knew th--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-9d0b7dd28b7c",
+      "scene": "act2",
+      "section": "act2h",
+      "speaker": "hong",
+      "text": "Delicious, and cheaper than therapy!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-f5031811baa2",
+      "scene": "act2",
+      "section": "act2h",
+      "speaker": "beebee",
+      "text": "HUMAN PLEASE STOP",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-edf001da1fa3",
+      "scene": "act2",
+      "section": "act2h",
+      "speaker": "hong",
+      "text": "Hehehe!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-3d41143d5683",
+      "scene": "act2",
+      "section": "act2h",
+      "speaker": "hong",
+      "text": "And what are you gonna do about it, asshole?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-68471d4b6a03",
+      "scene": "act2",
+      "section": "act2h",
+      "speaker": "beebee",
+      "text": "I'm so sorry, human.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-aa534c60f2d0",
+      "scene": "act2",
+      "section": "act2h",
+      "speaker": "beebee",
+      "text": "I'm going to have to use my SPECIAL ATTACK",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-260ed77f43f8",
+      "scene": "act2",
+      "section": "act2h_attack",
+      "speaker": "hong",
+      "text": "What's this crap?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-350d8fefb2fa",
+      "scene": "act2",
+      "section": "act2h_attack",
+      "speaker": "hong",
+      "text": "You're gonna yap more stupid words at me to--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-7c1de81247d1",
+      "scene": "act2",
+      "section": "act2i",
+      "speaker": "hong",
+      "text": "WHAT THE HELL WAS THAT",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-15aa1637f9de",
+      "scene": "act2",
+      "section": "act2i",
+      "speaker": "beebee",
+      "text": "I'm sorry. I needed to show you the consequences.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-3292bb079c6c",
+      "scene": "act2",
+      "section": "act2i",
+      "speaker": "hong",
+      "text": "I COULD SEE MY OWN CORPSE. I COULD FEEL THE SENSATION OF BEING ACTUALLY DEAD.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-d8ee934249c7",
+      "scene": "act2",
+      "section": "act2i",
+      "speaker": "hong",
+      "text": "I COULD SEE EVERYONE'S LOOK OF DISGUST. I COULD HEAR ALL THE THINGS THEY SAID.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-726108c2e9d6",
+      "scene": "act2",
+      "section": "act2i",
+      "speaker": "hong",
+      "text": "I COULD HEAR THE CRUNCHING OF RIBS. I COULD TASTE THE BLOOD IN THE AIR.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-313fa7e69d32",
+      "scene": "act2",
+      "section": "act2i",
+      "speaker": "beebee",
+      "text": "I'm sorry, human.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-1598ce6c7d95",
+      "scene": "act2",
+      "section": "act2i",
+      "speaker": "narrator",
+      "text": "FINISH THEM",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-bfed1ab76f03",
+      "scene": "act2",
+      "section": "act2j_fight",
+      "speaker": "beebee",
+      "text": "That psychopath was taking advantage of you.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-2086160f5d5c",
+      "scene": "act2",
+      "section": "act2j_fight",
+      "speaker": "beebee",
+      "text": "They were trying to corrupt you, make you as messed up as they are!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-1a11f58076a4",
+      "scene": "act2",
+      "section": "act2j_fight",
+      "speaker": "beebee",
+      "text": "Punch that jerk! Knock their friggin' lights out!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-41d0da630a5f",
+      "scene": "act2",
+      "section": "act2j_fight",
+      "speaker": "beebee",
+      "text": "PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THE--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-ea0b28594d0f",
+      "scene": "act2",
+      "section": "act2j_flight",
+      "speaker": "beebee",
+      "text": "I knew all these partygoers were deeply messed up. They all dull their pain with horrible things!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-64e3658f0339",
+      "scene": "act2",
+      "section": "act2j_flight",
+      "speaker": "beebee",
+      "text": "And they're tricking you into doing the same thing! They're corrupting you! We need to get out!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-fa974395946a",
+      "scene": "act2",
+      "section": "act2j_flight",
+      "speaker": "beebee",
+      "text": "GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OU--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-b19f61792b9c",
+      "scene": "act2",
+      "section": "act2k",
+      "speaker": "hunter",
+      "text": "You alright, kid?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-df44df72762a",
+      "scene": "act2",
+      "section": "act2k_fight",
+      "speaker": "hunter",
+      "text": "Y-you...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-667ae7342405",
+      "scene": "act2",
+      "section": "act2k_fight",
+      "speaker": "hunter",
+      "text": "are kinky.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-c459fd10cbbb",
+      "scene": "act2",
+      "section": "act2k_fight",
+      "speaker": "hunter",
+      "text": "I like that. Come to my party next weekend, cutie.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-0eefa9b32c22",
+      "scene": "act2",
+      "section": "act2k_fight",
+      "speaker": "hong",
+      "text": "ok bye, ciao, adios, au revoir",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-6a62c2e70b7c",
+      "scene": "act2",
+      "section": "act2k_fight",
+      "speaker": "hunter",
+      "text": "The animal might have won today, but come back, and I'll mix something even stronger for you!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-8bf4d8a84060",
+      "scene": "act2",
+      "section": "act2k_fight",
+      "speaker": "hong",
+      "text": "sayōnara, auf wiedersehen, zài jiàn, shalom",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-693c26c82cce",
+      "scene": "act2",
+      "section": "act2k_fight",
+      "speaker": "hunter",
+      "text": "You and me, kid, we'll show that beast who's boss!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-f38202bf427d",
+      "scene": "act2",
+      "section": "act2k_flight",
+      "speaker": "hong",
+      "text": "ok sorry i have to run",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-38cc65f7e1fd",
+      "scene": "act2",
+      "section": "act2k_flight",
+      "speaker": "hunter",
+      "text": "Damn it. The animal won today, huh?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-43d3c04cfb32",
+      "scene": "act2",
+      "section": "act2k_flight",
+      "speaker": "hong",
+      "text": "no no, just, uh, gotta run a marathon. gotta go fast.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-ad758843a6cc",
+      "scene": "act2",
+      "section": "act2k_flight",
+      "speaker": "hunter",
+      "text": "Come to my party next weekend, cutie. I'll mix something even stronger for you.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-b9fae7447aa2",
+      "scene": "act2",
+      "section": "act2k_flight",
+      "speaker": "hong",
+      "text": "ok thanks gonna run run run run run",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-3e9218e31950",
+      "scene": "act2",
+      "section": "act2k_flight",
+      "speaker": "hunter",
+      "text": "You and me, kid, we'll show that beast who's boss!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-b989ddf6e776",
+      "scene": "act2",
+      "section": "act2k_end",
+      "speaker": "beebee",
+      "text": "Human! Are you okay?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-616bc4fabdda",
+      "scene": "act2",
+      "section": "act2k_end",
+      "speaker": "beebee",
+      "text": "Gosh, that was close. We really could've--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-9de6ab97d103",
+      "scene": "act2",
+      "section": "act2k_end",
+      "speaker": "hong",
+      "text": "I'm coming back to the party next weekend.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-a17cd10fc5d7",
+      "scene": "act2",
+      "section": "act2k_end",
+      "speaker": "hong",
+      "text": "The next time we fight, I'm not just going to defeat you...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act2-725b06da327f",
+      "scene": "act2",
+      "section": "act2k_end",
+      "speaker": "hong",
+      "text": "I'm going to fucking kill you.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-5a2bc24b70cb",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "Cheers!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-acb99a7f3c12",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hong",
+      "text": "Ah that hits the spot.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-6683ba3944ff",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "You know, kid...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-4b0d3cd5e8fa",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hong",
+      "text": "Specifically, the spots hit are my left and right amygdala.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-42ba3eb86bf1",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "You remind me of myself when I was younger. Back when I was tormented by the animal in my head.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-99fe3eb4c38f",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "I'm so grateful I can pay it forward, and help you kill the beast the way I killed mine.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-7a6170c246d4",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "Hey, quick question: truth or da--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-55d47ce3103c",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hong",
+      "text": "DARE!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-f2e2a5b6789b",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "Haha! Good.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-b015c64a5a60",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "Ok. You see that baby-blue swimming pool down there?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-9a0eedc87de7",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hong",
+      "text": "Yeah? Six floors down?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-a7b99b30f066",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "Jump in.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-9012e63cffdc",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hong",
+      "text": "Wait, what?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-6bc8c7be8bd3",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "The animal's started whining, hasn't it?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-ef754b407852",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "Oh nooooo it's dangerous, don't do iiiiit.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-d481c088c1a6",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "But that's exactly why we need death-defying thrills! Party hard! Carpe diem! Snort coke off a hooker's ass, #YOLO!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-3e5b2ce81d33",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "Show that animal we don't give two dicks about its bitching! Jump in.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-863906a98254",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hong",
+      "text": "Uh, but sometimes, um... fear has a point...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-8b2bf4a94519",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "I'm sorry, did you fall for that McMindfulness propaganda that claims feeling bad is good?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-a3c13a4b7514",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "The assholes who run this world give the rest of us anxiety and depression,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-d19392162ace",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "Then make TED Talks to tell us to \"accept\" being fucked over, and \"embrace\" that sadistic demon in our heads!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-68ac6764421e",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "Kid, I know that you know that animal hurts people like us. It tortures people like us.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-82a5b6bf1ac6",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "It's not our friend. It's a rabid beast, which either needs to be tranquilized,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-855798bf9505",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "Or have a bullet put in its skull.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-2f3058513629",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "Otherwise, you're going to let it win.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-b60d65b6de94",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hong",
+      "text": "No. You're wrong.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-55db905a175e",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hong",
+      "text": "I'm not going to let it win.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-25e7044b41b5",
+      "scene": "act3",
+      "section": "act3",
+      "speaker": "hunter",
+      "text": "Fuck yeah! I believe in you, babe! Kill it! <3",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-72222184a515",
+      "scene": "act3",
+      "section": "act3a",
+      "speaker": "beebee",
+      "text": "no no no no no no",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-ed72346a2cda",
+      "scene": "act3",
+      "section": "act3a",
+      "speaker": "narrator",
+      "text": "THIS CHAPTER HAS TWO POSSIBLE ENDINGS. ONE IS VERY, VERY BAD.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-7e176fa11159",
+      "scene": "act3",
+      "section": "act3a",
+      "speaker": "beebee",
+      "text": "NO NO NO NO NO NO NO NO NO NO NO NO NO NO",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-7c0c6bdffab0",
+      "scene": "act3",
+      "section": "act3a",
+      "speaker": "narrator",
+      "text": "CHOOSE WISELY. PROTECT YOUR HUMAN",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-c08293d02cd4",
+      "scene": "act3",
+      "section": "act3a",
+      "speaker": "beebee",
+      "text": "AAAAAAAAAAAAAAAAAA",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-bc3662671cd9",
+      "scene": "act3",
+      "section": "act3a",
+      "speaker": "narrator",
+      "text": "GOOD LUCK",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-6da93587664c",
+      "scene": "act3",
+      "section": "act3a_harm",
+      "speaker": "beebee",
+      "text": "H--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-109215b253be",
+      "scene": "act3",
+      "section": "act3a_alone",
+      "speaker": "beebee",
+      "text": "T--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-fcefd69a7ede",
+      "scene": "act3",
+      "section": "act3a_bad",
+      "speaker": "beebee",
+      "text": "T--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-5de9c67d1ca0",
+      "scene": "act3",
+      "section": "act3a_after",
+      "speaker": "hong",
+      "text": "You know, I might've believed you... if you hadn't tried that a zillion times before.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-1fa46a00969e",
+      "scene": "act3",
+      "section": "act3a_after",
+      "speaker": "hong",
+      "text": "You're the wolf who cried wolf.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-692dfb042f1c",
+      "scene": "act3",
+      "section": "act3_fork",
+      "speaker": "hong",
+      "text": "You tried that too.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-98c9703eafaa",
+      "scene": "act3",
+      "section": "act3_fork",
+      "speaker": "beebee",
+      "text": "human, please...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-c14639cc6598",
+      "scene": "act3",
+      "section": "act3_fork",
+      "speaker": "hong",
+      "text": "Oh I'm sorry Big Pharma doesn't approve of my self-medication.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-a366cb06b1ec",
+      "scene": "act3",
+      "section": "act3_fork",
+      "speaker": "hong",
+      "text": "Look asshole, we all have a way of shutting you the fuck up.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-bcdd9e9e371e",
+      "scene": "act3",
+      "section": "act3_fork",
+      "speaker": "hong",
+      "text": "Some people throw themselves into work.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-3bd0a0826ae7",
+      "scene": "act3",
+      "section": "act3_fork",
+      "speaker": "hong",
+      "text": "Some people throw themselves into sex, drugs, and refreshing their Facebook feed.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-4de170d78df6",
+      "scene": "act3",
+      "section": "act3_fork",
+      "speaker": "hong",
+      "text": "Some people throw themselves into other people.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-b1cec6cbd5a4",
+      "scene": "act3",
+      "section": "act3_fork",
+      "speaker": "hong",
+      "text": "I'm going to throw myself into that swimming pool.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-058c941d2c86",
+      "scene": "act3",
+      "section": "act3_bad_1_harm",
+      "speaker": "beebee",
+      "text": "Even if you land in the water, the surface tension will crack your ribs and give you a concussion at the least!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-4b1b281f4a6f",
+      "scene": "act3",
+      "section": "act3_bad_1_harm",
+      "speaker": "hong",
+      "text": "Eh.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-c0ed2b3795a4",
+      "scene": "act3",
+      "section": "act3_bad_1_harm",
+      "speaker": "hong",
+      "text": "I saw a Russian guy do this on YouTube once.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-910fb5db7231",
+      "scene": "act3",
+      "section": "act3_bad_1_insult",
+      "speaker": "hong",
+      "text": "I- Excuse me, the thanks?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-0102a64028ae",
+      "scene": "act3",
+      "section": "act3_bad_1_insult",
+      "speaker": "beebee",
+      "text": "This is exactly why I exist! Because humans can't be trusted to protect themselves!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-62a8eb57506e",
+      "scene": "act3",
+      "section": "act3_bad_1_insult",
+      "speaker": "beebee",
+      "text": "I've been trying to protect your stupid butt all my life and now you're just going t--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-970924b57798",
+      "scene": "act3",
+      "section": "act3_good_1",
+      "speaker": "hong",
+      "text": "heh.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-184430340d22",
+      "scene": "act3",
+      "section": "act3_good_1",
+      "speaker": "hong",
+      "text": "hahahaha",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-d3ac9f0141c2",
+      "scene": "act3",
+      "section": "act3_good_1",
+      "speaker": "hong",
+      "text": "HAHAHAHAHAHA",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-28c0db104b1c",
+      "scene": "act3",
+      "section": "act3_good_1",
+      "speaker": "hong",
+      "text": "Oh WOW is that the biggest fucking understatement of the century!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-3a018ac832a2",
+      "scene": "act3",
+      "section": "act3_good_1",
+      "speaker": "hong",
+      "text": "Yeah, you rotting pile of blood-coated shit! You messed the fuck up!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-46847eefc63e",
+      "scene": "act3",
+      "section": "act3_good_1",
+      "speaker": "hong",
+      "text": "Any other remarks, Captain Obvious?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-93d9d5fd116a",
+      "scene": "act3",
+      "section": "act3_good_1_fail_revenge",
+      "speaker": "beebee",
+      "text": "You need to have a healthier relationship with your emotions, rather than drown them wi--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-388d35c22868",
+      "scene": "act3",
+      "section": "act3_good_1_fail_harm",
+      "speaker": "beebee",
+      "text": "So please, put the bottle down and let's--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-aca8eedd1834",
+      "scene": "act3",
+      "section": "act3_bad_2",
+      "speaker": "beebee",
+      "text": "please... don't...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-6da10609aa51",
+      "scene": "act3",
+      "section": "act3_bad_2",
+      "speaker": "hong",
+      "text": "Your energy bar's looking awfully low there, wolf.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-c7fa8fd7fc9a",
+      "scene": "act3",
+      "section": "act3_bad_2",
+      "speaker": "hong",
+      "text": "If I were you, I'd choose your next words very carefully.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-5b9444fc1ee6",
+      "scene": "act3",
+      "section": "act3_bad_2_jump",
+      "speaker": "beebee",
+      "text": "So, go ahead and jump. See what I care.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-385f27a40d69",
+      "scene": "act3",
+      "section": "act3_bad_2_jump",
+      "speaker": "hong",
+      "text": "Okay then. Bottoms up.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-fab88b2d20a1",
+      "scene": "act3",
+      "section": "act3_bad_2_jump",
+      "speaker": "beebee",
+      "text": "WAIT NO THAT WAS REVERSE PSYCHOLOGY YOU WERE SUPPOSED TO DO THE OPPOSITE OF WHAT I SA--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-a685f5785d42",
+      "scene": "act3",
+      "section": "act3_bad_2_right",
+      "speaker": "beebee",
+      "text": "You are putting yourself in danger. Your so-called friends are using you. And you are using your so-called friends.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-6d5c0189ab6c",
+      "scene": "act3",
+      "section": "act3_bad_2_right",
+      "speaker": "beebee",
+      "text": "So please, human... why don't you believe me?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-3deb89dd9c7f",
+      "scene": "act3",
+      "section": "act3_bad_2_right",
+      "speaker": "hong",
+      "text": "Because you never believed in me.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-871b3e247671",
+      "scene": "act3",
+      "section": "act3_bad_2_terrible",
+      "speaker": "beebee",
+      "text": "Other guard-wolves have humans who actually take time to patiently train them, to learn to work together,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-6d2a61a1d30e",
+      "scene": "act3",
+      "section": "act3_bad_2_terrible",
+      "speaker": "beebee",
+      "text": "Rather than hate the guard-wolves for trying to protect them! So why can't you jus--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-6817b8633276",
+      "scene": "act3",
+      "section": "act3_bad_2_terrible",
+      "speaker": "hong",
+      "text": "Wrong fucking answer.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-9a708a5dffb6",
+      "scene": "act3",
+      "section": "act3_bad_3",
+      "speaker": "hong",
+      "text": "\"The only thing to fear is fear itself.\"",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-9c8e38d650d6",
+      "scene": "act3",
+      "section": "act3_bad_3",
+      "speaker": "hong",
+      "text": "\"Don't worry, be happy!\"",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-b33e55660ab1",
+      "scene": "act3",
+      "section": "act3_bad_3",
+      "speaker": "hong",
+      "text": "All the wise folk of our time agree: negative emotions are bad!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-10456bc8056e",
+      "scene": "act3",
+      "section": "act3_bad_3",
+      "speaker": "hong",
+      "text": "Duh! That's why they're called negative!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-799633387f5c",
+      "scene": "act3",
+      "section": "act3_bad_3",
+      "speaker": "beebee",
+      "text": "human... please...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-290a86d54f0d",
+      "scene": "act3",
+      "section": "act3_bad_3",
+      "speaker": "hong",
+      "text": "A while back, I said: “I just want to be free from all this pain.”",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-f95e5ec9a508",
+      "scene": "act3",
+      "section": "act3_bad_3",
+      "speaker": "hong",
+      "text": "I got my wish. I no longer feel pain, or fear, or anxiety...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-601fdc31a3aa",
+      "scene": "act3",
+      "section": "act3_bad_3",
+      "speaker": "hong",
+      "text": "I don't feel anything at all.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-122433d3897f",
+      "scene": "act3",
+      "section": "act3_good_2a",
+      "speaker": "beebee",
+      "text": "I was so obsessed with making sure nothing else hurt you, that I didn't realize I was creating the hurt.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-67ec6bad0b6e",
+      "scene": "act3",
+      "section": "act3_good_2a",
+      "speaker": "hong",
+      "text": "NO. SHIT.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-1fa4ebbc822d",
+      "scene": "act3",
+      "section": "act3_good_2a",
+      "speaker": "hong",
+      "text": "GODDAMN. It really took you this long to finally figure it out?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-563ba6ff228e",
+      "scene": "act3",
+      "section": "act3_good_2a",
+      "speaker": "hong",
+      "text": "You could've saved us so much trouble, you big fluffy dumbass. Why didn't you realize this sooner?...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-2797aa3255bf",
+      "scene": "act3",
+      "section": "act3_good_2b",
+      "speaker": "hong",
+      "text": "...you're sorry.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-b157c62e6030",
+      "scene": "act3",
+      "section": "act3_good_2b",
+      "speaker": "hong",
+      "text": "Sorry for what?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-8c290d6cf1e9",
+      "scene": "act3",
+      "section": "act3_good_3_protector",
+      "speaker": "beebee",
+      "text": "It's my duty to warn you against real danger, but I kept barking at cars and the mailman.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-e6444fad64b6",
+      "scene": "act3",
+      "section": "act3_good_3_protector",
+      "speaker": "beebee",
+      "text": "Barking at shadows. Barking so much.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-4f8e88323f1a",
+      "scene": "act3",
+      "section": "act3_good_3_protector",
+      "speaker": "beebee",
+      "text": "It only makes sense that you'd want to muzzle me.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-96dfc3f9ac49",
+      "scene": "act3",
+      "section": "act3_good_3_protector",
+      "speaker": "beebee",
+      "text": "I'm sorry.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-6ae47e297560",
+      "scene": "act3",
+      "section": "act3_good_3_respect",
+      "speaker": "beebee",
+      "text": "I was supposed to be your loyal guard-dog, but I acted as if you were supposed to obey me.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-2f2114db8373",
+      "scene": "act3",
+      "section": "act3_good_3_respect",
+      "speaker": "beebee",
+      "text": "There's a difference between a protector and a prison warden, and I crossed the line.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-a0c864a25f1d",
+      "scene": "act3",
+      "section": "act3_good_3_respect",
+      "speaker": "beebee",
+      "text": "I'm sorry.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-fb89383efaed",
+      "scene": "act3",
+      "section": "act3_good_3_hurt",
+      "speaker": "beebee",
+      "text": "I was so obsessed with trying to protect you from being hurt, I never stopped to realize I was hurting you.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-c7adb56f5bfb",
+      "scene": "act3",
+      "section": "act3_good_3_hurt",
+      "speaker": "beebee",
+      "text": "I was a bad dog.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-2bd8c1bf4360",
+      "scene": "act3",
+      "section": "act3_good_3_hurt",
+      "speaker": "beebee",
+      "text": "I'm sorry.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-025f133e8600",
+      "scene": "act3",
+      "section": "act3_good_4",
+      "speaker": "hong",
+      "text": "Yeah, well, this was a dumb idea anyway.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-27398aa97907",
+      "scene": "act3",
+      "section": "act3_good_4",
+      "speaker": "hong",
+      "text": "I only did this to mess you up, and, well, I messed you up.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-b24e1868b72c",
+      "scene": "act3",
+      "section": "act3_good_4",
+      "speaker": "hong",
+      "text": "Let's just call this round a tie, okay?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-a67089e63ae7",
+      "scene": "act3",
+      "section": "act3_good_4",
+      "speaker": "beebee",
+      "text": "Okay.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-cc97346a9463",
+      "scene": "act3",
+      "section": "act3_good_4",
+      "speaker": "hong",
+      "text": "Okay.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-57c10f838fd0",
+      "scene": "act3",
+      "section": "act3_good_4",
+      "speaker": "narrator",
+      "text": "TIE",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-8b39edb0e876",
+      "scene": "act3",
+      "section": "act3_walkaway",
+      "speaker": "hunter",
+      "text": "Oh come on. After all that animal's done to you, you're just giving up?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-2caea7cce945",
+      "scene": "act3",
+      "section": "act3_walkaway",
+      "speaker": "hunter",
+      "text": "What's the matter, kid? Are you scared?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-baa024e68ed2",
+      "scene": "act3",
+      "section": "act3_walkaway",
+      "speaker": "hong",
+      "text": "Yes.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-f2c13ff19e80",
+      "scene": "act3",
+      "section": "act3_walkaway",
+      "speaker": "hong",
+      "text": "I'm scared.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-d5c9cfaabf8b",
+      "scene": "act3",
+      "section": "act3_walkaway",
+      "speaker": "hong",
+      "text": "And that's okay!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-72aa29116345",
+      "scene": "act3",
+      "section": "act3_walkaway",
+      "speaker": "hong",
+      "text": "It's okay to be scared.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-6934782658e0",
+      "scene": "act3",
+      "section": "act3_walkaway",
+      "speaker": "hunter",
+      "text": "Did they just lock the door?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-3f8619135f59",
+      "scene": "act3",
+      "section": "act3_jump",
+      "speaker": "beebee",
+      "text": "no...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-47c6e16807cf",
+      "scene": "act3",
+      "section": "act3_jump",
+      "speaker": "beebee",
+      "text": "no no no",
+      "emotion": "auto"
+    },
+    {
+      "id": "act3-3a0a22a9bfc1",
+      "scene": "act3",
+      "section": "act3_jump",
+      "speaker": "beebee",
+      "text": "NO!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-924bb7ed0c17",
+      "scene": "act4",
+      "section": "act4",
+      "speaker": "narrator",
+      "text": "(game auto-saved)",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-a90fe189bb8c",
+      "scene": "act4",
+      "section": "act4",
+      "speaker": "hong",
+      "text": "sigh",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-3cfc49eba797",
+      "scene": "act4",
+      "section": "act4",
+      "speaker": "hong",
+      "text": "So what the hell was the moral of this story?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-19c4c133dde6",
+      "scene": "act4",
+      "section": "act4",
+      "speaker": "hong",
+      "text": "What did we even learn? I was being stupid, my \"friends\" were using me, and we almost frickin' died.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-bec6a3d6b446",
+      "scene": "act4",
+      "section": "act4a_bill",
+      "speaker": "hong",
+      "text": "Right. I don't think my insurance plan covers \"being a dumbass\".",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-ef040ae294d0",
+      "scene": "act4",
+      "section": "act4a_bill",
+      "speaker": "beebee",
+      "text": "And yet... we survived!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-7685dcb95f42",
+      "scene": "act4",
+      "section": "act4a_liver",
+      "speaker": "beebee",
+      "text": "We definitely shaved a few years off our life expectancy...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-3e6a1eec276c",
+      "scene": "act4",
+      "section": "act4a_liver",
+      "speaker": "beebee",
+      "text": "But at least we still have a life expectancy! We survived!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-5dc44e81528d",
+      "scene": "act4",
+      "section": "act4a_worst",
+      "speaker": "beebee",
+      "text": "And yet...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-ae7dada7d84c",
+      "scene": "act4",
+      "section": "act4a_worst",
+      "speaker": "hong",
+      "text": "Hm?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-76f211629dd2",
+      "scene": "act4",
+      "section": "act4a_worst",
+      "speaker": "beebee",
+      "text": "We survived!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-9843426f7b9c",
+      "scene": "act4",
+      "section": "act4a_right",
+      "speaker": "beebee",
+      "text": "But... you were right, too.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-d4c69557a005",
+      "scene": "act4",
+      "section": "act4a_right",
+      "speaker": "hong",
+      "text": "Hm?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-590e519cf457",
+      "scene": "act4",
+      "section": "act4a_right",
+      "speaker": "beebee",
+      "text": "I was the wolf who cried wolf. So when actual danger came, you – justifiably – didn't believe me.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-e9b189dbfc7f",
+      "scene": "act4",
+      "section": "act4a_right",
+      "speaker": "beebee",
+      "text": "And yet, we survived!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-ada0d09fb4bd",
+      "scene": "act4",
+      "section": "act4b",
+      "speaker": "beebee",
+      "text": "Despite everything, we're still here.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-8ff0db14c29d",
+      "scene": "act4",
+      "section": "act4b",
+      "speaker": "hong",
+      "text": "You seem pretty calm considering we just had a near-death experience.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-08e2532f7b36",
+      "scene": "act4",
+      "section": "act4b",
+      "speaker": "hong",
+      "text": "You seem pretty calm considering we just had a near-near-death experience.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-d2a4ca57aa87",
+      "scene": "act4",
+      "section": "act4b",
+      "speaker": "beebee",
+      "text": "Well, it makes everything else less scary in comparison. It's also got me thinking.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-85c5bc2df1d9",
+      "scene": "act4",
+      "section": "act4b",
+      "speaker": "beebee",
+      "text": "If me fighting you sucks, because it doesn't protect you...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-c8c5e6285c6d",
+      "scene": "act4",
+      "section": "act4b",
+      "speaker": "hong",
+      "text": "But me fighting you also sucks, because it just makes you yell louder...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-39fa6a8b1429",
+      "scene": "act4",
+      "section": "act4b",
+      "speaker": "beebee",
+      "text": "Then maybe...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b244ea92fc52",
+      "scene": "act4",
+      "section": "act4b",
+      "speaker": "hong",
+      "text": "Maybe we don't have to fight.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-929577eaabaf",
+      "scene": "act4",
+      "section": "act4b_2",
+      "speaker": "beebee",
+      "text": "I'm not a Big Bad Wolf. But I'm not a guard-wolf either.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-4624bdfc152c",
+      "scene": "act4",
+      "section": "act4b_2",
+      "speaker": "beebee",
+      "text": "I'm a battered shelter dog.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-87e3548db1c1",
+      "scene": "act4",
+      "section": "act4b_2",
+      "speaker": "beebee",
+      "text": "We've been through rough stuff. Maybe trauma or neglect. That's why I sometimes over-react and go:",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-eb9c3c34c16a",
+      "scene": "act4",
+      "section": "act4b_2",
+      "speaker": "beebee",
+      "text": "YAP YAP YAP YAP YAP",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-9d82d6a16e65",
+      "scene": "act4",
+      "section": "act4b_2",
+      "speaker": "beebee",
+      "text": "But I don't want to be a cowardly dog! I want to protect you! I want to be a good dog!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-24240b860339",
+      "scene": "act4",
+      "section": "act4b_2",
+      "speaker": "beebee",
+      "text": "Human... will you help tame this wolf?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b87a7d47dfba",
+      "scene": "act4",
+      "section": "act4b_2",
+      "speaker": "hong",
+      "text": "I... I'll try.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-3776252962e1",
+      "scene": "act4",
+      "section": "act4b_2",
+      "speaker": "hong",
+      "text": "Okay. Healthy relationship with emotions. Relationships need communication. So, let's communicate.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-3e9edeb407da",
+      "scene": "act4",
+      "section": "act4b_2",
+      "speaker": "hong",
+      "text": "The next five minutes are going to sound super cheesy, but let's fake it 'til we make it.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-258d87e02b54",
+      "scene": "act4",
+      "section": "act4b_2",
+      "speaker": "hong",
+      "text": "Dear inner wolf... how are you feeling?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-7d57815253f2",
+      "scene": "act4",
+      "section": "act4b_2",
+      "speaker": "narrator",
+      "text": "TOTAL FEARS USED:",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-013806c44342",
+      "scene": "act4",
+      "section": "act4b_2",
+      "speaker": "narrator",
+      "text": "HARMED {{_.attackharmtotal}}, UNLOVED {{_.attackalonetotal}}, BAD PERSON {{_.attackbadtotal}}",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-81053bd61e02",
+      "scene": "act4",
+      "section": "act4b_2",
+      "speaker": "narrator",
+      "text": "WHAT FEAR DO YOU WANT TO TALK ABOUT FIRST? (YOU CAN DO THE OTHERS LATER)",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-015218d792a5",
+      "scene": "act4",
+      "section": "act4_harm",
+      "speaker": "beebee",
+      "text": "I want to protect your need for physical safety,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-6ea6b2268096",
+      "scene": "act4",
+      "section": "act4_harm",
+      "speaker": "beebee",
+      "text": "But the whole world seems so dangerous. So full of tragedy and evil.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-bd52a10a63ec",
+      "scene": "act4",
+      "section": "act4_harm",
+      "speaker": "beebee",
+      "text": "I dunno, enough of me choosing what to say next. What do you say, human?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b949c5196d45",
+      "scene": "act4",
+      "section": "act4_harm",
+      "speaker": "beebee",
+      "text": "Again, back to you, human. What do you think?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-cfe01d3ff273",
+      "scene": "act4",
+      "section": "act4_harm",
+      "speaker": "beebee",
+      "text": "More thoughts, human?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-71cd37f1d6d7",
+      "scene": "act4",
+      "section": "act4_harm_skills",
+      "speaker": "beebee",
+      "text": "But... how? I have fangs and claws, but I'm just a metaphor.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-e0c0bb7da736",
+      "scene": "act4",
+      "section": "act4_harm_skills",
+      "speaker": "hong",
+      "text": "We could learn self-defense? Join a community that protects each other? Improve our general health & personal boundaries?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b2a64dc020c0",
+      "scene": "act4",
+      "section": "act4_harm_skills",
+      "speaker": "beebee",
+      "text": "Maybe, but...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-37900d85bd1e",
+      "scene": "act4",
+      "section": "act4_harm_skills_start",
+      "speaker": "beebee",
+      "text": "There's so much to do, so much we need to fix about ourselves. What do we even begin with?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-f92f49d6dfe7",
+      "scene": "act4",
+      "section": "act4_harm_skills_start",
+      "speaker": "hong",
+      "text": "We're beginning right now.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-89c6c2a1bc90",
+      "scene": "act4",
+      "section": "act4_harm_skills_start",
+      "speaker": "beebee",
+      "text": "Eh?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-face1f330727",
+      "scene": "act4",
+      "section": "act4_harm_skills_start",
+      "speaker": "hong",
+      "text": "We're practicing good communication right now. Which will help us detect danger better, with fewer false positives,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-eabb26407e5b",
+      "scene": "act4",
+      "section": "act4_harm_skills_start",
+      "speaker": "hong",
+      "text": "And that will help protect us from harm!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-70f3817867b0",
+      "scene": "act4",
+      "section": "act4_harm_skills_start",
+      "speaker": "hong",
+      "text": "Therefore: this is self-defense training.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-d089d36754da",
+      "scene": "act4",
+      "section": "act4_harm_skills_start",
+      "speaker": "beebee",
+      "text": "Huh. I was expecting more of this:",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-cd24513a512f",
+      "scene": "act4",
+      "section": "act4_harm_skills_work",
+      "speaker": "hong",
+      "text": "True, there's no way to 100% protect ourselves...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-85d76da24e04",
+      "scene": "act4",
+      "section": "act4_harm_skills_work",
+      "speaker": "hong",
+      "text": "But even a 1% improvement is still worth something, right?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-a6c60b7b9947",
+      "scene": "act4",
+      "section": "act4_harm_skills_work",
+      "speaker": "beebee",
+      "text": "You're seeing the glass as not 99% empty, but 1% full?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-85f57b71f282",
+      "scene": "act4",
+      "section": "act4_harm_skills_work",
+      "speaker": "hong",
+      "text": "Which is still worth something if you're stranded in the desert.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-25fcf8571086",
+      "scene": "act4",
+      "section": "act4_harm_skills_work",
+      "speaker": "beebee",
+      "text": "Well. Bottoms up, then.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-f2add4920588",
+      "scene": "act4",
+      "section": "act4_harm_skills_overboard",
+      "speaker": "beebee",
+      "text": "I mean, the whole reason you ignored my warnings was because I went overboard with safety!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-4424c3e577f5",
+      "scene": "act4",
+      "section": "act4_harm_skills_overboard",
+      "speaker": "hong",
+      "text": "Naw, you're right. We would want to do safety in moderation. Everything in moderation.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b44896db5e0e",
+      "scene": "act4",
+      "section": "act4_harm_skills_overboard",
+      "speaker": "beebee",
+      "text": "Sorry, EVERYTHING in moderation?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-6a4217f7a53b",
+      "scene": "act4",
+      "section": "act4_harm_skills_overboard",
+      "speaker": "hong",
+      "text": "A moderate number of things in moderation.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b41e78d15404",
+      "scene": "act4",
+      "section": "act4_harm_skills_overboard",
+      "speaker": "beebee",
+      "text": "Thank you for making your statements recursively self-consistent.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-fac67da76265",
+      "scene": "act4",
+      "section": "act4_harm_exposure",
+      "speaker": "beebee",
+      "text": "WHAT",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-8d9e432113f0",
+      "scene": "act4",
+      "section": "act4_harm_exposure",
+      "speaker": "hong",
+      "text": "I mean, let's say a dog is scared of thunder.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-0162432818db",
+      "scene": "act4",
+      "section": "act4_harm_exposure",
+      "speaker": "hong",
+      "text": "One trick trainers use is to play a recording of thunder at a low volume, then give the dog a treat for staying calm.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-c6e09de9116e",
+      "scene": "act4",
+      "section": "act4_harm_exposure",
+      "speaker": "hong",
+      "text": "Over several days, the trainer raises the volume bit by bit, until the dog has overcome their fear of thunder.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-3ce93f64c127",
+      "scene": "act4",
+      "section": "act4_harm_exposure",
+      "speaker": "hong",
+      "text": "It's called exposure therapy!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-d9e6bcf83c95",
+      "scene": "act4",
+      "section": "act4_harm_exposure",
+      "speaker": "hong",
+      "text": "Since you're a dog, it should work for you too, right? All mammals have the same fight-or-flight response.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-03b7f6ba487c",
+      "scene": "act4",
+      "section": "act4_harm_exposure_dog",
+      "speaker": "hong",
+      "text": "And I'll show you kindness and patience 'til you're domesticated into a cute lil' puppy.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b30f17532980",
+      "scene": "act4",
+      "section": "act4_harm_exposure_dog",
+      "speaker": "beebee",
+      "text": "D'aw.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-be56bff88779",
+      "scene": "act4",
+      "section": "act4_harm_exposure_overboard",
+      "speaker": "beebee",
+      "text": "We just saw what happens if you shut down your fear – you put yourself in actually dangerous situations.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-7d1e516be026",
+      "scene": "act4",
+      "section": "act4_harm_exposure_overboard",
+      "speaker": "beebee",
+      "text": "Besides, won't too much desensitization turn us into psychopaths?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b1de8f582eea",
+      "scene": "act4",
+      "section": "act4_harm_exposure_overboard",
+      "speaker": "beebee",
+      "text": "Soon we'll give ourselves treats while watching snuff murder porn!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b58b121ba5e2",
+      "scene": "act4",
+      "section": "act4_harm_exposure_overboard",
+      "speaker": "hong",
+      "text": "I... think there's a line between that and the thunder.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-69c336d0a5e9",
+      "scene": "act4",
+      "section": "act4_harm_exposure_overboard",
+      "speaker": "beebee",
+      "text": "But exactly where, human? Where?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-89ac509e402a",
+      "scene": "act4",
+      "section": "act4_harm_exposure_overboard",
+      "speaker": "hong",
+      "text": "I don't know. But you can help me!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-cc1524699264",
+      "scene": "act4",
+      "section": "act4_harm_exposure_overboard",
+      "speaker": "hong",
+      "text": "Working and negotiating with you, we'll draw that line.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-9044a1c6eb08",
+      "scene": "act4",
+      "section": "act4_harm_exposure_overboard",
+      "speaker": "beebee",
+      "text": "Okay. But I've got no opposable thumbs, so you have to do the drawing.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-202c9d96a7b0",
+      "scene": "act4",
+      "section": "act4_harm_exposure_hurt",
+      "speaker": "beebee",
+      "text": "For example: we jumped off a freaking roof!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b4ac4e00e674",
+      "scene": "act4",
+      "section": "act4_harm_exposure_hurt",
+      "speaker": "beebee",
+      "text": "For example: we almost jumped off a freaking roof!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-89acff76c7d4",
+      "scene": "act4",
+      "section": "act4_harm_exposure_hurt",
+      "speaker": "hong",
+      "text": "Nah you're right. One can go too far.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-9c4079e6038c",
+      "scene": "act4",
+      "section": "act4_harm_exposure_hurt",
+      "speaker": "hong",
+      "text": "But that's why, if we do exposure therapy, we'll start small, and make small steps upward.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-442e0bfcc76e",
+      "scene": "act4",
+      "section": "act4_harm_exposure_hurt",
+      "speaker": "hong",
+      "text": "Just before we hit actual danger, we stop.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-1d3f7ae945ee",
+      "scene": "act4",
+      "section": "act4_harm_exposure_hurt",
+      "speaker": "beebee",
+      "text": "Yeah I draw the line between hearing loud thunder, and standing in a storm with a tall pointy hat.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-64c27bf08988",
+      "scene": "act4",
+      "section": "act4_thanks_1",
+      "speaker": "beebee",
+      "text": "Wait, no arguments for or against what I'm feeling? Just... \"thank you\"?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-84471f0734a4",
+      "scene": "act4",
+      "section": "act4_thanks_1",
+      "speaker": "hong",
+      "text": "Yeah! Thank you for showing your concern for my {{_.thanks_for}}.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-045dd7a23ddc",
+      "scene": "act4",
+      "section": "act4_thanks_1",
+      "speaker": "hong",
+      "text": "You okay?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-9a600b0bf4b6",
+      "scene": "act4",
+      "section": "act4_thanks_1",
+      "speaker": "beebee",
+      "text": "You've never said thank you to me before.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-645226e4cde6",
+      "scene": "act4",
+      "section": "act4_thanks_1",
+      "speaker": "hong",
+      "text": "Aw you big fuzzy-wuzzy panic-wolf.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-625fe21972a6",
+      "scene": "act4",
+      "section": "act4_thanks_2",
+      "speaker": "hong",
+      "text": "Even if you over-react, I appreciate you looking out for my {{_.thanks_for}}.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-71b9d8f9ba74",
+      "scene": "act4",
+      "section": "act4_thanks_2",
+      "speaker": "beebee",
+      "text": "Wait... you're not just repeating \"thank you\" to avoid actually talking about these fears, are you?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-a548397abf92",
+      "scene": "act4",
+      "section": "act4_thanks_2",
+      "speaker": "hong",
+      "text": "Well, stuff's complicated, and I don't always have answers ready.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-bc32f24ef9d6",
+      "scene": "act4",
+      "section": "act4_thanks_2",
+      "speaker": "hong",
+      "text": "It's not like life gives you a list of 3 pre-made dialogue responses.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-fd20c9e4e0c0",
+      "scene": "act4",
+      "section": "act4_thanks_2",
+      "speaker": "hong",
+      "text": "But for now, I can at least say thanks.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-85e8802fc8c6",
+      "scene": "act4",
+      "section": "act4_thanks_2",
+      "speaker": "beebee",
+      "text": "Well, thank you too, for listening to me patiently.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-21e05cd42cf3",
+      "scene": "act4",
+      "section": "act4_thanks_2",
+      "speaker": "beebee",
+      "text": "You small hairless flesh-mammal.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-a619fea2ee9a",
+      "scene": "act4",
+      "section": "act4_thanks_3",
+      "speaker": "hong",
+      "text": "Even if your yapping scares me, you're simply trying to protect my {{_.thanks_for}}.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-e3d945fae569",
+      "scene": "act4",
+      "section": "act4_thanks_3",
+      "speaker": "beebee",
+      "text": "Okay, if you keep flattering me like this, the internet's gonna get some weird ideas about us.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-ded52cd37fd5",
+      "scene": "act4",
+      "section": "act4_thanks_3",
+      "speaker": "hong",
+      "text": "C'mon, I'm just a vulnerable college-age kid and you're a big, scary wolf. What's the worst that cou--",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-598cc4918584",
+      "scene": "act4",
+      "section": "act4_thanks_3",
+      "speaker": "hong",
+      "text": "Actually, do not answer that.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-1df876e3ffbd",
+      "scene": "act4",
+      "section": "act4_alone",
+      "speaker": "beebee",
+      "text": "I want to make sure you fulfil that deep, human need to belong...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-3ea2db200332",
+      "scene": "act4",
+      "section": "act4_alone",
+      "speaker": "beebee",
+      "text": "But I worry that if anyone ever knew us – the real us – we'd scare them all away.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-ede5a140e034",
+      "scene": "act4",
+      "section": "act4_alone",
+      "speaker": "beebee",
+      "text": "I dunno, enough of me choosing what to say next. What do you say, human?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-734b7ff09ef4",
+      "scene": "act4",
+      "section": "act4_alone",
+      "speaker": "beebee",
+      "text": "Again, back to you, human. What do you think?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-d807745a08d6",
+      "scene": "act4",
+      "section": "act4_alone",
+      "speaker": "beebee",
+      "text": "More thoughts, human?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-c1fb0f1dd56b",
+      "scene": "act4",
+      "section": "act4_alone_skills",
+      "speaker": "hong",
+      "text": "We could practice skills like asking questions, listening and empathizing, being open and vulnerable, etc?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-195883a70b5c",
+      "scene": "act4",
+      "section": "act4_alone_skills",
+      "speaker": "hong",
+      "text": "Or make better social habits, like scheduling time with friends or regularly going to meetups?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-ab4e264d8afe",
+      "scene": "act4",
+      "section": "act4_alone_skills",
+      "speaker": "hong",
+      "text": "Could also learn to get more comfortable with rejection.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-0378b1e31c81",
+      "scene": "act4",
+      "section": "act4_alone_skills",
+      "speaker": "hong",
+      "text": "Or learn to know when people aren't rejecting us, they're just tired or have Resting Bitch Face.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-dd5d1b029c08",
+      "scene": "act4",
+      "section": "act4_alone_skills",
+      "speaker": "beebee",
+      "text": "That's a lot of options. But, about \"learning social skills\"...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-70639b1c8f4d",
+      "scene": "act4",
+      "section": "act4_alone_skills_manipulative",
+      "speaker": "beebee",
+      "text": "Aren't serial killers who can read their victims' emotions great at \"empathy\"?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-72f8fa18c388",
+      "scene": "act4",
+      "section": "act4_alone_skills_manipulative",
+      "speaker": "beebee",
+      "text": "Didn't Charles Manson win friends and influence people?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-1fb5ad474309",
+      "scene": "act4",
+      "section": "act4_alone_skills_manipulative",
+      "speaker": "hong",
+      "text": "No, you're right.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-1920d10e3597",
+      "scene": "act4",
+      "section": "act4_alone_skills_manipulative",
+      "speaker": "hong",
+      "text": "\"Social skills\" mean nothing if we don't genuinely care for people.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-cd6f5cfc4ee9",
+      "scene": "act4",
+      "section": "act4_alone_skills_manipulative",
+      "speaker": "hong",
+      "text": "Basically, just don't be a dick.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-1386f05e5857",
+      "scene": "act4",
+      "section": "act4_alone_skills_manipulative",
+      "speaker": "beebee",
+      "text": "That's a motivational poster caption right there.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-5d7ceb4036b2",
+      "scene": "act4",
+      "section": "act4_alone_skills_manipulative",
+      "speaker": "hong",
+      "text": "“Don't Be A Dick™”",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-d12c065547ac",
+      "scene": "act4",
+      "section": "act4_alone_skills_manipulated",
+      "speaker": "beebee",
+      "text": "We'll become a Welcome doormat, saying Please and Thank You as people wipe their feet on us!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-bc0c3710f3ac",
+      "scene": "act4",
+      "section": "act4_alone_skills_manipulated",
+      "speaker": "beebee",
+      "text": "We'll kiss so much butt, it'll look like we're wearing brown lipstick!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-1f50ff65cd03",
+      "scene": "act4",
+      "section": "act4_alone_skills_manipulated",
+      "speaker": "hong",
+      "text": "Nah, you're right. \"Social skills\" can't be just about pleasing others, it's also got to be about setting boundaries.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-5e35489db904",
+      "scene": "act4",
+      "section": "act4_alone_skills_manipulated",
+      "speaker": "hong",
+      "text": "We can't invite others into our home, if we have no walls to hold up our home.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-930c9121234e",
+      "scene": "act4",
+      "section": "act4_alone_skills_manipulated",
+      "speaker": "hong",
+      "text": "Also... re: that lipstick mental image... ew??",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-4bd61c3eef89",
+      "scene": "act4",
+      "section": "act4_alone_skills_fail",
+      "speaker": "hong",
+      "text": "We might fail. Actually, we will fail.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-94713d72f767",
+      "scene": "act4",
+      "section": "act4_alone_skills_fail",
+      "speaker": "hong",
+      "text": "And that's fine! Failing is how anyone learns anything new at first!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-542ba8d3bcba",
+      "scene": "act4",
+      "section": "act4_alone_skills_fail",
+      "speaker": "hong",
+      "text": "So let's fail forward together, yeah?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-e3eebf78a558",
+      "scene": "act4",
+      "section": "act4_alone_skills_fail",
+      "speaker": "beebee",
+      "text": "Sure, I guess... worst-case scenario, we can just skip town and get a new identity.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-46ecf7274c7a",
+      "scene": "act4",
+      "section": "act4_alone_skills_fail",
+      "speaker": "hong",
+      "text": "Yeah I think that only costs two bitcoins these days.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-5380b20bfc6f",
+      "scene": "act4",
+      "section": "act4_alone_experiment",
+      "speaker": "hong",
+      "text": "We could try some experiments!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-6eaa49ad8705",
+      "scene": "act4",
+      "section": "act4_alone_experiment",
+      "speaker": "hong",
+      "text": "We could ping a friend to hang out, reconnect with an old pal, or even just chat with a barista.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-484c25ca8649",
+      "scene": "act4",
+      "section": "act4_alone_experiment",
+      "speaker": "hong",
+      "text": "I think we may find we're more likeable than we suspect.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b9cdb0971acf",
+      "scene": "act4",
+      "section": "act4_alone_experiment_real_us",
+      "speaker": "beebee",
+      "text": "If we put on a shallow smile, we'll never really connect with anyone,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-03b891f347c2",
+      "scene": "act4",
+      "section": "act4_alone_experiment_real_us",
+      "speaker": "beebee",
+      "text": "But if we open up, other people will see all our messed-up insides!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-25d889f88f7e",
+      "scene": "act4",
+      "section": "act4_alone_experiment_real_us",
+      "speaker": "hong",
+      "text": "Roll over.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-3f900aa211e3",
+      "scene": "act4",
+      "section": "act4_alone_experiment_real_us",
+      "speaker": "beebee",
+      "text": "What.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-770fc0ef7dd2",
+      "scene": "act4",
+      "section": "act4_alone_experiment_real_us",
+      "speaker": "hong",
+      "text": "When dogs want to show love and trust, they make themselves vulnerable by exposing their belly.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-5ab7904725fd",
+      "scene": "act4",
+      "section": "act4_alone_experiment_real_us",
+      "speaker": "hong",
+      "text": "Maybe we're not yet secure enough to be too vulnerable, but with enough training,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-8e61f9289456",
+      "scene": "act4",
+      "section": "act4_alone_experiment_real_us",
+      "speaker": "hong",
+      "text": "One day we can show people the real us – all messed-up, all human.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-3fc791784fb8",
+      "scene": "act4",
+      "section": "act4_alone_experiment_real_us",
+      "speaker": "beebee",
+      "text": "I'll roll over if you give me a treat.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-5f71bee2ec53",
+      "scene": "act4",
+      "section": "act4_alone_experiment_real_us",
+      "speaker": "hong",
+      "text": "No.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-82bc7cf4b5ce",
+      "scene": "act4",
+      "section": "act4_alone_experiment_cheap",
+      "speaker": "beebee",
+      "text": "Saying \"hi\" to the barista isn't exactly gold-medal performance in the Social Butterfly Olympics.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-9ed0c6d6e226",
+      "scene": "act4",
+      "section": "act4_alone_experiment_cheap",
+      "speaker": "hong",
+      "text": "It is for us!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-472e179f7c50",
+      "scene": "act4",
+      "section": "act4_alone_experiment_cheap",
+      "speaker": "hong",
+      "text": "In the social arena, we're not even featherweight class, we're like... quark-weight.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-0e43cb7289d8",
+      "scene": "act4",
+      "section": "act4_alone_experiment_cheap",
+      "speaker": "hong",
+      "text": "If we have to start with small, cheap wins, so be it. Gotta climb the 1st step before the 1000th step.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-92bb59b0ff7f",
+      "scene": "act4",
+      "section": "act4_alone_experiment_cheap",
+      "speaker": "beebee",
+      "text": "Yeah! Maybe after saying \"Hi\", we can advance to saying...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-f4611ec698e2",
+      "scene": "act4",
+      "section": "act4_alone_experiment_cheap",
+      "speaker": "beebee",
+      "text": "\"How are you?\"",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-d5cac1216288",
+      "scene": "act4",
+      "section": "act4_alone_experiment_cheap",
+      "speaker": "hong",
+      "text": "\"Not much!\"",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b5e0b6eac0e9",
+      "scene": "act4",
+      "section": "act4_alone_experiment_burden",
+      "speaker": "beebee",
+      "text": "Maybe the barista just wants to make some dang coffee, not be an experiment to see if our social skills suck.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-1ad6e90dba84",
+      "scene": "act4",
+      "section": "act4_alone_experiment_burden",
+      "speaker": "hong",
+      "text": "Well, if it turns out we are being a burden...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-43361d0fe01f",
+      "scene": "act4",
+      "section": "act4_alone_experiment_burden",
+      "speaker": "hong",
+      "text": "That's good to know, too!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-26ca047cf69c",
+      "scene": "act4",
+      "section": "act4_alone_experiment_burden",
+      "speaker": "hong",
+      "text": "We can then learn how to pro-actively ask people what they're comfortable with, to know and respect others' boundaries.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-9e5773496d63",
+      "scene": "act4",
+      "section": "act4_alone_experiment_burden",
+      "speaker": "hong",
+      "text": "Y'know, all that \"inter-personal skills\" crap we see in counselor brochures.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-dd279b9288c9",
+      "scene": "act4",
+      "section": "act4_bad",
+      "speaker": "beebee",
+      "text": "I want to defend your moral needs, that drive to become a better person,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-335544b2eb9f",
+      "scene": "act4",
+      "section": "act4_bad",
+      "speaker": "beebee",
+      "text": "But it just feels like deep down, we're so fundamentally... broken.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-5d18a20f9fcd",
+      "scene": "act4",
+      "section": "act4_bad",
+      "speaker": "beebee",
+      "text": "And don't tell me we're not messed up. We jumped off a roof.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-de53901b9989",
+      "scene": "act4",
+      "section": "act4_bad",
+      "speaker": "beebee",
+      "text": "And don't tell me we're not messed up. We almost jumped off a roof.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-78aed05fae3f",
+      "scene": "act4",
+      "section": "act4_bad",
+      "speaker": "beebee",
+      "text": "I dunno, enough of me choosing what to say next. What do you say, human?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-ec4970fd81ce",
+      "scene": "act4",
+      "section": "act4_bad",
+      "speaker": "beebee",
+      "text": "Again, back to you, human. What do you think?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-a090606cbe0b",
+      "scene": "act4",
+      "section": "act4_bad",
+      "speaker": "beebee",
+      "text": "More thoughts, human?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-e7537b4609ae",
+      "scene": "act4",
+      "section": "act4_bad_fix",
+      "speaker": "hong",
+      "text": "We could slowly build better habits, get our life more in line with what we value,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b198b1fa541d",
+      "scene": "act4",
+      "section": "act4_bad_fix",
+      "speaker": "hong",
+      "text": "And if needed, we could get professional help – a therapist or counsellor.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-5aed3c9d1824",
+      "scene": "act4",
+      "section": "act4_bad_fix",
+      "speaker": "hong",
+      "text": "There's ways to fix us.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-14ec908c3cb0",
+      "scene": "act4",
+      "section": "act4_bad_fix_cant",
+      "speaker": "hong",
+      "text": "Nah, I guess you're right.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-098c12b58e97",
+      "scene": "act4",
+      "section": "act4_bad_fix_cant",
+      "speaker": "hong",
+      "text": "We can't fix it all.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b9fa329b43ec",
+      "scene": "act4",
+      "section": "act4_bad_fix_cant",
+      "speaker": "beebee",
+      "text": "Ahhh I knew it we'll always be broken!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-6ef36673b8d3",
+      "scene": "act4",
+      "section": "act4_bad_fix_cant",
+      "speaker": "hong",
+      "text": "But we can at least be less broken.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-c637f351cf96",
+      "scene": "act4",
+      "section": "act4_bad_fix_cant",
+      "speaker": "hong",
+      "text": "Scars heal with time, but they never go away. And that's okay.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-6f68a0f42baa",
+      "scene": "act4",
+      "section": "act4_bad_fix_cant",
+      "speaker": "beebee",
+      "text": "I guess. Besides,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-74a27c58f51b",
+      "scene": "act4",
+      "section": "act4_bad_fix_cant",
+      "speaker": "beebee",
+      "text": "Scars are sexy.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-5df895c831fc",
+      "scene": "act4",
+      "section": "act4_bad_fix_cant",
+      "speaker": "hong",
+      "text": "Please do not do that.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-8df8a98239b8",
+      "scene": "act4",
+      "section": "act4_bad_fix_too_much",
+      "speaker": "beebee",
+      "text": "This feels sick to admit, but... some part of me wants to have this disorder.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-d9f4bdcd3a4e",
+      "scene": "act4",
+      "section": "act4_bad_fix_too_much",
+      "speaker": "beebee",
+      "text": "I mean, without it, won't we be boring?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-2ef4ec685722",
+      "scene": "act4",
+      "section": "act4_bad_fix_too_much",
+      "speaker": "beebee",
+      "text": "Without the disorder, won't our art become stale and bland?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-49eb22e666ec",
+      "scene": "act4",
+      "section": "act4_bad_fix_too_much",
+      "speaker": "beebee",
+      "text": "Without the disorder, won't we be unable to connect with our friends who have the disorder?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-c78432429fbb",
+      "scene": "act4",
+      "section": "act4_bad_fix_too_much",
+      "speaker": "beebee",
+      "text": "If we're ever content with life, won't we stop driving ourselves to do great things?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-561fb1f7966d",
+      "scene": "act4",
+      "section": "act4_bad_fix_too_much",
+      "speaker": "hong",
+      "text": "If we even fear... \"running out of fears\"...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-6b48bff6d39e",
+      "scene": "act4",
+      "section": "act4_bad_fix_too_much",
+      "speaker": "hong",
+      "text": "I don't think we're gonna run out of fears.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-d89466979c35",
+      "scene": "act4",
+      "section": "act4_bad_fix_too_much",
+      "speaker": "beebee",
+      "text": "Oh, yeah! Whew! What a relief!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-12ada34b1925",
+      "scene": "act4",
+      "section": "act4_bad_fix_afford",
+      "speaker": "beebee",
+      "text": "\"Doc, I'm anxious that I'm paying $100/hr just to hear you ask how does that make you feel?\"",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-dff441558721",
+      "scene": "act4",
+      "section": "act4_bad_fix_afford",
+      "speaker": "beebee",
+      "text": "\"Mm-hmm. And how does that make you feel?\"",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-426a8e266520",
+      "scene": "act4",
+      "section": "act4_bad_fix_afford",
+      "speaker": "hong",
+      "text": "Nah, that's a totally reasonable worry.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-6c846db25ea5",
+      "scene": "act4",
+      "section": "act4_bad_fix_afford",
+      "speaker": "hong",
+      "text": "And it genuinely sucks that mental healthcare isn't affordable for lots of folks.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-7482366208c4",
+      "scene": "act4",
+      "section": "act4_bad_fix_afford",
+      "speaker": "hong",
+      "text": "Still, there are some cheap or free options:",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-f7989d648add",
+      "scene": "act4",
+      "section": "act4_bad_fix_afford",
+      "speaker": "hong",
+      "text": "Support groups, online therapy, student/non-profit health centers...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-d66620a65d20",
+      "scene": "act4",
+      "section": "act4_bad_fix_afford",
+      "speaker": "hong",
+      "text": "Building habits like meditation, sleeping well, chatting regularly with friends, learning new things...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-d30225f2bae0",
+      "scene": "act4",
+      "section": "act4_bad_fix_afford",
+      "speaker": "hong",
+      "text": "Going to a library to borrow workbooks for evidence-based psychotherapies...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-ee79203420a2",
+      "scene": "act4",
+      "section": "act4_bad_fix_afford",
+      "speaker": "hong",
+      "text": "There's a full list of resources at the end of this game!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-035ada3d42b8",
+      "scene": "act4",
+      "section": "act4_bad_fix_afford",
+      "speaker": "beebee",
+      "text": "Well that fourth wall didn't last long.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-4bdf6fcdccea",
+      "scene": "act4",
+      "section": "act4_bad_fix_afford",
+      "speaker": "hong",
+      "text": "Some things are more important than narrative convention. Such as mental health.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-488d793b884e",
+      "scene": "act4",
+      "section": "act4_bad_accept",
+      "speaker": "hong",
+      "text": "I mean, that's what therapists say right? Accept all your emotions, even the negative ones?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-373cfb7610e1",
+      "scene": "act4",
+      "section": "act4_bad_accept",
+      "speaker": "beebee",
+      "text": "Wait.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-503bd1fec1f6",
+      "scene": "act4",
+      "section": "act4_bad_accept_give_up",
+      "speaker": "beebee",
+      "text": "Do you think Martin Luther King would've said, \"Shucks we can't sit in the front of the bus, let's just accept it?\"",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-dd95d75f9f35",
+      "scene": "act4",
+      "section": "act4_bad_accept_give_up",
+      "speaker": "beebee",
+      "text": "Why does the Self-Help Industrial Complex think waving the white flag is some profound wisdom?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-c53f27944850",
+      "scene": "act4",
+      "section": "act4_bad_accept_give_up",
+      "speaker": "hong",
+      "text": "I think therapists mean \"accept\" bad things as in: acknowledging they exist and are hard to change,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-6cf73eee6654",
+      "scene": "act4",
+      "section": "act4_bad_accept_give_up",
+      "speaker": "hong",
+      "text": "But not necessarily giving up a commitment to change.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-1a376bf7aa45",
+      "scene": "act4",
+      "section": "act4_bad_accept_give_up",
+      "speaker": "beebee",
+      "text": "Then therapists should say acknowledge, not accept.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-28700bc67f58",
+      "scene": "act4",
+      "section": "act4_bad_accept_give_up",
+      "speaker": "hong",
+      "text": "Yeah come to think of it, \"accept\" is kinda confusing.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-5fd28d37a7d9",
+      "scene": "act4",
+      "section": "act4_bad_accept_give_up",
+      "speaker": "beebee",
+      "text": "Well, I acknowledge that.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-586e0d38996b",
+      "scene": "act4",
+      "section": "act4_bad_accept_approve",
+      "speaker": "beebee",
+      "text": "Like it's good that we're broken or something? No!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-cc305e72e3bc",
+      "scene": "act4",
+      "section": "act4_bad_accept_approve",
+      "speaker": "beebee",
+      "text": "All those dang Hollywood screenwriters who romanticize mental illness are full of crud!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-ca4e04b55b08",
+      "scene": "act4",
+      "section": "act4_bad_accept_approve",
+      "speaker": "beebee",
+      "text": "Having a mental disorder sucks! It robs people of lives! Why should we \"accept\" that?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-2e7e7e94b0d7",
+      "scene": "act4",
+      "section": "act4_bad_accept_approve",
+      "speaker": "hong",
+      "text": "I think therapists mean \"accept\" our emotions as in: be patient with them.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b675ca5d4553",
+      "scene": "act4",
+      "section": "act4_bad_accept_approve",
+      "speaker": "hong",
+      "text": "Like how struggling in quicksand makes you sink faster, and the solution is to patiently lie flat,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-83625f016974",
+      "scene": "act4",
+      "section": "act4_bad_accept_approve",
+      "speaker": "hong",
+      "text": "Fighting against you, my fear, led me to jump off a roof.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-7ede60926cdd",
+      "scene": "act4",
+      "section": "act4_bad_accept_approve",
+      "speaker": "hong",
+      "text": "Fighting against you, my fear, almost led me to jump off a roof.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-f94eb6c09b6f",
+      "scene": "act4",
+      "section": "act4_bad_accept_approve",
+      "speaker": "hong",
+      "text": "Instead, the solution is to do what we're doing now – not to fight, but to patiently be with each other.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-f07685f5a01f",
+      "scene": "act4",
+      "section": "act4_bad_accept_approve",
+      "speaker": "beebee",
+      "text": "Then they should say that instead of some problematic word like \"accept\".",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-f2c230ec47ce",
+      "scene": "act4",
+      "section": "act4_bad_accept_approve",
+      "speaker": "hong",
+      "text": "Yeah come to think of it, \"accept\" kind of sucks.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-f58e977864b1",
+      "scene": "act4",
+      "section": "act4_bad_accept_approve",
+      "speaker": "beebee",
+      "text": "I do not accept \"accept\".",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-795d9ad812d7",
+      "scene": "act4",
+      "section": "act4_bad_accept_literally",
+      "speaker": "beebee",
+      "text": "But we already know you shouldn't take me literally!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-73573b99bce1",
+      "scene": "act4",
+      "section": "act4_bad_accept_literally",
+      "speaker": "beebee",
+      "text": "The whole problem is that I want to help you, but I suck at using words to do so!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-8f6534b16ab0",
+      "scene": "act4",
+      "section": "act4_bad_accept_literally",
+      "speaker": "hong",
+      "text": "I think therapists mean \"accept\" your emotions as in: \"don't fight or ignore them.\"",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-0557c9088f0a",
+      "scene": "act4",
+      "section": "act4_bad_accept_literally",
+      "speaker": "hong",
+      "text": "To listen to you, work with you, but not take what you say as 100% literal truth.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-f9ec5262ffc8",
+      "scene": "act4",
+      "section": "act4_bad_accept_literally",
+      "speaker": "beebee",
+      "text": "Then therapists should say that instead of some vague confusing word like \"accept\".",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-18a50fae7973",
+      "scene": "act4",
+      "section": "act4_bad_accept_literally",
+      "speaker": "hong",
+      "text": "I guess they suck at using words, too.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-75ab7bef0ac2",
+      "scene": "act4",
+      "section": "act4_something_else",
+      "speaker": "hong",
+      "text": "Anyway, anything else you wanna chat about?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-f44235a3ea46",
+      "scene": "act4",
+      "section": "act4_something_else",
+      "speaker": "hong",
+      "text": "So, anything else on your heavy heart?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-035065507da3",
+      "scene": "act4",
+      "section": "act4_something_else_2",
+      "speaker": "hong",
+      "text": "Okay, I think we've talked about all our fears now.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-934c5276af25",
+      "scene": "act4",
+      "section": "act4_something_else_2",
+      "speaker": "beebee",
+      "text": "Yes, there are only three fears.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-67acadf0e8d8",
+      "scene": "act4",
+      "section": "act4_something_else_2",
+      "speaker": "hong",
+      "text": "Yup, exactly three.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b531edb4c081",
+      "scene": "act4",
+      "section": "act4_something_else_2",
+      "speaker": "beebee",
+      "text": "Convenient.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-ea6fbb3adf95",
+      "scene": "act4",
+      "section": "act4c_prelude",
+      "speaker": "hong",
+      "text": "Good chat, team.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-3a7692bdbfd9",
+      "scene": "act4",
+      "section": "act4c",
+      "speaker": "beebee",
+      "text": "This isn't some game, you know.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-fed06f147f86",
+      "scene": "act4",
+      "section": "act4c",
+      "speaker": "beebee",
+      "text": "Building a healthy relationship with your emotions isn't as simple as clicking buttons on a screen.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-fe78f6d57509",
+      "scene": "act4",
+      "section": "act4c",
+      "speaker": "beebee",
+      "text": "Can we really get along?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-03313e087dc4",
+      "scene": "act4",
+      "section": "act4c",
+      "speaker": "beebee",
+      "text": "Can we work together, as a team?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-751eb6143e53",
+      "scene": "act4",
+      "section": "act4c",
+      "speaker": "hong",
+      "text": "Well,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b3ea1f84ddfe",
+      "scene": "act4",
+      "section": "act4c",
+      "speaker": "al",
+      "text": "E-excuse me...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-e7cfdaf1081b",
+      "scene": "act4",
+      "section": "act4d",
+      "speaker": "al",
+      "text": "W-wo-would you mind if I sat with you for lunch?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-cf4f0986a3ec",
+      "scene": "act4",
+      "section": "act4d",
+      "speaker": "shire",
+      "text": "This is your crush? Why are they sitting alone like a psycho serial killer?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-c8592d29f08f",
+      "scene": "act4",
+      "section": "act4d",
+      "speaker": "shire",
+      "text": "Asking your crush if you can sit with them? Do you know how needy we sound?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-c25c51407ede",
+      "scene": "act4",
+      "section": "act4d",
+      "speaker": "shire",
+      "text": "This is your crush? We interrupted their peace and quiet! We're such a burden!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-86c19e16f33a",
+      "scene": "act4",
+      "section": "act4d",
+      "speaker": "al",
+      "text": "I- I mean- it's, it's okay if not, I just...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-126ca83bb21b",
+      "scene": "act4",
+      "section": "act4d_recognition",
+      "speaker": "hong",
+      "text": "Yeah you were on the couch! At the first party I went to...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b15502f071cd",
+      "scene": "act4",
+      "section": "act4d_recognition",
+      "speaker": "hong",
+      "text": "Where I had that panic attack and punched the host.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-6fe8002c5cee",
+      "scene": "act4",
+      "section": "act4d_recognition",
+      "speaker": "hong",
+      "text": "Where I had that panic attack and ran out crying.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-d05682687cce",
+      "scene": "act4",
+      "section": "act4d_recognition",
+      "speaker": "beebee",
+      "text": "Hang on human, we may be making them uncomfortable.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-7735c463cf3e",
+      "scene": "act4",
+      "section": "act4d_recognition",
+      "speaker": "hong",
+      "text": "Ah, I don't mean to put you on the spot!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-f5ec3df42917",
+      "scene": "act4",
+      "section": "act4d_recognition",
+      "speaker": "hong",
+      "text": "Just remembering a friendly face, is all.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-f93b950e96b8",
+      "scene": "act4",
+      "section": "act4d_recognition",
+      "speaker": "shire",
+      "text": "AHHHHH I KNEW IT! THEY'RE A DANGEROUS PANIC-DRIVEN PSYCHO!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-4b259b9e3471",
+      "scene": "act4",
+      "section": "act4d_recognition",
+      "speaker": "shire",
+      "text": "AAHHH THE FIRST IMPRESSION WE MADE WAS \"WITNESSED MY TRAUMA\"! THAT MEANS THEY HATE US!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-c70a99b4a877",
+      "scene": "act4",
+      "section": "act4d_recognition",
+      "speaker": "shire",
+      "text": "AAAHHH WE MADE SOMEONE REMEMBER A TRAUMATIC EVENT. OUR MERE PRESENCE HURTS OTHERS.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-0cec34f03dd9",
+      "scene": "act4",
+      "section": "act4d_yes",
+      "speaker": "beebee",
+      "text": "Hang on human, they seem uncomfortable.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-cfb3704a21fa",
+      "scene": "act4",
+      "section": "act4d_yes",
+      "speaker": "hong",
+      "text": "Ah, no pressure of course!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-3184841ee005",
+      "scene": "act4",
+      "section": "act4d_yes",
+      "speaker": "hong",
+      "text": "Just saying, you can sit here if you want to.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-07b28aa4c14a",
+      "scene": "act4",
+      "section": "act4d_yes",
+      "speaker": "shire",
+      "text": "THEY'RE BEING TOO FRIENDLY! LIKE TED BUNDY, THE SERIAL KILLER!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-410af226f8a1",
+      "scene": "act4",
+      "section": "act4d_yes",
+      "speaker": "shire",
+      "text": "THEY'RE JUST ACTING NICE! NO ONE REALLY WANTS TO BE CLOSE TO US!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-f486d7ccadb0",
+      "scene": "act4",
+      "section": "act4d_yes",
+      "speaker": "shire",
+      "text": "AHHH WE ALWAYS MAKE OTHERS FEEL AWKWARD! WE'RE A STAIN UPON THE EARTH!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-7afd76ac5400",
+      "scene": "act4",
+      "section": "act4d_no",
+      "speaker": "beebee",
+      "text": "Hang on human, we may be making them uncomfortable.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-f70c728cf251",
+      "scene": "act4",
+      "section": "act4d_no",
+      "speaker": "hong",
+      "text": "Ah, I don't mean to be rude!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-e5949c56e571",
+      "scene": "act4",
+      "section": "act4d_no",
+      "speaker": "hong",
+      "text": "I just need some time to process my emotions. Please don't take it as a personal rejection.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-7ef913eb1686",
+      "scene": "act4",
+      "section": "act4d_no",
+      "speaker": "shire",
+      "text": "WHAT SICK, TWISTED THOUGHTS ARE THEY PROCESSING?! WHAT DARK DESIRES FILL THIS PSYCHO'S HEART?!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-59aa1b382863",
+      "scene": "act4",
+      "section": "act4d_no",
+      "speaker": "shire",
+      "text": "WE'VE BEEN PERSONALLY REJECTED! WE'LL NEVER BE LOVED!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-72491311f2d9",
+      "scene": "act4",
+      "section": "act4d_no",
+      "speaker": "shire",
+      "text": "WE INTERRUPTED THEIR EMOTIONAL PROCESSING! NOW THEY'LL BE TRAUMATIZED FOREVER AND IT'S ALL OUR FAULT!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-38874bec60cf",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "shire",
+      "text": "RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-fb5f92cf2204",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "hong",
+      "text": "Huh. That was weird. I wonder what was going on in their head.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-e561df220cee",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "hong",
+      "text": "Anyway, you were saying?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-5893bb8ad958",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "beebee",
+      "text": "Uh, I forget? Something about teams and work?",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-4035e4f829ed",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "beebee",
+      "text": "They say you should \"make peace\" with your emotions, as if your emotions are war criminals.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-7b992ea1f781",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "beebee",
+      "text": "But I want us to make more than mere peace! I want us to be allies!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-c22cbe8961cf",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "beebee",
+      "text": "I want to be a good guard-dog. Just like how hunger & thirst are alarms for your physical needs,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-e50b5d9edf8c",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "beebee",
+      "text": "I want to be the alarm for your psychological needs – your needs for safety, belonging, goodness.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-e3e930b77992",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "beebee",
+      "text": "But... I suck at my job, so I need you to train me.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-8e58a383d833",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "beebee",
+      "text": "I'm not \"always valid,\" nor \"always irrational.\" I'm just... trying my best. So, please,",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-d7ac84568d36",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "beebee",
+      "text": "Help me help you!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-16b894f22028",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "beebee",
+      "text": "Though, teaching an old dog new tricks will take a while. Maybe years.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-b1cab9fcbad7",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "beebee",
+      "text": "And sometimes I'll relapse, I'll slip into my old habits.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-c9585d182f09",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "beebee",
+      "text": "I'll bark at shadows. I'll scare you with words. I might even show you some intrusive images of... things.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-01a00a09c6da",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "beebee",
+      "text": "I'm sorry! I'm a battered shelter dog! Battered dogs poop on your bed sometimes!",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-a8f49e74b8ae",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "beebee",
+      "text": "But if you're patient with me... and just stay and sit with me...",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-546772f09532",
+      "scene": "act4",
+      "section": "act4e",
+      "speaker": "beebee",
+      "text": "Maybe you can tame this wolf.",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-c4413e4f0eff",
+      "scene": "act4",
+      "section": "act4f",
+      "speaker": "beebee",
+      "text": "AAAAA YOU'RE STILL EATING ALONE FIFTEEN CIGARETTES AAAAA",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-3c13511fee39",
+      "scene": "act4",
+      "section": "act4f",
+      "speaker": "beebee",
+      "text": "AAAAA YOU'RE STILL NOT PRODUCTIVE WHILE EATING WE'RE SOCIETY-PARASITES AAAAA",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-d5470cd0cf05",
+      "scene": "act4",
+      "section": "act4f",
+      "speaker": "beebee",
+      "text": "AAAAA YOU'RE EATING MORE WHITE BREAD AAAAA",
+      "emotion": "auto"
+    },
+    {
+      "id": "act4-86a53df4b69c",
+      "scene": "act4",
+      "section": "act4f",
+      "speaker": "beebee",
+      "text": "YAP YAP YAP YAP YAP",
+      "emotion": "auto"
+    }
+  ]
+}

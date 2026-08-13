@@ -39,6 +39,12 @@ Open <http://localhost:8080>, click inside the game once to grant microphone acc
 
 Never place a Vocal Bridge API key in client JavaScript. `server.mjs` exchanges it for a short-lived session token through `/api/voice-token`.
 
+## Hindi localization draft
+
+The [`localization`](localization) directory contains the extracted English source graph, a Hindi locale bible, and a complete machine-generated `hi-IN` catalog. The catalog preserves stable line IDs and game template variables, but every entry is deliberately marked `needs-review`; it is a translation-review artifact, not yet the text used by the playable build.
+
+The draft was generated through the Voice Accessibility SDK's Gemini provider and records the exact model used on every entry. A fluent Hindi narrative editor should review character voice, humor, profanity, gender/context, and choice clarity before entries are approved or applied to the game.
+
 ## Development
 
 ```bash

@@ -1,0 +1,19 @@
+{
+  "version": "hi-IN-v1",
+  "sourceLocale": "en-US",
+  "targetLocale": "hi-IN",
+  "adaptationMode": "localization",
+  "genre": "fantasy-adventure",
+  "audience": "young-adult",
+  "register": "natural conversational Hindi",
+  "script": "Devanagari",
+  "namePolicy": "preserve fictional names and provide pronunciation",
+  "choiceStyle": "short, direct, action-oriented",
+  "codeSwitching": "accept common English option words as STT aliases",
+  "culturalPolicy": {
+    "fictionalCanon": "preserve",
+    "idioms": "replace with a natural functional equivalent",
+    "plotCriticalCulture": "preserve and explain",
+    "incidentalRealWorldCulture": "review for analogous replacement"
+  }
+}
