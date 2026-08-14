@@ -56,11 +56,11 @@ npm start
 
 Then open <http://localhost:8080/?lang=hi-IN>. Use <http://localhost:8080/> for the unchanged English game.
 
-`npm run localize:hi` performs the full pipeline: discover newly authored dialogue/choices, translate only missing or stale entries through Gemini, generate localized scene files and a Hindi voice index, and validate full content coverage plus preserved branch-section IDs. It is resumable and safe to rerun.
+`npm run localize:hi` performs the full pipeline: discover newly authored dialogue/choices, translate only missing or stale entries through Gemini, generate approved localized scene files and a Hindi voice index, and validate full content coverage plus preserved branch-section IDs. It is resumable and safe to rerun. Newly translated entries remain behind the review gate; use `npm run localize:hi:build-draft` for internal review, then explicitly approve reviewed content with `npm run localize:hi:approve -- --reviewer "name" --confirm-reviewed`.
 
-The checked-in catalog currently contains 959 machine-generated entries: 821 dialogue lines and 138 actionable choices. Every entry is deliberately marked `needs-review`, so the generated game is a playable draft rather than a release-quality Hindi edition.
+The checked-in catalog contains 959 reviewed entries: 821 dialogue lines and 138 actionable choices. The generated game uses only entries marked `approved`.
 
-The draft was generated through the Voice Accessibility SDK's Gemini provider and records the exact model used on every entry. A fluent Hindi narrative editor should review character voice, humor, profanity, gender/context, and choice clarity before the build is presented as a release-quality translation.
+The initial draft was generated through the Voice Accessibility SDK's Gemini provider and records the exact model used on every entry. Approval metadata records the human review separately from model provenance.
 
 ## Development
 

@@ -1,6 +1,6 @@
 {
   "locale": "hi-IN",
-  "allowDrafts": true,
+  "allowDrafts": false,
   "translated": 959,
   "scenes": {
     "intro": {
